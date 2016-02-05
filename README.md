@@ -3,6 +3,11 @@ Podcast about Android Development
 
 >Why another podcast? -> Why not?
 
+###How to add a podcast to my podcast app?
+Podcast was submitted to iTunes and should be available there in a few days and also it'll automatically make it searcheble in many podcast apps.
+
+Until that you can simply use [direct link to the `rss` feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss).
+
 ###Show notes 
 Show notes for released episodes placed in [show_notes](show_notes/) directory, feel free to submit a PR!
 
@@ -18,9 +23,6 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 ###MP3 files
 MP3 files of the podcast can be found on the [releases page](https://github.com/artem-zinnatullin/TheContext-Podcast/releases) of the repository, also podcast should be discoverable via podcast apps like PocketCasts.
-
-###RSS Feed
-Here is the [link to rss feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss).
 
 ---
 Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin).
