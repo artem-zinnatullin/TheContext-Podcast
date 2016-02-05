@@ -22,7 +22,7 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 * Don't create `+1` overflow please 🐱
 
 ###MP3 files
-MP3 files of the podcast can be found on the [releases page](https://github.com/artem-zinnatullin/TheContext-Podcast/releases) of the repository, also podcast should be discoverable via podcast apps like PocketCasts.
+MP3 files of the podcast can be found on the [releases page](https://github.com/artem-zinnatullin/TheContext-Podcast/releases) of the repository, also podcast should be discoverable via podcast apps like PocketCasts as soon as iTunes will accept it.
 
 ---
 Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin).
