@@ -1,6 +1,12 @@
 # Episode 1: Architecture of modern Android apps
 
-**Guest:** Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com/)
+**Guest:** Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com/), [GitHub](https://github.com/sockeqwe/)
+
+Open Source projects from Hannes:
+* [Mosby](https://github.com/sockeqwe/mosby)
+* [SQLBrite-DAO](https://github.com/sockeqwe/sqlbrite-dao)
+* [FragmentArgs](https://github.com/sockeqwe/fragmentargs)
+* [ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease)
 
 In this episode we talked about software architecture on Android. We have covered:
 
