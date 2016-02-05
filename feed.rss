@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>The Context #androiddev</title>
+	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
+	<description>New Podcast about Android Development</description>
+	<language>en-us</language>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
+	<lastBuildDate>Thu, 04 Feb 2016 20:03:07 PST</lastBuildDate> 
+    <itunes:owner> 
+		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
+		<itunes:name>Artem Zinnatullin</itunes:name> 
+	</itunes:owner> 
+	<itunes:author>Artem Zinnatullin</itunes:author> 
+	<itunes:explicit>no</itunes:explicit> 
+	<itunes:keywords>android,androiddev,context,development,software</itunes:keywords>
+	<itunes:subtitle>New Android Developers Podcast</itunes:subtitle> 
+	<itunes:summary>The Context is a podcast about Android Development</itunes:summary> 
+	<itunes:category text="Technology"> 
+		<itunes:category text="Software How-To" /> 
+	</itunes:category> 
+
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
+		<title>Episode 1, Architecture of modern Android apps with Hannes Dorfmann</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</link>
+		<pubDate>Thu, 04 Feb 2016 20:04:07 PST</pubDate>
+		<description>We discuss architecture of modern Android apps, different styles and so on.</description>
+		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
+		<itunes:summary>We discuss architecture of modern Android apps, different styles and so on.</itunes:summary>
+	</item>
+</channel>
+</rss>
