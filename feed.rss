@@ -4,10 +4,11 @@
 	<title>The Context #androiddev</title>
 	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
 	<description>New Podcast about Android Development</description>
+	<image="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
 	<lastBuildDate>Thu, 04 Feb 2016 20:03:07 PST</lastBuildDate> 
-    <itunes:owner> 
+    	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
 	</itunes:owner> 
@@ -19,7 +20,6 @@
 	<itunes:category text="Technology"> 
 		<itunes:category text="Software How-To" /> 
 	</itunes:category> 
-	<itunes:imagehref="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
