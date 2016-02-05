@@ -1,6 +1,5 @@
 # Episode 1: Architecture of modern Android apps
 
-**Content:**
 In this episode we have talked about software architecture on Android. We have covered:
 
  - MVC
