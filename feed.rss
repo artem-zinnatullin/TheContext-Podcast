@@ -19,9 +19,7 @@
 	<itunes:category text="Technology"> 
 		<itunes:category text="Software How-To" /> 
 	</itunes:category> 
-	<image>
-		<url>https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png</url>	
-	</image>
+	<itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
 		<title>Episode 1, Architecture of modern Android apps with Hannes Dorfmann</title>
