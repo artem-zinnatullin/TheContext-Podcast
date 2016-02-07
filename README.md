@@ -3,10 +3,10 @@ Podcast about Android Development
 
 >Why another podcast? -> Why not?
 
-###How to add a podcast to my podcast app?
-Podcast was submitted to iTunes and should be available there in a few days and also it'll automatically make it searcheble in many podcast apps.
+##How to add a podcast to my podcast app?
+Podcast was submitted to iTunes and PocketCasts. **Best word to search** by is `#androiddev`.
 
-Until that you can simply use [direct link to the `rss` feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss).
+You can also use [direct link to the `rss` feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss) with any podcast player.
 
 ###Show notes 
 Show notes for released episodes placed in [show_notes](show_notes/) directory, feel free to submit a PR!
