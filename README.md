@@ -4,7 +4,7 @@ Podcast about Android Development
 >Why another podcast? -> Why not?
 
 ##How to add a podcast to my podcast app?
-Podcast was submitted to iTunes and PocketCasts. **Best word to search** by is `#androiddev`.
+Podcast was submitted to iTunes and [PocketCasts](http://pca.st/hYck). **Best word to search** by is `#androiddev`.
 
 You can also use [direct link to the `rss` feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss) with any podcast player.
 
