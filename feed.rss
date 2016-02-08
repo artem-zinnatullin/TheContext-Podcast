@@ -6,8 +6,8 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Thu, 04 Feb 2016 20:03:07 PST</lastBuildDate> 
-    	<itunes:owner> 
+	<lastBuildDate>Mon, 08 Feb 2016 07:53:07 PST</lastBuildDate> 
+	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
 	</itunes:owner> 
@@ -24,8 +24,48 @@
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
 		<title>Episode 1, Architecture of modern Android apps with Hannes Dorfmann</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</link>
+		<itunes:duration>57:55</itunes:duration>
 		<pubDate>Thu, 04 Feb 2016 20:04:07 PST</pubDate>
-		<description>We discuss architecture of modern Android apps, different styles and so on.</description>
+		<description>
+			<h1>Episode 1: Architecture of modern Android apps</h1>
+
+			<p>In this episode we have talked about software architecture on Android. We have covered:</p>
+			
+			<ul>
+				<li>MVC</li>
+				<li>MVVM</li>
+				<li>MVVMC</li>
+				<li>MVP</li>
+				<li><a href="https://facebook.github.io/flux/docs/overview.html">Flux</a></li>
+				<li><a href="http://cycle.js.org/">Cycle.js</a> (a.k.a. Model-View-Intent)</li>
+			</ul>
+			
+			<h4>Guest:</h4>
+			
+			<p>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com/">personal blog</a>, <a href="https://github.com/sockeqwe/">GitHub</a></p>
+			
+			<p>Open Source projects from Hannes:</p>
+			<ul>
+				<li><a href="https://github.com/sockeqwe/mosby">Mosby</a></li>
+				<li><a href="https://github.com/sockeqwe/sqlbrite-dao">SQLBrite-DAO</a></li>
+				<li><a href="https://github.com/sockeqwe/fragmentargs">FragmentArgs</a></li>
+				<li><a href="https://github.com/sockeqwe/ParcelablePlease">ParcelablePlease</a></li>
+			</ul>
+			<h4>Additional links</h4>
+			
+			<ul>
+				<li><a href="https://github.com/google/auto/issues/268">AutoValue split into 2 jars issue</a></li>
+				<li><a href="https://google.github.io/dagger/testing.html">Dagger 2 document about testing</a></li>
+				<li><a href="https://github.com/rheinfabrik/android-mvvm-example">Clean MVVM example</a></li>
+				<li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
+			</ul>
+
+			<h4>Host:</h4>
+			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a></p>
+
+			<h4>Discuss episode on GitHub!</h4>
+			<a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1">Released Episode 1, discussion: Architecture of modern Android apps with Hannes Dorfmann</a>
+		</description>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
 		<itunes:summary>We discuss architecture of modern Android apps, different styles and so on.</itunes:summary>
 	</item>
