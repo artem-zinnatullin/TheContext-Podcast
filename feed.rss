@@ -26,48 +26,48 @@
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</link>
 		<itunes:duration>57:55</itunes:duration>
 		<pubDate>Thu, 04 Feb 2016 20:04:07 PST</pubDate>
-		<description>
-			&lt;h1&gt;Episode 1: Architecture of modern Android apps&lt;/h1&gt;
-
-			&lt;p&gt;In this episode we have talked about software architecture on Android. We have covered:&lt;/p&gt;
-			
-			&lt;ul&gt;
-				&lt;li&gt;MVC&lt;/li&gt;
-				&lt;li&gt;MVVM&lt;/li&gt;
-				&lt;li&gt;MVVMC&lt;/li&gt;
-				&lt;li&gt;MVP&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://facebook.github.io/flux/docs/overview.html&quot;&gt;Flux&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;http://cycle.js.org/&quot;&gt;Cycle.js&lt;/a&gt; (a.k.a. Model-View-Intent)&lt;/li&gt;
-			&lt;/ul&gt;
-			
-			&lt;h4&gt;Guest:&lt;/h4&gt;
-			
-			&lt;p&gt;Hannes Dorfmann &lt;a href=&quot;https://twitter.com/sockeqwe&quot;&gt;@sockeqwe&lt;/a&gt;, &lt;a href=&quot;http://hannesdorfmann.com/&quot;&gt;personal blog&lt;/a&gt;, &lt;a href=&quot;https://github.com/sockeqwe/&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
-			
-			&lt;p&gt;Open Source projects from Hannes:&lt;/p&gt;
-			&lt;ul&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/sockeqwe/mosby&quot;&gt;Mosby&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/sockeqwe/sqlbrite-dao&quot;&gt;SQLBrite-DAO&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/sockeqwe/fragmentargs&quot;&gt;FragmentArgs&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/sockeqwe/ParcelablePlease&quot;&gt;ParcelablePlease&lt;/a&gt;&lt;/li&gt;
-			&lt;/ul&gt;
-			&lt;h4&gt;Additional links&lt;/h4&gt;
-			
-			&lt;ul&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/google/auto/issues/268&quot;&gt;AutoValue split into 2 jars issue&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://google.github.io/dagger/testing.html&quot;&gt;Dagger 2 document about testing&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/rheinfabrik/android-mvvm-example&quot;&gt;Clean MVVM example&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&quot;https://github.com/google/dagger/issues/298&quot;&gt;Gradle's incremental build issue with annotation processing&lt;/a&gt;&lt;/li&gt;
-			&lt;/ul&gt;
-
-			&lt;h4&gt;Host:&lt;/h4&gt;
-			&lt;p&gt;Artem Zinnatullin &lt;a href=&quot;https://twitter.com/artem_zin&quot;&gt;@artem_zin&lt;/a&gt;&lt;/p&gt;
-
-			&lt;h4&gt;Discuss episode on GitHub!&lt;/h4&gt;
-			&lt;a href=&quot;https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1&quot;&gt;Released Episode 1, discussion: Architecture of modern Android apps with Hannes Dorfmann&lt;/a&gt;
-		</description>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
-		<itunes:summary>We discuss architecture of modern Android apps, different styles and so on.</itunes:summary>
+		<itunes:summary>
+			In this episode we have talked about software architecture on Android.
+		</itunes:summary>
+		<content:encoded><![CDATA[
+			<h1>Episode 1: Architecture of modern Android apps</h1>
+
+			
+
+			<p>In this episode we have talked about software architecture on Android. We have covered:</p>
+			
+			<ul>
+				<li>MVC</li>
+				<li>MVVM</li>
+				<li>MVVMC</li>
+				<li>MVP</li>
+				<li><a href="https://facebook.github.io/flux/docs/overview.html">Flux</a></li>
+				<li><a href="http://cycle.js.org/">Cycle.js</a> (a.k.a. Model-View-Intent)</li>
+			</ul>
+			
+			<h4>Guest:</h4>
+			
+			<p>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com/">personal blog</a>, <a href="https://github.com/sockeqwe/">GitHub</a></p>
+			
+			<p>Open Source projects from Hannes:</p>
+			
+			<ul>
+				<li><a href="https://github.com/sockeqwe/mosby">Mosby</a></li>
+				<li><a href="https://github.com/sockeqwe/sqlbrite-dao">SQLBrite-DAO</a></li>
+				<li><a href="https://github.com/sockeqwe/fragmentargs">FragmentArgs</a></li>
+				<li><a href="https://github.com/sockeqwe/ParcelablePlease">ParcelablePlease</a></li>
+			</ul>
+			
+			<h4>Additional links</h4>
+			
+			<ul>
+				<li><a href="https://github.com/google/auto/issues/268">AutoValue split into 2 jars issue</a></li>
+				<li><a href="https://google.github.io/dagger/testing.html">Dagger 2 document about testing</a></li>
+				<li><a href="https://github.com/rheinfabrik/android-mvvm-example">Clean MVVM example</a></li>
+				<li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
+			</ul>
+		]]></content:encoded>	
 	</item>
 </channel>
 </rss>
