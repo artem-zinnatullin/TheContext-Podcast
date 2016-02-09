@@ -10,6 +10,6 @@ There're different schemes of recording podcast, I prefer next one:
 6. Create an issue for discussion.
 7. Create show notes on GitHub in markdown.
 8. Convert markdown to HTML, for example w/ [this tool](http://daringfireball.net/projects/markdown/dingus).
-9. Escape HTML, for example w/ [this tool](http://www.freeformatter.com/html-escape.html#ad-output).
+9. Escape HTML via `[[CDATA]]`.
 10. Post a PR with show notes and RSS feed update.
 11. Validate resulting RSS feed, for example w/ [this tool](http://castfeedvalidator.com)
