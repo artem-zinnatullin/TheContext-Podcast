@@ -1,5 +1,9 @@
 # Episode 2: Testing
 
+ - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17)
+
+
 In this episode we have talked about testing in Android Development. We have covered:
 
  - [Unit testing](https://en.wikipedia.org/wiki/Unit_testing)
