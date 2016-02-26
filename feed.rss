@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Fri, 26 Feb 2016 06:23:07 EST</lastBuildDate> 
+	<lastBuildDate>Fri, 26 Feb 2016 07:19:07 EST</lastBuildDate> 
 	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
@@ -32,9 +32,7 @@
 		<pubDate>Thu, 04 Feb 2016 20:04:07 PST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
 		<itunes:summary>
-			In this episode we have talked about software architecture on Android.
-		</itunes:summary>
-		<content:encoded><![CDATA[
+			<![CDATA[
 			<h1>Episode 1: Architecture of modern Android apps</h1>
 
 			
@@ -71,7 +69,8 @@
 				<li><a href="https://github.com/rheinfabrik/android-mvvm-example">Clean MVVM example</a></li>
 				<li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
 			</ul>
-		]]></content:encoded>	
+		]]>
+		</itunes:summary>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
