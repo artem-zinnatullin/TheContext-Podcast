@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Mon, 08 Feb 2016 12:37:07 PST</lastBuildDate> 
+	<lastBuildDate>Fri, 26 Feb 2016 06:23:07 EST</lastBuildDate> 
 	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
@@ -72,6 +72,62 @@
 				<li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
 			</ul>
 		]]></content:encoded>	
+	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
+		<title>Episode 2, Testing with Mike Evans</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</link>
+		<itunes:duration>1:42:01</itunes:duration>
+		<pubDate>Fri, 26 Feb 2016 06:25:07 EST</pubDate>
+		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[ 
+			<h1>Episode 2: Testing</h1>
+
+			<p>In this episode we have talked about testing in Android Development. We have covered:</p>
+			
+			<ul>
+				<li><a href="https://en.wikipedia.org/wiki/Unit_testing">Unit testing</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Integration_testing">Integration testing</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Functional_testing">Functional (UI) testing</a></li>
+				<li><a href="http://robolectric.org">Robolectric</a></li>
+				<li><a href="http://developer.android.com/tools/testing/testing_android.html#Instrumentation">Android Instrumentation API</a></li>
+				<li><a href="http://developer.android.com/tools/testing-support-library/index.html#UIAutomator">UI Automator</a></li>
+				<li><a href="http://developer.android.com/tools/testing-support-library/index.html#Espresso">Espresso</a></li>
+				<li><a href="https://github.com/RobotiumTech/robotium">Robotium</a></li>
+				<li><a href="http://appium.io">Appium</a></li>
+				<li><a href="http://junit.org">JUnit</a></li>
+				<li><a href="http://joel-costigliola.github.io/assertj/">AssertJ</a></li>
+				<li><a href="https://github.com/google/truth">Thruth</a></li>
+				<li><a href="https://github.com/spockframework/spock">Spock</a></li>
+				<li><a href="https://github.com/JetBrains/spek">Spek</a></li>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15">Questions asked by listeners</a>.</li>
+			</ul>
+			
+			<h4>Host:</h4>
+			
+			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
+			
+			<h4>Guest:</h4>
+			
+			<p>Mike Evans <a href="https://twitter.com/m_evans10">@m_evans10</a>, <a href="http://michaelevans.org">personal blog</a>, <a href="https://github.com/MichaelEvans">GitHub</a></p>
+			
+			<p>Open Source projects from Mike:</p>
+			
+			<ul>
+				<li><a href="https://github.com/MichaelEvans/Aftermath">Aftermath</a></li>
+				<li><a href="https://github.com/MichaelEvans/ColorArt">ColorArt</a> </li>
+			</ul>
+			
+			<p>Additional links:</p>
+			
+			<ul>
+				<li><a href="https://github.com/artem-zinnatullin/qualitymatters">#qualitymatters</a></li>
+				<li><a href="https://github.com/JakeWharton/u2020">U2020</a></li>
+				<li><a href="http://jakewharton.com/android-needs-a-simulator/">Android Needs A Simulator, Not An Emulator</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
 	</item>
 </channel>
 </rss>
