@@ -3,10 +3,14 @@ Podcast about Android Development
 
 >Why another podcast? -> Why not?
 
-##How to add a podcast to my podcast app?
-Podcast was submitted to iTunes and [PocketCasts](http://pca.st/hYck). **Best word to search** by is `#androiddev`.
+##Download & Subscribe
 
-You can also use [direct link to the `rss` feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss) with any podcast player.
+ - [Direct link to rss feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss)
+ - [PocketCasts](http://pca.st/hYck)
+ - [iTunes](https://pcr.apple.com/id1081726814) (at the moment podcast may not be playable from search but should work from direct link iTunes -> File -> Subscribe to podcast)
+ - [SoundCloud](https://soundcloud.com/groups/the-context-androiddev-podcast)
+ - [`mp3` files on GitHub releases](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
+ - Best word to search by is `#androiddev`
 
 ###Show notes 
 Show notes for released episodes placed in [show_notes](show_notes/) directory, feel free to submit a PR!
@@ -20,9 +24,6 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 * Please respect each other 🐱
 * Don't create `+1` overflow please 🐱
-
-###MP3 files
-MP3 files of the podcast can be found on the [releases page](https://github.com/artem-zinnatullin/TheContext-Podcast/releases) of the repository, also podcast should be discoverable via podcast apps like PocketCasts as soon as iTunes will accept it.
 
 ---
 Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin).
