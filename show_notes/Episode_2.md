@@ -40,3 +40,4 @@ Additional links:
  - [#qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)
  - [U2020](https://github.com/JakeWharton/u2020)
  - [Android Needs A Simulator, Not An Emulator](http://jakewharton.com/android-needs-a-simulator/)
+ - [minSdkVersion for multiDex without flavors](http://artemzin.com/blog/minsdk-without-flavors/)
