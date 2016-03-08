@@ -27,18 +27,17 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 ---
 
-Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin).
+Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin)
 
 ---
 
 ###Episodes
 
 #####Episode 1: Architecture of modern Android apps with [Hannes Dorfmann](https://twitter.com/sockeqwe)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md) .
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1).
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1)
 
-#####Episode 2: Episode 2: Testing with [Mike Evans](https://twitter.com/m_evans10)
-
+#####Episode 2: Testing with [Mike Evans](https://twitter.com/m_evans10)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md)
  - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17)
