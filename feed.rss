@@ -128,5 +128,41 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
+		<title>Episode 3, Part 1: RxJava with its core developer David Karnok</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</link>
+		<itunes:duration>44:12</itunes:duration>
+		<pubDate>Wed, 9 March 2016 00:00:07 EST</pubDate>
+		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3" length="63658598" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[ 
+			<h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
+			<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24">Discussion before the episode</a></li>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
+			</ul>
+			
+			<p>In this part of the episode we have talked about RxJava. We have covered:</p>
+			
+			<ul>
+				<li>Past of RxJava</li>
+				<li>Background of David Karnok and his earlier implementation of Reactive Extensions for JVM</li>
+				<li>Current state of the RxJava development</li>
+				<li>Reactive Streams specification</li>
+				<li>JDK 9 Flow API</li>
+				<li>RxJava v2 and Android compatibility</li>
+			</ul>
+			
+			<h4>Host:</h4>
+			
+			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
+			
+			<h4>Guest:</h4>
+			
+			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
