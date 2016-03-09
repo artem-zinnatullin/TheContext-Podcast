@@ -41,3 +41,8 @@ Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md)
  - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17)
+
+#####Episode 3, Part 1: RxJava with its core developer [David Karnok](https://twitter.com/akarnokd)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md)
+ - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
