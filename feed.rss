@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Wed, 9 March 2016 00:07:07 EST</lastBuildDate> 
+	<lastBuildDate>Wed, 16 March 2016 20:52:07 EST</lastBuildDate> 
 	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
@@ -161,6 +161,42 @@
 			<h4>Guest:</h4>
 			
 			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
+			]]>
+		</itunes:summary>
+	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
+		<title>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</link>
+		<itunes:duration>37:30</itunes:duration>
+		<pubDate>Wed, 16 March 2016 20:52:07 EST</pubDate>
+		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3" length="54085821" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[ 
+			<h1>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</h1>
+
+			<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24">Discussion before the episode</a></li>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
+			</ul>
+			
+			<p>More technical questions about RxJava. We have covered:</p>
+			
+			<ul>
+				<li><code>Schedulers.computation()</code> in RxJava</li>
+				<li>Schedulers in RxJava</li>
+				<li><code>subscribeOn()</code> and <code>observeOn()</code></li>
+				<li>Testing code with RxJava</li>
+				<li>Extending the <code>Observable</code></li>
+			</ul>
+			
+			<h4>Guest:</h4>
+			
+			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
+			
+			<h4>Host:</h4>
+			
+			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
 			]]>
 		</itunes:summary>
 	</item>
