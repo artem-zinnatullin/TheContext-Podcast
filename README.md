@@ -8,7 +8,6 @@ Podcast about Android Development
  - [Direct link to rss feed](https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss)
  - [PocketCasts](http://pca.st/hYck)
  - [iTunes](https://pcr.apple.com/id1081726814) (at the moment podcast may not be playable from search but should work from direct link iTunes -> File -> Subscribe to podcast)
- - [SoundCloud](https://soundcloud.com/groups/the-context-androiddev-podcast)
  - [`mp3` files on GitHub releases](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
  - Best word to search by is `#androiddev`
 
