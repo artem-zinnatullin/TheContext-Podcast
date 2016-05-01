@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Wed, 16 March 2016 20:52:07 EST</lastBuildDate> 
+	<lastBuildDate>Sun, 1 May 2016 5:44:07 EST</lastBuildDate> 
 	<itunes:owner> 
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
 		<itunes:name>Artem Zinnatullin</itunes:name> 
@@ -197,6 +197,59 @@
 			<h4>Host:</h4>
 			
 			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
+			]]>
+		</itunes:summary>
+	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
+		<title>Episode 4: Indie Development with Chris Lacy</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</link>
+		<itunes:duration>1:07:44</itunes:duration>
+		<pubDate>Sun, 1 May 2016 5:44:07 EST</pubDate>
+		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[ 
+			<h1>Episode 4: Indie Development</h1>
+
+			<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36">Discussion after the episode</a></li>
+			</ul>
+			
+			<p>In this episode we have talked about Indie Development. We have covered:</p>
+			
+			<ul>
+				<li>How to get started in Indie development</li>
+				<li>Project management as single developer</li>
+				<li>Testing and Continuous Integration</li>
+				<li>How does an Indie developer decides which libraries or technologies to use?</li>
+				<li>Designing without being a designer</li>
+				<li>Play Store, in app purchases and subscriptions</li>
+			</ul>
+			
+			<h4>Guest:</h4>
+			
+			<p>Chris Lacy <a href="https://twitter.com/chrismlacy">@chrismlacy</a></p>
+			
+			<p>Apps published by Chris Lacy on <a href="
+			https://play.google.com/store/apps/developer?id=Chris+Lacy">Google Play Store</a>:
+			 - <a href="https://play.google.com/store/apps/details?id=com.actionlauncher.playstore">Action Launcher 3</a>
+			 - <a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a>
+			 - <a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></p>
+			
+			<p>#### Hosts:</p>
+			
+			<ul>
+				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+			
+			<p>Additional links:</p>
+			
+			<ul>
+				<li><a href="http://theblerg.net/">The Blerg</a>: Chris Lacy's podcast</li>
+				<li><a href="http://theblerg.net/post/2015/08/05/ive-sold-link-bubble-tappath-and-all-related-assets">Chris blog post about selling Link Bubble</a></li>
+				<li><a href="https://github.com/brave/browser-android">Link Bubble</a> has been open sourced</li>
+			</ul>
 			]]>
 		</itunes:summary>
 	</item>
