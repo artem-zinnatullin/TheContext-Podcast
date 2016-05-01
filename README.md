@@ -11,7 +11,7 @@ Podcast about Android Development
  - [`mp3` files on GitHub releases](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
  - Best word to search by is `#androiddev`
 
-###Show notes 
+###Show notes
 Show notes for released episodes placed in [show_notes](show_notes/) directory, feel free to submit a PR!
 
 ###Discussions
@@ -26,7 +26,8 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 ---
 
-Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin)
+Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [sockeqwe](https://twitter.com/sockeqwe)
+
 
 ---
 
@@ -50,3 +51,7 @@ Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_2.md)
  - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
+
+ #####Episode 4: Indie Development with [Chris Lacy](https://twitter.com/chrismlacy)
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36)
