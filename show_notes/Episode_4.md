@@ -12,12 +12,6 @@ In this episode we have talked about Indie Development. We have covered:
  - Designing without being a designer
  - Play Store, in app purchases and subscriptions
 
-
-#### Host:
-
- - Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), [personal blog](http://artemzin.com), [GitHub](https://github.com/artem-zinnatullin)
- - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
-
 #### Guest:
 
 Chris Lacy [chrismlacy](https://twitter.com/chrismlacy)
@@ -28,6 +22,12 @@ https://play.google.com/store/apps/developer?id=Chris+Lacy):
  - [Action Launcher 2](https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro)
  - [Tweet Lanes](https://play.google.com/store/apps/details?id=com.tweetlanes.android)
 
+
+ #### Hosts:
+
+  - Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), [personal blog](http://artemzin.com), [GitHub](https://github.com/artem-zinnatullin)
+  - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
+  
 Additional links:
 
  - [the blerg](http://theblerg.net/): Chris Lacy's podcast

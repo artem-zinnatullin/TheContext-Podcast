@@ -26,7 +26,7 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 ---
 
-Host: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [sockeqwe](https://twitter.com/sockeqwe)
+Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [sockeqwe](https://twitter.com/sockeqwe)
 
 
 ---
