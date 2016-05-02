@@ -23,12 +23,12 @@ https://play.google.com/store/apps/developer?id=Chris+Lacy):
  - [Tweet Lanes](https://play.google.com/store/apps/details?id=com.tweetlanes.android)
 
 
- #### Hosts:
+#### Hosts:
 
   - Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), [personal blog](http://artemzin.com), [GitHub](https://github.com/artem-zinnatullin)
   - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
   
-Additional links:
+#### Additional links:
 
  - [the blerg](http://theblerg.net/): Chris Lacy's podcast
  - [Chris blog post about selling Link Bubble](http://theblerg.net/post/2015/08/05/ive-sold-link-bubble-tappath-and-all-related-assets)
