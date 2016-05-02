@@ -232,11 +232,13 @@
 			
 			<p>Apps published by Chris Lacy on <a href="
 			https://play.google.com/store/apps/developer?id=Chris+Lacy">Google Play Store</a>:
-			 - <a href="https://play.google.com/store/apps/details?id=com.actionlauncher.playstore">Action Launcher 3</a>
-			 - <a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a>
-			 - <a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></p>
+			<ul>
+				<li><a href="https://play.google.com/store/apps/details?id=com.actionlauncher.playstore">Action Launcher 3</a></li>
+				<li><a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a></li>
+				<li><a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></p></li>
+			</ul>
 			
-			<p>#### Hosts:</p>
+			<h4>Hosts:</h4>
 			
 			<ul>
 				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
