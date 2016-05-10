@@ -31,7 +31,7 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ---
 
-###Episodes
+###[Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
 #####Episode 1: Architecture of modern Android apps with [Hannes Dorfmann](https://twitter.com/sockeqwe)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md)
