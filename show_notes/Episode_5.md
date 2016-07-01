@@ -2,7 +2,7 @@
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/44)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
 
 
 In this episode we have talked about Android TV. We have covered:
