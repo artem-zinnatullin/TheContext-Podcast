@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss 
-	version="2.0" 
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+<rss
+	version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
@@ -9,20 +9,20 @@
 	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" /> 
-	<lastBuildDate>Sun, 1 May 2016 5:44:07 EST</lastBuildDate> 
-	<itunes:owner> 
-		<itunes:email>artem.zinnatullin@gmail.com</itunes:email> 
-		<itunes:name>Artem Zinnatullin</itunes:name> 
-	</itunes:owner> 
-	<itunes:author>Artem Zinnatullin</itunes:author> 
-	<itunes:explicit>no</itunes:explicit> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
+	<lastBuildDate>Fri, 1 July 2016 19:06:00 EST</lastBuildDate>
+	<itunes:owner>
+		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
+		<itunes:name>Artem Zinnatullin</itunes:name>
+	</itunes:owner>
+	<itunes:author>Artem Zinnatullin</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
 	<itunes:keywords>android,androiddev,context,development,software</itunes:keywords>
-	<itunes:subtitle>New Android Developers Podcast</itunes:subtitle> 
-	<itunes:summary>The Context is a podcast about Android Development</itunes:summary> 
-	<itunes:category text="Technology"> 
-		<itunes:category text="Software How-To" /> 
-	</itunes:category> 
+	<itunes:subtitle>New Android Developers Podcast</itunes:subtitle>
+	<itunes:summary>The Context is a podcast about Android Development</itunes:summary>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To" />
+	</itunes:category>
 	<itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
@@ -35,10 +35,10 @@
 			<![CDATA[
 			<h1>Episode 1: Architecture of modern Android apps</h1>
 
-			
+
 
 			<p>In this episode we have talked about software architecture on Android. We have covered:</p>
-			
+
 			<ul>
 				<li>MVC</li>
 				<li>MVVM</li>
@@ -47,22 +47,22 @@
 				<li><a href="https://facebook.github.io/flux/docs/overview.html">Flux</a></li>
 				<li><a href="http://cycle.js.org/">Cycle.js</a> (a.k.a. Model-View-Intent)</li>
 			</ul>
-			
+
 			<h4>Guest:</h4>
-			
+
 			<p>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com/">personal blog</a>, <a href="https://github.com/sockeqwe/">GitHub</a></p>
-			
+
 			<p>Open Source projects from Hannes:</p>
-			
+
 			<ul>
 				<li><a href="https://github.com/sockeqwe/mosby">Mosby</a></li>
 				<li><a href="https://github.com/sockeqwe/sqlbrite-dao">SQLBrite-DAO</a></li>
 				<li><a href="https://github.com/sockeqwe/fragmentargs">FragmentArgs</a></li>
 				<li><a href="https://github.com/sockeqwe/ParcelablePlease">ParcelablePlease</a></li>
 			</ul>
-			
+
 			<h4>Additional links</h4>
-			
+
 			<ul>
 				<li><a href="https://github.com/google/auto/issues/268">AutoValue split into 2 jars issue</a></li>
 				<li><a href="https://google.github.io/dagger/testing.html">Dagger 2 document about testing</a></li>
@@ -80,11 +80,11 @@
 		<pubDate>Fri, 26 Feb 2016 06:25:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
 		<itunes:summary>
-			<![CDATA[ 
+			<![CDATA[
 			<h1>Episode 2: Testing</h1>
 
 			<p>In this episode we have talked about testing in Android Development. We have covered:</p>
-			
+
 			<ul>
 				<li><a href="https://en.wikipedia.org/wiki/Unit_testing">Unit testing</a></li>
 				<li><a href="https://en.wikipedia.org/wiki/Integration_testing">Integration testing</a></li>
@@ -102,24 +102,24 @@
 				<li><a href="https://github.com/JetBrains/spek">Spek</a></li>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15">Questions asked by listeners</a>.</li>
 			</ul>
-			
+
 			<h4>Host:</h4>
-			
+
 			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
-			
+
 			<h4>Guest:</h4>
-			
+
 			<p>Mike Evans <a href="https://twitter.com/m_evans10">@m_evans10</a>, <a href="http://michaelevans.org">personal blog</a>, <a href="https://github.com/MichaelEvans">GitHub</a></p>
-			
+
 			<p>Open Source projects from Mike:</p>
-			
+
 			<ul>
 				<li><a href="https://github.com/MichaelEvans/Aftermath">Aftermath</a></li>
 				<li><a href="https://github.com/MichaelEvans/ColorArt">ColorArt</a> </li>
 			</ul>
-			
+
 			<p>Additional links:</p>
-			
+
 			<ul>
 				<li><a href="https://github.com/artem-zinnatullin/qualitymatters">#qualitymatters</a></li>
 				<li><a href="https://github.com/JakeWharton/u2020">U2020</a></li>
@@ -136,15 +136,15 @@
 		<pubDate>Wed, 9 March 2016 00:00:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3" length="63658598" type="audio/mpeg"/>
 		<itunes:summary>
-			<![CDATA[ 
+			<![CDATA[
 			<h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
 			<ul>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24">Discussion before the episode</a></li>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
 			</ul>
-			
+
 			<p>In this part of the episode we have talked about RxJava. We have covered:</p>
-			
+
 			<ul>
 				<li>Past of RxJava</li>
 				<li>Background of David Karnok and his earlier implementation of Reactive Extensions for JVM</li>
@@ -153,13 +153,13 @@
 				<li>JDK 9 Flow API</li>
 				<li>RxJava v2 and Android compatibility</li>
 			</ul>
-			
+
 			<h4>Host:</h4>
-			
+
 			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
-			
+
 			<h4>Guest:</h4>
-			
+
 			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
 			]]>
 		</itunes:summary>
@@ -172,16 +172,16 @@
 		<pubDate>Wed, 16 March 2016 20:52:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3" length="54085821" type="audio/mpeg"/>
 		<itunes:summary>
-			<![CDATA[ 
+			<![CDATA[
 			<h1>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</h1>
 
 			<ul>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24">Discussion before the episode</a></li>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
 			</ul>
-			
+
 			<p>More technical questions about RxJava. We have covered:</p>
-			
+
 			<ul>
 				<li><code>Schedulers.computation()</code> in RxJava</li>
 				<li>Schedulers in RxJava</li>
@@ -189,13 +189,13 @@
 				<li>Testing code with RxJava</li>
 				<li>Extending the <code>Observable</code></li>
 			</ul>
-			
+
 			<h4>Guest:</h4>
-			
+
 			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
-			
+
 			<h4>Host:</h4>
-			
+
 			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
 			]]>
 		</itunes:summary>
@@ -208,15 +208,15 @@
 		<pubDate>Sun, 1 May 2016 5:44:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
 		<itunes:summary>
-			<![CDATA[ 
+			<![CDATA[
 			<h1>Episode 4: Indie Development</h1>
 
 			<ul>
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36">Discussion after the episode</a></li>
 			</ul>
-			
+
 			<p>In this episode we have talked about Indie Development. We have covered:</p>
-			
+
 			<ul>
 				<li>How to get started in Indie development</li>
 				<li>Project management as single developer</li>
@@ -225,11 +225,11 @@
 				<li>Designing without being a designer</li>
 				<li>Play Store, in app purchases and subscriptions</li>
 			</ul>
-			
+
 			<h4>Guest:</h4>
-			
+
 			<p>Chris Lacy <a href="https://twitter.com/chrismlacy">@chrismlacy</a></p>
-			
+
 			<p>Apps published by Chris Lacy on <a href="
 			https://play.google.com/store/apps/developer?id=Chris+Lacy">Google Play Store</a>:
 			<ul>
@@ -237,20 +237,72 @@
 				<li><a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a></li>
 				<li><a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></p></li>
 			</ul>
-			
+
 			<h4>Hosts:</h4>
-			
+
 			<ul>
 				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
 				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
 			</ul>
-			
+
 			<p>Additional links:</p>
-			
+
 			<ul>
 				<li><a href="http://theblerg.net/">The Blerg</a>: Chris Lacy's podcast</li>
 				<li><a href="http://theblerg.net/post/2015/08/05/ive-sold-link-bubble-tappath-and-all-related-assets">Chris blog post about selling Link Bubble</a></li>
 				<li><a href="https://github.com/brave/browser-android">Link Bubble</a> has been open sourced</li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</guid>
+		<title>Episode 5: Android TV with Joe Birch</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</link>
+		<itunes:duration>49:22</itunes:duration>
+		<pubDate>Fri, 1 July 2016 19:06:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3" length="47396669" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 5: Android TV</h1>
+
+			<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode we have talked about Android TV. We have covered:</p>
+
+			<ul>
+				<li>What is Android TV</li>
+				<li>Leanback Library</li>
+				<li>MVP Pattern to share code between Phone and Android TV App</li>
+				<li>Android TV Recommendation System</li>
+				<li>What's new in Android Nougat for Android TV</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Joe Birch <a href="https://twitter.com/hitherejoe">@hitherejoe</a></p> <a href="http://hitherejoe.com/">personal blog</a>, <a href="https://github.com/hitherejoe">GitHub</a>, <a href="http://medium.com/@hitherejoe">Medium</a>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<p>Additional links:</p>
+
+			<ul>
+				<li><a href="https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5">Bourbon</a>: Dribbble, Android, MVP and a Common-Code Module</li>
+				<li><a href="https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3">Vineyard</a>: Creating an Android TV Vine App</li>
+				<li><a href="https://medium.com/@hitherejoe/android-tv-chill-3ba9c413daef">Android TV & Chill</a>: A concept for what it would be like ordering fast-food on Android TV</li>
+				<li><a href="https://medium.com/@hitherejoe/code-life-d25d9178e4da">Code != Life</a>: On finding the balance between side-projects and headspace.</li>
+				<li><a href="https://medium.com/exploring-android/designing-for-android-tv-9fecd5cd0c8c">Designing for Android TV</a></li>
+				<li><a href="https://youtu.be/TxAbht2DkyU">Picture in Picture on Android TV</a></li>
+				<li><a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad">BombSquad</a>: A funny game Hannes has mentioned</li>
+				<li><a href="https://play.google.com/store/apps/details?id=net.froemling.bsremote">BombSquad Remote</a>: Use your phone as a controller for BombSquad</li>
+				<li><a href="https://youtu.be/qv-e1sV3gos">Bring your Android app to Android TV in minutes </a>: Google I/O 2016</li>
 			</ul>
 			]]>
 		</itunes:summary>
