@@ -261,7 +261,7 @@
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</link>
 		<itunes:duration>49:22</itunes:duration>
 		<pubDate>Fri, 1 July 2016 19:06:00 EST</pubDate>
-		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3" length="47396669" type="audio/mpeg"/>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3" length="47396669" type="audio/mpeg"/>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 5: Android TV</h1>
