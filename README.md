@@ -53,9 +53,9 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
 
 #####Episode 4: Indie Development with [Chris Lacy](https://twitter.com/chrismlacy)
-  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md)
-  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36)
 
 #####Episode 5: Android TV with [Joe Birch](https://twitter.com/hitherejoe)
-    - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
-    - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
