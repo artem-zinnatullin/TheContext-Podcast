@@ -307,5 +307,52 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_6/The.Context.episode.6.mp3</guid>
+		<title>Episode 6, Part1: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_6/The.Context.episode.6.mp3</link>
+		<itunes:duration>42:39</itunes:duration>
+		<pubDate>Thu, 1z August 2016 7:00:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.mp3" length="41154799" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode we have talked about Continuous Integration and Continuous Delivery. We have covered:</p>
+
+			<ul>
+			<li>Continuous Integration</li>
+			<li>Continuous Delivery</li>
+			<li>Pair Programming</li>
+			<li>Release Train</li>
+			<li>Soundcloud's CI &amp; CD Pipeline</li>
+			<li>Testing</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Fernando Cejas <a href="https://twitter.com/fernando_cejas">@hitherejoe</a>, <a href="http://fernandocejas.com">personal blog</a>, <a href="https://github.com/android10">GitHub</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition">Slides from Fernando's talk at MobileOptimized'2016 </a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
