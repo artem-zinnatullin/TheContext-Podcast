@@ -59,3 +59,7 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 #####Episode 5: Android TV with [Joe Birch](https://twitter.com/hitherejoe)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
+
+#####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas)
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49)
