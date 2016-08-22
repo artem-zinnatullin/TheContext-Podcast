@@ -308,12 +308,12 @@
 		</itunes:summary>
 	</item>
 	<item>
-		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_6/The.Context.episode.6.mp3</guid>
-		<title>Episode 6, Part1: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_6/The.Context.episode.6.mp3</link>
-		<itunes:duration>42:39</itunes:duration>
-		<pubDate>Thu, 18 August 2016 7:00:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.mp3" length="41154799" type="audio/mpeg"/>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</guid>
+		<title>Episode 6, Part1: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud</title>
+		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</link>
+		<itunes:duration>43:14</itunes:duration>
+		<pubDate>Mon, 22 August 2016 7:00:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3" length="62473519" type="audio/mpeg"/>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
@@ -350,6 +350,8 @@
 
 			<ul>
 			<li><a href="https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition">Slides from Fernando's talk at MobileOptimized'2016 </a></li>
+
+			<li><a href="https://github.com/android10/Android-CleanArchitecture">Fernando's Clean Architecture sample on github</a></li>
 			</ul>
 			]]>
 		</itunes:summary>

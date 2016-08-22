@@ -60,6 +60,6 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
 
-#####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas)
-  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6.md)
+#####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49)

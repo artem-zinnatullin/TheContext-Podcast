@@ -1,4 +1,4 @@
-# Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD)
+# Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with Fernando Cejas from SoundCloud
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
@@ -26,3 +26,4 @@ Fernando Cejas [@hitherejoe](https://twitter.com/fernando_cejas), [personal blog
 #### Additional links:
 
  - [Slides from Fernando's talk at MobileOptimized'2016 ](https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition)
+ - [Fernando's Clean Architecture](https://github.com/android10/Android-CleanArchitecture) sample on github
