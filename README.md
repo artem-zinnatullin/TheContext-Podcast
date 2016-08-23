@@ -33,33 +33,33 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ###[Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
-#####Episode 1: Architecture of modern Android apps with [Hannes Dorfmann](https://twitter.com/sockeqwe)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md)
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1)
+#####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49)
 
-#####Episode 2: Testing with [Mike Evans](https://twitter.com/m_evans10)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md)
- - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15)
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17)
+#####Episode 5: Android TV with [Joe Birch](https://twitter.com/hitherejoe)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
 
-#####Episode 3, Part 1: RxJava with its core developer [David Karnok](https://twitter.com/akarnokd)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md)
- - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24)
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
+#####Episode 4: Indie Development with [Chris Lacy](https://twitter.com/chrismlacy)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36)
 
 #####Episode 3, Part 2: RxJava tech details with its core developer [David Karnok](https://twitter.com/akarnokd)
  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_2.md)
  - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24)
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
 
-#####Episode 4: Indie Development with [Chris Lacy](https://twitter.com/chrismlacy)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md)
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36)
+#####Episode 3, Part 1: RxJava with its core developer [David Karnok](https://twitter.com/akarnokd)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md)
+ - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/24)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25)
 
-#####Episode 5: Android TV with [Joe Birch](https://twitter.com/hitherejoe)
- - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md)
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45)
+#####Episode 2: Testing with [Mike Evans](https://twitter.com/m_evans10)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md)
+ - [Discussion before the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17)
 
-#####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
-  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md)
-  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49)
+#####Episode 1: Architecture of modern Android apps with [Hannes Dorfmann](https://twitter.com/sockeqwe)
+ - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1)
