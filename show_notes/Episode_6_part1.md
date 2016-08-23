@@ -16,7 +16,7 @@ In this episode we have talked about Continuous Integration and Continuous Deliv
 
 #### Guest:
 
-Fernando Cejas [@hitherejoe](https://twitter.com/fernando_cejas), [personal blog](http://fernandocejas.com), [GitHub](https://github.com/android10)
+Fernando Cejas [@fernando_cejas](https://twitter.com/fernando_cejas), [personal blog](http://fernandocejas.com), [GitHub](https://github.com/android10)
 
 #### Hosts:
 
