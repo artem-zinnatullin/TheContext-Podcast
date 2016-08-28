@@ -27,4 +27,4 @@ Fernando Cejas [@fernando_cejas](https://twitter.com/fernando_cejas), [personal 
 
  - [Slides from Fernando's talk at MobileOptimized'2016 ](https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition)
  - [Fernando's Clean Architecture](https://github.com/android10/Android-CleanArchitecture) sample on github
- - [TODO Hannes LINK HERE](https://todo.hannes)
+ - [From Prefab House to Lego House](http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house) - Blog post about depending on a shared library

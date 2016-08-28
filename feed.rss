@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
-	<lastBuildDate>Tue, 23 August 2016 03:00:00 EST</lastBuildDate>
+	<lastBuildDate>Sun, 28 August 2016 06:45:00 EST</lastBuildDate>
 	<itunes:owner>
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
 		<itunes:name>Artem Zinnatullin</itunes:name>
@@ -361,7 +361,7 @@
 		<title>Episode 6, Part2: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud (&amp; EVERYTHING &amp; LIFE)</title>
 		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</link>
 		<itunes:duration>46:27</itunes:duration>
-		<pubDate>Mon, 29 August 2016 7:00:00 EST</pubDate>
+		<pubDate>Sun, 28 August 2016 06:45:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3" length="66908164" type="audio/mpeg"/>
 		<itunes:summary>
 			<![CDATA[
@@ -400,7 +400,7 @@
 			<ul>
 				<li><a href="https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition">Slides from Fernando's talk at MobileOptimized'2016 </a></li>
 				<li><a href="https://github.com/android10/Android-CleanArchitecture">Fernando's Clean Architecture</a> sample on github</li>
-				<li><a href="https://todo.hannes">TODO Hannes LINK HERE</a></li>
+				<li><a href="http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house">From Prefab House to Lego House</a> - Blog post about depending on a shared library</li>
 			</ul>
 			]]>
 		</itunes:summary>
