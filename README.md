@@ -26,12 +26,16 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 ---
 
-Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [sockeqwe](https://twitter.com/sockeqwe)
+Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe)
 
 
 ---
 
 ###[Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
+
+#####Episode 6, Part2: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part2.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/52)
 
 #####Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md)
