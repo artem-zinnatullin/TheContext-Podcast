@@ -10,7 +10,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
-	<lastBuildDate>Sun, 28 August 2016 06:45:00 EST</lastBuildDate>
+	<lastBuildDate>Wed, 31 August 2016 08:45:00 EST</lastBuildDate>
 	<itunes:owner>
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
 		<itunes:name>Artem Zinnatullin</itunes:name>
@@ -360,9 +360,9 @@
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</guid>
 		<title>Episode 6, Part2: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud (&amp; EVERYTHING &amp; LIFE)</title>
 		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</link>
-		<itunes:duration>46:27</itunes:duration>
-		<pubDate>Sun, 28 August 2016 06:45:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3" length="66908164" type="audio/mpeg"/>
+		<itunes:duration>45:55</itunes:duration>
+		<pubDate>Wed, 31 August 2016 07:45:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3" length="66043032" type="audio/mpeg"/>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD) with Fernando Cejas from SoundCloud</h1>
@@ -391,7 +391,7 @@
 			<h4>Hosts:</h4>
 
 			<ul>
-				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="https://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
 				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
 			</ul>
 
