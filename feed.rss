@@ -405,5 +405,55 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
+		<title>Episode 7: React Native with Felipe Lima from Airbnb</title>
+		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</link>
+		<itunes:duration>45:55</itunes:duration>
+		<pubDate>Fri, 2 December 2016 17:00:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" length="66043032" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/54">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:</p>
+
+			<ul>
+			<li>Advantages and Disadvantages of React Native</li>
+			<li>React Native build tools, IDE and debugging  </li>
+			<li>How to write your own custom component</li>
+			<li>Lifecycle, state restoration and process death in React Native apps</li>
+			<li>Integration and interaction with android system services</li>
+			<li>Sharing code with iOS</li>
+			<li>Usage for React Native in Airbnb's android and iOS app</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Felipe Lima <a href="https://twitter.com/felipecsl">@felipecsl</a>, <a href="https://medium.com/@felipecsl">personal blog</a>, <a href="http://felipecsl.com">personal website</a>, <a href="https://github.com/felipecsl">GitHub</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://facebook.github.io/react-native/">React Native website</a></li>
+			<li><a href="https://medium.com/@felipecsl/thoughts-on-react-native-from-an-android-engineers-perspective-ea2bea5aa078#.k31212quk">Thoughts on React Native by Felipe</a> sample on github</li>
+			<li><a href="https://www.youtube.com/watch?v=npwa3ZmG9VQ">ReactiveConf 2016 (YouTube)</a> - Bridging the Gap: How to use React Native in existing large native code bases by Airbnb engineer Leland Richardson.</li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
