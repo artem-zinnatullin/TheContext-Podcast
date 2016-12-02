@@ -2,7 +2,7 @@
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/54)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55)
 
 
 In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:
