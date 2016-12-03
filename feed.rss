@@ -409,9 +409,9 @@
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
 		<title>Episode 7: React Native with Felipe Lima from Airbnb</title>
 		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</link>
-		<itunes:duration>45:55</itunes:duration>
+		<itunes:duration>52:41</itunes:duration>
 		<pubDate>Fri, 2 December 2016 17:00:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" length="66043032" type="audio/mpeg"/>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" length="75883752" type="audio/mpeg"/>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
@@ -419,7 +419,7 @@
 			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
 
 			<ul>
-			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/54">Discussion after the episode</a></li>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55">Discussion after the episode</a></li>
 			</ul>
 
 			<p>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:</p>
