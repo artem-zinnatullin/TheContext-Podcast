@@ -33,6 +33,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ###[Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+#####Episode 7: React Native with [Felipe Lima](https://twitter.com/felipecsl) from Airbnb
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_7.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55)
+
 #####Episode 6, Part2: Continuous Integration (CI) & Continuous Delivery (CD) with [Fernando Cejas](https://twitter.com/fernando_cejas) from SoundCloud
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part2.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/52)
