@@ -33,6 +33,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ###[Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+#####Episode 8: Damn Functional Programming with [Paco Estevez](https://twitter.com/pacoworks)
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_8.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57)
+
 #####Episode 7: React Native with [Felipe Lima](https://twitter.com/felipecsl) from Airbnb
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_7.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55)
