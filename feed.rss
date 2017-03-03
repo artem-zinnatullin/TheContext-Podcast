@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss
-	version="2.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 	<title>The Context #androiddev</title>
 	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
+	<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"/>
 	<lastBuildDate>Wed, 31 August 2016 08:45:00 EST</lastBuildDate>
 	<itunes:owner>
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
@@ -21,7 +17,7 @@
 	<itunes:subtitle>New Android Developers Podcast</itunes:subtitle>
 	<itunes:summary>The Context is a podcast about Android Development</itunes:summary>
 	<itunes:category text="Technology">
-		<itunes:category text="Software How-To" />
+		<itunes:category text="Software How-To"/>
 	</itunes:category>
 	<itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<item>
