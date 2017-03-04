@@ -1,36 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss
-	version="2.0"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 	<title>The Context #androiddev</title>
 	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
-	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" />
+	<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"/>
 	<lastBuildDate>Wed, 31 August 2016 08:45:00 EST</lastBuildDate>
 	<itunes:owner>
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
 		<itunes:name>Artem Zinnatullin</itunes:name>
 	</itunes:owner>
+	<atom:author>
+		<atom:name>Artem Zinnatullin</atom:name>
+		<atom:uri>http://artemzin.com/</atom:uri>
+		<atom:email>artem.zinnatullin@gmail.com</atom:email>
+	</atom:author>
+	<atom:author>
+		<atom:name>Hannes Dorfmann</atom:name>
+		<atom:uri>http://hannesdorfmann.com/</atom:uri>
+	</atom:author>
 	<itunes:author>Artem Zinnatullin</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:keywords>android,androiddev,context,development,software</itunes:keywords>
 	<itunes:subtitle>New Android Developers Podcast</itunes:subtitle>
 	<itunes:summary>The Context is a podcast about Android Development</itunes:summary>
 	<itunes:category text="Technology">
-		<itunes:category text="Software How-To" />
+		<itunes:category text="Software How-To"/>
 	</itunes:category>
 	<itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
 		<title>Episode 1, Architecture of modern Android apps with Hannes Dorfmann</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1"/>
 		<itunes:duration>57:55</itunes:duration>
 		<pubDate>Thu, 04 Feb 2016 20:04:07 PST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Hannes Dorfmann</atom:name>
+			<atom:uri>http://hannesdorfmann.com/</atom:uri>
+		</atom:contributor>
+		<atom:author>
+			<atom:name>Artem Zinnatullin</atom:name>
+			<atom:uri>http://artemzin.com/</atom:uri>
+			<atom:email>artem.zinnatullin@gmail.com</atom:email>
+		</atom:author>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 1: Architecture of modern Android apps</h1>
@@ -75,10 +90,20 @@
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
 		<title>Episode 2, Testing with Mike Evans</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17"/>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md</link>
 		<itunes:duration>1:42:01</itunes:duration>
 		<pubDate>Fri, 26 Feb 2016 06:25:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Mike Evans</atom:name>
+			<atom:uri>http://michaelevans.org/</atom:uri>
+		</atom:contributor>
+		<atom:author>
+			<atom:name>Artem Zinnatullin</atom:name>
+			<atom:uri>http://artemzin.com/</atom:uri>
+			<atom:email>artem.zinnatullin@gmail.com</atom:email>
+		</atom:author>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 2: Testing</h1>
@@ -131,10 +156,20 @@
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
 		<title>Episode 3, Part 1: RxJava with its core developer David Karnok</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
 		<itunes:duration>44:12</itunes:duration>
 		<pubDate>Wed, 9 March 2016 00:00:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3" length="63658598" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>David Karnok</atom:name>
+			<atom:uri>http://akarnokd.blogspot.com/</atom:uri>
+		</atom:contributor>
+		<atom:author>
+			<atom:name>Artem Zinnatullin</atom:name>
+			<atom:uri>http://artemzin.com/</atom:uri>
+			<atom:email>artem.zinnatullin@gmail.com</atom:email>
+		</atom:author>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
@@ -167,10 +202,20 @@
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
 		<title>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_2.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
 		<itunes:duration>37:30</itunes:duration>
 		<pubDate>Wed, 16 March 2016 20:52:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3" length="54085821" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>David Karnok</atom:name>
+			<atom:uri>http://akarnokd.blogspot.com/</atom:uri>
+		</atom:contributor>
+		<atom:author>
+			<atom:name>Artem Zinnatullin</atom:name>
+			<atom:uri>http://artemzin.com/</atom:uri>
+			<atom:email>artem.zinnatullin@gmail.com</atom:email>
+		</atom:author>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</h1>
@@ -203,10 +248,15 @@
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
 		<title>Episode 4: Indie Development with Chris Lacy</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36"/>
 		<itunes:duration>1:07:44</itunes:duration>
 		<pubDate>Sun, 1 May 2016 5:44:07 EST</pubDate>
 		<enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Chris Lacy</atom:name>
+			<atom:uri>https://twitter.com/chrismlacy</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 4: Indie Development</h1>
@@ -258,10 +308,15 @@
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</guid>
 		<title>Episode 5: Android TV with Joe Birch</title>
-		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45"/>
 		<itunes:duration>49:22</itunes:duration>
 		<pubDate>Fri, 1 July 2016 19:06:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3" length="47396669" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Joe Birch</atom:name>
+			<atom:uri>http://hitherejoe.com/</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 5: Android TV</h1>
@@ -310,10 +365,15 @@
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</guid>
 		<title>Episode 6, Part1: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud</title>
-		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49"/>
 		<itunes:duration>43:14</itunes:duration>
 		<pubDate>Mon, 22 August 2016 7:00:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3" length="62473519" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Fernando Cejas</atom:name>
+			<atom:uri>http://fernandocejas.com/</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
@@ -359,10 +419,15 @@
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</guid>
 		<title>Episode 6, Part2: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud (&amp; EVERYTHING &amp; LIFE)</title>
-		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part2.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/52"/>
 		<itunes:duration>45:55</itunes:duration>
 		<pubDate>Wed, 31 August 2016 07:45:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3" length="66043032" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Fernando Cejas</atom:name>
+			<atom:uri>http://fernandocejas.com/</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD) with Fernando Cejas from SoundCloud</h1>
@@ -408,10 +473,15 @@
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
 		<title>Episode 7: React Native with Felipe Lima from Airbnb</title>
-		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_7.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55"/>
 		<itunes:duration>52:41</itunes:duration>
 		<pubDate>Fri, 2 December 2016 17:00:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" length="75883752" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Felipe Lima</atom:name>
+			<atom:uri>https://medium.com/@felipecsl</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
@@ -455,14 +525,18 @@
 			]]>
 		</itunes:summary>
 	</item>
-
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3</guid>
 		<title>Episode 8: Damn Functional Programming with Paco Estevez</title>
-		<link>https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3</link>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_8.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
 		<itunes:duration>01:08:56</itunes:duration>
 		<pubDate>Thu, 2 March 2017 14:30:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3" length="66218024" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Paco Estevez</atom:name>
+			<atom:uri>http://www.pacoworks.com/</atom:uri>
+		</atom:contributor>
 		<itunes:summary>
 			<![CDATA[
 			<h1>Episode 8: Damn Functional Programming with Paco Estevez</h1>
