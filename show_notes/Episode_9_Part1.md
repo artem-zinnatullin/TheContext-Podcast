@@ -1,4 +1,4 @@
-# Episode 9, Part 1: kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov
+# Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov
 
 **Important note for Pocket Casts app users:**
 Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline).
@@ -14,13 +14,13 @@ See this tutorial: [Pocket Casts: Streaming](http://support.pocketcasts.com/arti
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62)
 
 
-In this episode we have talked with Alexey Tsvetkov who works at the kotlin team at jetbrains about kotlin's gradle plugin, compilers and build systems in general.
+In this episode we have talked with Alexey Tsvetkov who works at the Kotlin team at jetbrains about Kotlin's gradle plugin, compilers and build systems in general.
 
 In the first part (of two parts) we have covered:
 
  - Gradle Build System and its build phases
- - kotlin Gradle plugin
- - Compiling mixed kotlin and Java projects
+ - Kotlin Gradle plugin
+ - Compiling mixed Kotlin and Java projects
  - Incremental compilation
  - How a compiler works
  - Compiler Frontends and Backends
@@ -35,7 +35,8 @@ Alexey Tsvetkov [@tsvtkv](https://twitter.com/tsvtkv), [GitHub](https://github.c
   - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
 
 #### Additional links:
- - [kotlin programming language](https://kotlinlang.org)
+ - [Kotlin programming language](https://kotlinlang.org)
  - [Gradle: The Build Lifecycle](https://docs.gradle.org/current/userguide/build_lifecycle.html)
- - [kotlin native](https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/)
+ - [Kotlin native](https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/)
  - [JPS: IntelliJ IDEA's internal build system](https://github.com/JetBrains/intellij-community/tree/master/jps)
+ - [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
