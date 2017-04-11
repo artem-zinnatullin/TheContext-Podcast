@@ -596,8 +596,8 @@
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
 		<itunes:duration>45:42</itunes:duration>
-		<pubDate>Tue, 11 April 2017 14:30:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3" length="66218024" type="audio/mpeg"/>
+		<pubDate>Tue, 11 April 2017 08:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3" length="65819851" type="audio/mpeg"/>
 		<atom:contributor>
 			<atom:name>Alexey Tsvetkov</atom:name>
 			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
