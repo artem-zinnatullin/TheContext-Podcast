@@ -11,7 +11,7 @@ See this tutorial: [Pocket Casts: Streaming](http://support.pocketcasts.com/arti
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/59)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62)
 
 
 In this episode we have talked with Alexey Tsvetkov who works at the kotlin team at jetbrains about kotlin's gradle plugin, compilers and build systems in general.
