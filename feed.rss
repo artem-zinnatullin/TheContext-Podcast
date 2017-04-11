@@ -590,5 +590,70 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3</guid>
+		<title>Episode 9, Part 1: kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
+		<itunes:duration>45:42</itunes:duration>
+		<pubDate>Tue, 11 April 2017 14:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3" length="66218024" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Alexey Tsvetkov</atom:name>
+			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 9, Part 1: kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</h1>
+
+			<p><strong>Important note for Pocket Casts app users:</strong>
+			Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline).
+			It seems that while downloading their android app is using a old http client which doesn't support latest TLS cipher standards we use on server side to host our episodes.  </p>
+
+			<p>Nevertheless, <strong>streaming our episodes (instead of downloading) works</strong> in Pocket Casts android app.</p>
+
+			<p>See this tutorial: <a href="http://support.pocketcasts.com/article/streaming-episodes/">Pocket Casts: Streaming</a></p>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/59">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode we have talked with Alexey Tsvetkov who works at the kotlin team at jetbrains about kotlin's gradle plugin, compilers and build systems in general.</p>
+
+			<p>In the first part (of two parts) we have covered:</p>
+
+			<ul>
+			<li>Gradle Build System and its build phases</li>
+			<li>kotlin Gradle plugin</li>
+			<li>Compiling mixed kotlin and Java projects</li>
+			<li>Incremental compilation</li>
+			<li>How a compiler works</li>
+			<li>Compiler Frontends and Backends</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Alexey Tsvetkov <a href="https://twitter.com/tsvtkv">@tsvtkv</a>, <a href="https://github.com/tsvtkv">GitHub</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://kotlinlang.org">kotlin programming language</a></li>
+			<li><a href="https://docs.gradle.org/current/userguide/build_lifecycle.html">Gradle: The Build Lifecycle</a></li>
+			<li><a href="https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/">kotlin native</a></li>
+			<li><a href="https://github.com/JetBrains/intellij-community/tree/master/jps">JPS: IntelliJ IDEA's internal build system</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
