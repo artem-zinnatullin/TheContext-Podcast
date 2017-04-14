@@ -33,6 +33,11 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 9, Part 2: Gradle, Buck and Bazel with [Alexey Tsvetkov](https://twitter.com/tsvtkv)
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/65)
+
+
 ##### Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with [Alexey Tsvetkov](https://twitter.com/tsvtkv)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62)
