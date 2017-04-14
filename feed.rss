@@ -656,5 +656,60 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3</guid>
+		<title>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66"/>
+		<itunes:duration>01:04:12</itunes:duration>
+		<pubDate>Fri, 14 April 2017 08:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3" length="61642020" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Alexey Tsvetkov</atom:name>
+			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</h1>
+
+			<p><strong>Important note for Pocket Casts app users:</strong>
+			Thanks to the great support of Pocket Casts team we were able to fix the "download episodes issue" (see show nodes of episode 9, part 1).</p>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66">Discussion after the episode</a></li>
+			</ul>
+
+			<p>We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.</p>
+
+			<p>We have talked about:</p>
+
+			<ul>
+			<li><a href="https://gradle.org">Gradle</a></li>
+			<li><a href="https://buckbuild.com">Buck</a></li>
+			<li><a href="https://bazel.build">Bazel</a></li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Alexey Tsvetkov <a href="https://twitter.com/tsvtkv">@tsvtkv</a>, <a href="https://github.com/tsvtkv">GitHub</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://github.com/uber/okbuck">OkBuck</a></li>
+			<li><a href="http://fragmentedpodcast.com/episodes/68/">Fragmented Podcast, Episode 68: Talking Buck with Uber engineer Gautam Korlam</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
