@@ -660,7 +660,7 @@
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3</guid>
 		<title>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md</link>
-		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/65"/>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66"/>
 		<itunes:duration>01:04:12</itunes:duration>
 		<pubDate>Fri, 14 April 2017 08:30:00 EST</pubDate>
 		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3" length="61642020" type="audio/mpeg"/>
@@ -678,7 +678,7 @@
 			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
 
 			<ul>
-			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/65">Discussion after the episode</a></li>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66">Discussion after the episode</a></li>
 			</ul>
 
 			<p>We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.</p>

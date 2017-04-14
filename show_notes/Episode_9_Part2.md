@@ -5,7 +5,7 @@ Thanks to the great support of Pocket Casts team we were able to fix the "downlo
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/65)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66)
 
 
 We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.
