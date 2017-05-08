@@ -711,5 +711,66 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3</guid>
+		<title>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_10.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68"/>
+		<itunes:duration>01:15:04</itunes:duration>
+		<pubDate>Mon, 8 May 2017 15:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3" length="108132883" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Dmitry Jemerov</atom:name>
+			<atom:uri>https://twitter.com/intelliyole</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</h1>
+
+			<p>We know about sound volume level issue <a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/67">#67</a> and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn't achieve what we wanted, sorry about that, we'll try our best in next episode.</p>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68">Discussion after the episode</a></li>
+			</ul>
+
+			<p>We've talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:</p>
+
+			<ul>
+			<li>Package visibility in Kotlin</li>
+			<li>Java static equivalent in Kotlin</li>
+			<li>Companion objects</li>
+			<li>Static extension functions</li>
+			<li>Classes are final by default but fields are public</li>
+			<li>Unchecked exceptions</li>
+			<li>Generics</li>
+			<li>Base types: Any, Unit, Nothing</li>
+			<li>Traits</li>
+			<li>Delegates</li>
+			<li>Data classes</li>
+			<li>Upcoming features</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<p>Dmitry Jemerov <a href="https://twitter.com/intelliyole">@intelliyole</a>, <a href="http://yole.ru/">personal blog</a>, <a href="https://github.com/yole/">GitHub</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://www.manning.com/books/kotlin-in-action">Book: Kotlin in Action written by Dmitry Jemerov and Svetlana Isakova</a></li>
+			<li><a href="http://kotlinlang.org/">Official Kotlin website with photo of lighthouse on Kotlin island</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
