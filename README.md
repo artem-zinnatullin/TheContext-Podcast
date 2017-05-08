@@ -28,15 +28,17 @@ Before each episode we'll create an an [issue](https://github.com/artem-zinnatul
 
 Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe)
 
-
 ---
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 10: Kotlin Language Design Nitpicking with [Dmitry Jemerov](https://twitter.com/intelliyole) from JetBrains
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_10.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68)
+
 ##### Episode 9, Part 2: Gradle, Buck and Bazel with [Alexey Tsvetkov](https://twitter.com/tsvtkv)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66)
-
 
 ##### Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with [Alexey Tsvetkov](https://twitter.com/tsvtkv)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md)
