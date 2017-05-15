@@ -803,7 +803,7 @@
 			<li>Flowable or Observable?</li>
 			<li>Other Rx Types: Single, Maybe and Completable</li>
 			<li>RxJava 2 interop library</li>
-			<li>RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests</li>
+			<li>RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in JVM unit tests</li>
 			<li>RxJava 3</li>
 			</ul>
 
