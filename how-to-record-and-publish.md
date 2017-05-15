@@ -14,3 +14,5 @@ There're different schemes of recording podcast, I prefer next one:
 10. Update README: add new Episode information
 11. Post a PR with show notes and RSS feed update.
 12. Validate resulting RSS feed, for example w/ [this tool](http://castfeedvalidator.com)
+13. Add and push git tag for new episode
+14. Upload mp3 file in githubs release section
