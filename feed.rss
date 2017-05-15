@@ -823,6 +823,7 @@
 			<h4>Additional links:</h4>
 
 			<ul>
+			<li><a href="https://github.com/gojuno/engineering/blob/master/specs/rxjava-2-migration.md">Juno's Android Rider Team RxJava 2 Migration Specification</a></li>
 			<li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
 			<li><a href="https://github.com/akarnokd/RxJava2Interop">RxJava 2 interop library</a></li>
 			<li><a href="https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0">What's different in RxJava 2.0</a></li>
@@ -830,6 +831,7 @@
 			<li><a href="https://github.com/ReactiveX/RxJava/issues/5234">RxJava 2: Uncaught errors fail silently in junit tests</a></li>
 			<li><a href="https://github.com/ReactiveX/RxJava/issues/4644#issuecomment-256684743">RxJava 2: Discussion about null values</a></li>
 			<li><a href="https://github.com/reactive-streams/reactive-streams-jvm/issues/204">Reactive Streams specification: null value</a></li>
+			<li><a href="https://github.com/ReactiveX/RxKotlin/issues/103">RxJava 2 Kotlin SAM issue combineLatest()/etc</a></li>
 			<li><a href="https://github.com/ReactiveX/RxJava/issues/4564">Why RxJava 3: Split the library into two or adding types for symmetry</a></li>
 			<li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
 			</ul>
