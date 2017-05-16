@@ -772,5 +772,71 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3</guid>
+		<title>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_11.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"/>
+		<itunes:duration>52:46</itunes:duration>
+		<pubDate>Mon, 15 May 2017 09:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3" length="50658006" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Artur Dryomov</atom:name>
+			<atom:uri>https://github.com/ming13</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71">Discussion after the episode</a></li>
+			</ul>
+
+			<p>We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2. We have covered:</p>
+
+			<ul>
+			<li>Migration strategy at Juno</li>
+			<li>What's different in RxJava 2.0?</li>
+			<li>Null values in RxJava 2</li>
+			<li>Flowable or Observable?</li>
+			<li>Other Rx Types: Single, Maybe and Completable</li>
+			<li>RxJava 2 interop library</li>
+			<li>RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in JVM unit tests</li>
+			<li>RxJava 3</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<ul>
+			<li>Artur Dryomov <a href="https://github.com/ming13">GitHub</a></li>
+			</ul>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://github.com/gojuno/engineering/blob/master/specs/rxjava-2-migration.md">Juno's Android Rider Team RxJava 2 Migration Specification</a></li>
+			<li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
+			<li><a href="https://github.com/akarnokd/RxJava2Interop">RxJava 2 interop library</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0">What's different in RxJava 2.0</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0#which-type-to-use">RxJava 2: Which type to use</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/issues/5234">RxJava 2: Uncaught errors fail silently in junit tests</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/issues/4644#issuecomment-256684743">RxJava 2: Discussion about null values</a></li>
+			<li><a href="https://github.com/reactive-streams/reactive-streams-jvm/issues/204">Reactive Streams specification: null value</a></li>
+			<li><a href="https://github.com/ReactiveX/RxKotlin/issues/103">RxJava 2 Kotlin SAM issue combineLatest()/etc</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/issues/4564">Why RxJava 3: Split the library into two or adding types for symmetry</a></li>
+			<li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
