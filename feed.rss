@@ -779,7 +779,7 @@
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"/>
 		<itunes:duration>52:46</itunes:duration>
 		<pubDate>Mon, 15 May 2017 09:30:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3" length="50684128" type="audio/mpeg"/>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3" length="50658006" type="audio/mpeg"/>
 		<atom:contributor>
 			<atom:name>Artur Dryomov</atom:name>
 			<atom:uri>https://github.com/ming13</atom:uri>
