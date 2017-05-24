@@ -2,7 +2,10 @@
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
- - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71)
+ - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/74)
+ 
+
+We apologize for the bad sound quality and low sound volume.
 
 Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn't able to join us for this episode. We have covered:
 
