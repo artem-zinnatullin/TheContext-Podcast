@@ -838,5 +838,69 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3</guid>
+		<title>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_12.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/74"/>
+		<itunes:duration>31:47</itunes:duration>
+		<pubDate>Mon, 24 May 2017 09:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3" length="30560628" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Christian Bahl</atom:name>
+			<atom:uri>https://twitter.com/christian_bahl</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71">Discussion after the episode</a></li>
+			</ul>
+
+			<p>Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn't able to join us for this episode. We have covered:</p>
+
+			<ul>
+			<li>How Instant Apps work</li>
+			<li>Limitations</li>
+			<li>Accelerated Mobile Pages (AMP)</li>
+			<li>Gradle Plugins: com.android.instantapp and com.android.feature</li>
+			<li>Sharing code between regular App and Instant App</li>
+			<li>User Experience with Instant Apps</li>
+			<li>Instant App Early Access Preview Program</li>
+			<li>Our personal Google I/O 2017 highlights:
+			<ul><li><a href="https://youtu.be/fPzxfeDJDzY">Life is Great and Everything Will Be Ok, Kotlin is Here</a></li>
+			<li><a href="https://youtu.be/FrteWKKVyzI?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Architecture Components</a></li>
+			<li><a href="https://youtu.be/7ll-rkLCtyk?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Speeding Up Your Android Gradle Builds</a></li>
+			<li><a href="https://youtu.be/oispNrpGnIY?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Introduction to Android Instant Apps</a></li></ul></li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<ul>
+			<li>Lukas Olsen </li>
+			<li>Christian Bahl <a href="https://twitter.com/christian_bahl">@christian_bahl</a>, <a href="https://github.com/Bodo1981">GitHub</a></li>
+			</ul>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://developer.android.com/topic/instant-apps/index.html">Instant Apps Documentation</a></li>
+			<li><a href="https://www.ampproject.org">Accelerated Mobile Pages (AMP)</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Google I/O 2017 Video Playlist</a></li>
+			</ul>
+
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
