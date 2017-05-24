@@ -845,7 +845,7 @@
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/74"/>
 		<itunes:duration>31:47</itunes:duration>
 		<pubDate>Mon, 24 May 2017 09:30:00 EST</pubDate>
-		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3" length="30560628" type="audio/mpeg"/>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3" length="30566084" type="audio/mpeg"/>
 		<atom:contributor>
 			<atom:name>Christian Bahl</atom:name>
 			<atom:uri>https://twitter.com/christian_bahl</atom:uri>
