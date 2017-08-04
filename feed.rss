@@ -903,5 +903,65 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3</guid>
+		<title>Episode 13: Conductor with Eric Kuck</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76"/>
+		<itunes:duration>01:04:23</itunes:duration>
+		<pubDate>Fri, 4 August 2017 09:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3" length="61832318" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>Eric Kuck</atom:name>
+			<atom:uri>https://twitter.com/eric_kuck</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 13: Conductor with Eric Kuck</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76">Discussion after the episode</a></li>
+			</ul>
+
+			<p><strong>Announcement:</strong> We have a new Co-Host for our podcast: Welcome <a href="https://twitter.com/arturdryomov">Artur Dryomov</a>!</p>
+
+			<p>We think that we need at least two hosts on each episode to produce a high quality content.
+			Unfortunately, producing podcasts is time consuming, but now that we are three hosts we can ensure that at least two of us have time to produce a new episode regularly.</p>
+
+			<p>In this episode Artur and Hannes chatted with Eric Kuck about <a href="https://github.com/bluelinelabs/Conductor">Conductor</a>, a framework created by Eric as alternative to Fragments. We discussed:</p>
+
+			<ul>
+			<li>Motivation behind Conductor</li>
+			<li>Conductor components: Controller, Router, ChangeHandler and ControllerTransaction</li>
+			<li>How Conductor works behind the scenes</li>
+			<li>Single Activity Applications</li>
+			<li>Testing</li>
+			<li>The future of Conductor</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<ul>
+			<li>Eric Kuck <a href="https://twitter.com/eric_kuck">@eric_kuck</a>, <a href="https://github.com/EricKuck">GitHub</a></li>
+			</ul>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="https://github.com/ming13">GitHub</a></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://github.com/bluelinelabs/Conductor">Conductor on GitHub</a></li>
+			<li><a href="https://github.com/EricKuck/ConductorGlideDemo">Demo of Glide integration with Controller LifecycleListener</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>

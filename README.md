@@ -32,6 +32,11 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin) & Hannes Do
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 13: Conductor with Eric Kuck [Christian Bahl](https://twitter.com/EricKuck)
+  - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md)
+  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76)
+
+
 ##### Episode 12: Instant Apps with Lukas Olsen and [Christian Bahl](https://twitter.com/christian_bahl)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_12.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/74)
