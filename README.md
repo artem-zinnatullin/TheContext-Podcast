@@ -32,7 +32,7 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
-##### Episode 13: Conductor with Eric Kuck [Christian Bahl](https://twitter.com/EricKuck)
+##### Episode 13: Conductor with [Eric Kuck](https://twitter.com/Eric_Kuck)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76)
 
