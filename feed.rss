@@ -46,6 +46,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
+		<description>In this episode we talked about software architecture on Android. We covered: MVC, MVVM, MVVMC, MVP, Flux and Cycle.js (a.k.a. Model-View-Intent)</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 1: Architecture of modern Android apps</h1>
@@ -104,6 +105,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
+		<description>In this episode we talked about testing in Android Development. We covered: Unit testing, Integration testing and Functional (UI) testing as well as Robolectric, Android Instrumentation API, UI Automator, Espresso, Robotium, Appium, JUnit, AssertJ, Thruth, Spock, Spek, and some questions from out listeners.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 2: Testing</h1>
@@ -170,6 +172,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
+		<description>In this episode we talked about RxJava. We covered: the history and the current state of RxJava as well as David Karnok's background and his earlier implementation of Reactive Extensions for JVM.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
@@ -216,6 +219,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
+		<description>We continue the RxJava discussion and go technical on Schedulers, subscribeOn and observeOn.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</h1>
@@ -257,6 +261,7 @@
 			<atom:name>Chris Lacy</atom:name>
 			<atom:uri>https://twitter.com/chrismlacy</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked about Indie Development. Covering: How to get started, project management, testing and Continuous Integration, designing without being a designer and Play Store/IAP and subscriptions.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 4: Indie Development</h1>
@@ -317,6 +322,7 @@
 			<atom:name>Joe Birch</atom:name>
 			<atom:uri>http://hitherejoe.com/</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked about Android TV. We covered: Leanback Library, MVP Pattern to share code the Recommendation System and what's new in Android Nougat for Android TV</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 5: Android TV</h1>
@@ -374,6 +380,7 @@
 			<atom:name>Fernando Cejas</atom:name>
 			<atom:uri>http://fernandocejas.com/</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked about Continuous Integration and Continuous Delivery.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
@@ -428,6 +435,7 @@
 			<atom:name>Fernando Cejas</atom:name>
 			<atom:uri>http://fernandocejas.com/</atom:uri>
 		</atom:contributor>
+		<description>We continue the Continuous Integration and Continuous Delivery discussion.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD) with Fernando Cejas from SoundCloud</h1>
@@ -482,6 +490,7 @@
 			<atom:name>Felipe Lima</atom:name>
 			<atom:uri>https://medium.com/@felipecsl</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
@@ -537,6 +546,7 @@
 			<atom:name>Paco Estevez</atom:name>
 			<atom:uri>http://www.pacoworks.com/</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked about Functional Programming and how Paco Estevez applies Functional Programming in his android apps.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 8: Damn Functional Programming with Paco Estevez</h1>
@@ -602,6 +612,7 @@
 			<atom:name>Alexey Tsvetkov</atom:name>
 			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
 		</atom:contributor>
+		<description>In this episode we talked with Alexey Tsvetkov who is part of the Kotlin team at jetbrains about Kotlin's gradle plugin, compilers and build systems in general.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</h1>
@@ -668,6 +679,7 @@
 			<atom:name>Alexey Tsvetkov</atom:name>
 			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
 		</atom:contributor>
+		<description>We continue our discussion with Alexey Tsvetkov talking about build systems for android development.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</h1>
@@ -723,6 +735,7 @@
 			<atom:name>Dmitry Jemerov</atom:name>
 			<atom:uri>https://twitter.com/intelliyole</atom:uri>
 		</atom:contributor>
+		<description>We've talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</h1>
@@ -784,6 +797,7 @@
 			<atom:name>Artur Dryomov</atom:name>
 			<atom:uri>https://github.com/ming13</atom:uri>
 		</atom:contributor>
+		<description>We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</h1>
@@ -850,6 +864,7 @@
 			<atom:name>Christian Bahl</atom:name>
 			<atom:uri>https://twitter.com/christian_bahl</atom:uri>
 		</atom:contributor>
+		<description>Hannes chatted with his coworkes Lukas and Christian about Instant Apps, AMP pages and more.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</h1>
@@ -915,6 +930,7 @@
 			<atom:name>Eric Kuck</atom:name>
 			<atom:uri>https://twitter.com/eric_kuck</atom:uri>
 		</atom:contributor>
+		<description>In this episode we chatted with Eric Kuck about Conductor, a framework created by Eric as alternative to Fragments.</description>
 		<content:encoded>
 			<![CDATA[
 			<h1>Episode 13: Conductor with Eric Kuck</h1>
