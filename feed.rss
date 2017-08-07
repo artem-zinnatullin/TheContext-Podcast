@@ -864,6 +864,13 @@
 			<atom:name>Christian Bahl</atom:name>
 			<atom:uri>https://twitter.com/christian_bahl</atom:uri>
 		</atom:contributor>
+		<atom:contributor>
+			<atom:name>Lukas Olsen</atom:name>
+		</atom:contributor>
+		<atom:author>
+			<atom:name>Hannes Dorfmann</atom:name>
+			<atom:uri>http://hannesdorfmann.com/</atom:uri>
+		</atom:author>
 		<description>Hannes chatted with his coworkes Lukas and Christian about Instant Apps, AMP pages and more.</description>
 		<content:encoded>
 			<![CDATA[
@@ -904,7 +911,6 @@
 
 			<ul>
 			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
-			<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
 			</ul>
 
 			<h4>Additional links:</h4>
@@ -930,6 +936,14 @@
 			<atom:name>Eric Kuck</atom:name>
 			<atom:uri>https://twitter.com/eric_kuck</atom:uri>
 		</atom:contributor>
+		<atom:author>
+			<atom:name>Hannes Dorfmann</atom:name>
+			<atom:uri>http://hannesdorfmann.com/</atom:uri>
+		</atom:author>
+		<atom:author>
+			<atom:name>Artur Dryomov</atom:name>
+			<atom:uri>https://github.com/ming13</atom:uri>
+		</atom:author>
 		<description>In this episode we chatted with Eric Kuck about Conductor, a framework created by Eric as alternative to Fragments.</description>
 		<content:encoded>
 			<![CDATA[

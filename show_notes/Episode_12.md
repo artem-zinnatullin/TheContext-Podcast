@@ -30,7 +30,6 @@ Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortu
 #### Hosts:
 
   - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
-  - Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), [personal blog](http://artemzin.com), [GitHub](https://github.com/artem-zinnatullin)
 
 #### Additional links:
 
