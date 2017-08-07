@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 	<title>The Context #androiddev</title>
 	<link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
@@ -46,7 +46,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 1: Architecture of modern Android apps</h1>
 
@@ -85,7 +85,7 @@
 				<li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
 			</ul>
 		]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
@@ -104,7 +104,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 2: Testing</h1>
 
@@ -151,7 +151,7 @@
 				<li><a href="http://jakewharton.com/android-needs-a-simulator/">Android Needs A Simulator, Not An Emulator</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
@@ -170,7 +170,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
 			<ul>
@@ -197,7 +197,7 @@
 
 			<p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="http://akarnokd.blogspot.com">personal blog</a>, <a href="https://github.com/akarnokd">GitHub</a></p>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
@@ -216,7 +216,7 @@
 			<atom:uri>http://artemzin.com/</atom:uri>
 			<atom:email>artem.zinnatullin@gmail.com</atom:email>
 		</atom:author>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</h1>
 
@@ -243,7 +243,7 @@
 
 			<p>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></p>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
@@ -257,7 +257,7 @@
 			<atom:name>Chris Lacy</atom:name>
 			<atom:uri>https://twitter.com/chrismlacy</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 4: Indie Development</h1>
 
@@ -303,7 +303,7 @@
 				<li><a href="https://github.com/brave/browser-android">Link Bubble</a> has been open sourced</li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</guid>
@@ -317,7 +317,7 @@
 			<atom:name>Joe Birch</atom:name>
 			<atom:uri>http://hitherejoe.com/</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 5: Android TV</h1>
 
@@ -360,7 +360,7 @@
 				<li><a href="https://youtu.be/qv-e1sV3gos">Bring your Android app to Android TV in minutes </a>: Google I/O 2016</li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</guid>
@@ -374,7 +374,7 @@
 			<atom:name>Fernando Cejas</atom:name>
 			<atom:uri>http://fernandocejas.com/</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
 
@@ -414,7 +414,7 @@
 			<li><a href="https://github.com/android10/Android-CleanArchitecture">Fernando's Clean Architecture sample on github</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</guid>
@@ -428,7 +428,7 @@
 			<atom:name>Fernando Cejas</atom:name>
 			<atom:uri>http://fernandocejas.com/</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD) with Fernando Cejas from SoundCloud</h1>
 
@@ -468,7 +468,7 @@
 				<li><a href="http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house">From Prefab House to Lego House</a> - Blog post about depending on a shared library</li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
@@ -482,7 +482,7 @@
 			<atom:name>Felipe Lima</atom:name>
 			<atom:uri>https://medium.com/@felipecsl</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
 
@@ -523,7 +523,7 @@
 			<li><a href="https://www.youtube.com/watch?v=npwa3ZmG9VQ">ReactiveConf 2016 (YouTube)</a> - Bridging the Gap: How to use React Native in existing large native code bases by Airbnb engineer Leland Richardson.</li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3</guid>
@@ -537,7 +537,7 @@
 			<atom:name>Paco Estevez</atom:name>
 			<atom:uri>http://www.pacoworks.com/</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 8: Damn Functional Programming with Paco Estevez</h1>
 
@@ -588,7 +588,7 @@
 			<li><a href="https://github.com/pakoito/RxTuples2">RxTuples</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3</guid>
@@ -602,7 +602,7 @@
 			<atom:name>Alexey Tsvetkov</atom:name>
 			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</h1>
 
@@ -654,7 +654,7 @@
 			<li><a href="https://kotlinlang.org/docs/tutorials/koans.html">Kotlin Koans</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3</guid>
@@ -668,7 +668,7 @@
 			<atom:name>Alexey Tsvetkov</atom:name>
 			<atom:uri>https://twitter.com/tsvtkv</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</h1>
 
@@ -709,7 +709,7 @@
 			<li><a href="http://fragmentedpodcast.com/episodes/68/">Fragmented Podcast, Episode 68: Talking Buck with Uber engineer Gautam Korlam</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3</guid>
@@ -723,7 +723,7 @@
 			<atom:name>Dmitry Jemerov</atom:name>
 			<atom:uri>https://twitter.com/intelliyole</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</h1>
 
@@ -770,7 +770,7 @@
 			<li><a href="http://kotlinlang.org/">Official Kotlin website with photo of lighthouse on Kotlin island</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3</guid>
@@ -784,7 +784,7 @@
 			<atom:name>Artur Dryomov</atom:name>
 			<atom:uri>https://github.com/ming13</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</h1>
 
@@ -836,7 +836,7 @@
 			<li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3</guid>
@@ -850,7 +850,7 @@
 			<atom:name>Christian Bahl</atom:name>
 			<atom:uri>https://twitter.com/christian_bahl</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</h1>
 
@@ -901,7 +901,7 @@
 			</ul>
 
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3</guid>
@@ -915,7 +915,7 @@
 			<atom:name>Eric Kuck</atom:name>
 			<atom:uri>https://twitter.com/eric_kuck</atom:uri>
 		</atom:contributor>
-		<itunes:summary>
+		<content:encoded>
 			<![CDATA[
 			<h1>Episode 13: Conductor with Eric Kuck</h1>
 
@@ -961,7 +961,7 @@
 			<li><a href="https://github.com/EricKuck/ConductorGlideDemo">Demo of Glide integration with Controller LifecycleListener</a></li>
 			</ul>
 			]]>
-		</itunes:summary>
+		</content:encoded>
 	</item>
 </channel>
 </rss>
