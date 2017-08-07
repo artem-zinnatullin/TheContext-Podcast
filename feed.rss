@@ -31,6 +31,7 @@
 	<itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
+		<itunes:title>Architecture of modern Android apps</itunes:title>
 		<title>Episode 1, Architecture of modern Android apps with Hannes Dorfmann</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1"/>
@@ -90,6 +91,7 @@
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
+		<itunes:title>Testing</itunes:title>
 		<title>Episode 2, Testing with Mike Evans</title>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17"/>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md</link>
@@ -157,6 +159,7 @@
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
+		<itunes:title>RxJava</itunes:title>
 		<title>Episode 3, Part 1: RxJava with its core developer David Karnok</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
@@ -204,6 +207,7 @@
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
+		<itunes:title>RxJava</itunes:title>
 		<title>Episode 3, Part 2: RxJava tech details with its core developer David Karnok</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_2.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
@@ -251,6 +255,7 @@
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
+		<itunes:title>Indie Development</itunes:title>
 		<title>Episode 4: Indie Development with Chris Lacy</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36"/>
@@ -312,6 +317,7 @@
 	</item>
 	<item>
 		<guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3</guid>
+		<itunes:title>Android TV</itunes:title>
 		<title>Episode 5: Android TV with Joe Birch</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45"/>
@@ -370,6 +376,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</guid>
+		<itunes:title>Continuous Integration and Continuous Delivery</itunes:title>
 		<title>Episode 6, Part1: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49"/>
@@ -425,6 +432,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</guid>
+		<itunes:title>Continuous Integration and Continuous Delivery</itunes:title>
 		<title>Episode 6, Part2: Continuous Integration (CI) and Continuous Delivery (CD) with Fernando Cejas from SoundCloud (&amp; EVERYTHING &amp; LIFE)</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part2.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/52"/>
@@ -480,6 +488,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
+		<itunes:title>React Native</itunes:title>
 		<title>Episode 7: React Native with Felipe Lima from Airbnb</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_7.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55"/>
@@ -536,6 +545,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3</guid>
+		<itunes:title>Damn Functional Programming</itunes:title>
 		<title>Episode 8: Damn Functional Programming with Paco Estevez</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_8.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
@@ -602,6 +612,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3</guid>
+		<itunes:title>Kotlin Gradle Plugin, Compilers and Build Systems</itunes:title>
 		<title>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
@@ -669,6 +680,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3</guid>
+		<itunes:title>Gradle, Buck and Bazel</itunes:title>
 		<title>Episode 9, Part 2: Gradle, Buck and Bazel with Alexey Tsvetkov</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/66"/>
@@ -725,6 +737,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3</guid>
+		<itunes:title>Kotlin Language Design Nitpicking</itunes:title>
 		<title>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_10.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68"/>
@@ -787,6 +800,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3</guid>
+		<itunes:title>Migration to RxJava 2</itunes:title>
 		<title>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_11.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"/>
@@ -854,6 +868,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3</guid>
+		<itunes:title>Instant Apps</itunes:title>
 		<title>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_12.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/74"/>
@@ -926,6 +941,7 @@
 	</item>
 	<item>
 		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3</guid>
+		<itunes:title>Conductor</itunes:title>
 		<title>Episode 13: Conductor with Eric Kuck</title>
 		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md</link>
 		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76"/>
