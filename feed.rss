@@ -963,5 +963,62 @@
 			]]>
 		</itunes:summary>
 	</item>
+	<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3</guid>
+		<title>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_14.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/80"/>
+		<itunes:duration>01:21:11</itunes:duration>
+		<pubDate>Thu, 5 October 2017 09:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3" length="77973101" type="audio/mpeg"/>
+		<atom:contributor>
+			<atom:name>David Karnok</atom:name>
+			<atom:uri>https://twitter.com/akarnokd</atom:uri>
+		</atom:contributor>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/80">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode Artem and Hannes chatted with David Karnok about present and future of <a href="https://github.com/ReactiveX/RxJava">RxJava's</a>. We discussed:</p>
+
+			<ul>
+			<li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+			<li>Kaushik Gopal's blog post:<a href="https://blog.kaush.co/2017/06/21/rxjava1-rxjava2-migration-understanding-changes/">RxJava 1 -> RxJava 2 (Understanding the Changes)</a></li>
+			<li>Artem Zinnatullin's <a href="https://artemzin.com/blog/reply-to-kaushik-gopals-aricle-rxjava-1-rxjava-2-understanding-the-changes/">Reply to Kaushik Gopal's aricle: "RxJava 1 -> RxJava 2 (Understanding the Changes)"</a></li>
+			<li><a href="https://kotlinlang.org/docs/reference/coroutines.html">Kotlin Coroutines</a></li>
+			<li><a href="https://github.com/JakeWharton/Reagent/">Reagent</a>: Experiments for future reactive libraries by using Kotlin Coroutines by JakeWharton</li>
+			<li><a href="http://akarnokd.blogspot.de/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html">RxJava vs. Kotlin Coroutines, a quick look</a> by David Karnok
+			<ul><li><a href="http://akarnokd.blogspot.de/2017/09/rewriting-rxjava-with-kotlin-coroutines.html">Rewriting RxJava with Kotlin Coroutines?</a> by David Karnok</li></ul></li>
+			<li><a href="http://akarnokd.blogspot.de/2017/09/interoperation-between-rxjava-and.html">Interoperation between RxJava and Kotlin Coroutines</a> by David Karnok</li>
+			</ul>
+
+			<h4>Guest:</h4>
+
+			<ul>
+			<li><p>David Karnok <a href="https://twitter.com/akarnokd">@akarnokd</a>, <a href="https://github.com/akarnokd">GitHub</a>, <a href="http://akarnokd.blogspot.de">Blog</a></p>
+
+			<h4>Hosts:</h4>
+
+			<ul><li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li></ul></li>
+			</ul>
+
+			<h4>Additional links:</h4>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md">Episode 3 of The Context Podcast featuren David Karnok</a></li>
+			<li><a href="https://github.com/ReactiveX/RxJava/wiki/Backpressure">RxJava Documentation: Backpressure</a></li>
+			<li><a href="https://community.oracle.com/docs/DOC-1006738">Reactive Programming with JDK 9 Flow API</a></li>
+			<li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>

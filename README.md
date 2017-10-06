@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 14: RxJava — the Present and Future with [David Karnok](https://twitter.com/akarnokd) (core maintainer)
+- [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_14.md)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/80)
+
 ##### Episode 13: Conductor with [Eric Kuck](https://twitter.com/Eric_Kuck)
   - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md)
   - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76)
