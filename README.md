@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 15: 2017 in Retrospective
+- [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_15.md)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83)
+
 ##### Episode 14: RxJava — the Present and Future with [David Karnok](https://twitter.com/akarnokd) (core maintainer)
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_14.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/80)
