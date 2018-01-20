@@ -4,11 +4,11 @@
 
  - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83)
 
-In this episode Artur and Hannes do a retrospective on 2017. They share there personal highlights, favorite talks, disapointments, learnings and much more.
+In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more.
 
 #### Hosts:
 
-  - Artur Dryomov [@artem_zin](https://twitter.com/arturdryomov), [personal blog](http://arturdryomov.online/), [GitHub](https://github.com/ming13)
+  - Artur Dryomov [@arturdryomov](https://twitter.com/arturdryomov), [personal blog](http://arturdryomov.online/), [GitHub](https://github.com/ming13)
   - Hannes Dorfmann [@sockeqwe](https://twitter.com/sockeqwe), [personal blog](http://hannesdorfmann.com), [GitHub](https://github.com/sockeqwe)
 
 #### Links:
@@ -27,6 +27,7 @@ Libraries:
   - [Spek](http://spekframework.org/)
   - [Room](https://developer.android.com/topic/libraries/architecture/room.html)
   - [Lottie](https://github.com/airbnb/lottie-android)
+  - [Reagent:](https://github.com/JakeWharton/Reagent) Experiments for future reactive libraries (by using coroutines).
 
 Programming Languages and Technologies:
  

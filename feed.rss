@@ -1038,12 +1038,12 @@
 			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83">Discussion after the episode</a></li>
 			</ul>
 
-			<p>In this episode Artur and Hannes do a retrospective on 2017. They share there personal highlights, favorite talks, disapointments, learnings and much more.</p>
+			<p>In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more.</p>
 
 			<h4>Hosts:</h4>
 
 			<ul>
-			<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@artem_zin</a>, <a href="http://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
+			<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="http://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
 			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
 			</ul>
 
@@ -1066,6 +1066,7 @@
 			<li><a href="http://spekframework.org/">Spek</a></li>
 			<li><a href="https://developer.android.com/topic/libraries/architecture/room.html">Room</a></li>
 			<li><a href="https://github.com/airbnb/lottie-android">Lottie</a></li>
+			<li><a href="https://github.com/JakeWharton/Reagent">Reagent: Experiments for future reactive libraries (by using coroutines)</a></li>
 			</ul>
 
 			<p>Programming Languages and Technologies:</p>
