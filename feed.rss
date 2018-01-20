@@ -1020,5 +1020,75 @@
 			]]>
 		</itunes:summary>
 	</item>
+		<item>
+		<guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3</guid>
+		<title>Episode 15: 2017 in Retrospective</title>
+		<link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_15.md</link>
+		<atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83"/>
+		<itunes:duration>01:15:56</itunes:duration>
+		<pubDate>Sat, 20 January 2018 09:30:00 EST</pubDate>
+		<enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3" length="63868600" type="audio/mpeg"/>
+		<itunes:summary>
+			<![CDATA[
+			<h1>Episode 15: 2017 in Retrospective</h1>
+
+			<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+			<ul>
+			<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83">Discussion after the episode</a></li>
+			</ul>
+
+			<p>In this episode Artur and Hannes do a retrospective on 2017. They share there personal highlights, favorite talks, disapointments, learnings and much more.</p>
+
+			<h4>Hosts:</h4>
+
+			<ul>
+			<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@artem_zin</a>, <a href="http://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
+			<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+			</ul>
+
+			<h4>Links:</h4>
+
+			<p>Talks:</p>
+
+			<ul>
+			<li><a href="https://www.youtube.com/watch?v=YxOTU9F_YX4">Two Stones, One Bird: Implementation Tradeoffs by Christina Lee - KotlinConf 2017</a></li>
+			<li><a href="https://www.youtube.com/watch?v=R425cc6XrvA">Testing Kotlin at Scale: Spek by Artem Zinnatullin - KotlinConf 2017</a></li>
+			<li><a href="https://www.youtube.com/watch?v=KjoMnsc2lPo">The Reactive Workflow Pattern</a> (Droidcon New York 2017) and <a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">Update</a> (Droidcon San Francisco) by Ray Ryan </li>
+			<li><a href="https://github.com/JetBrains/kotlinconf-app">The Resurgence of SQL by Jake Wharton and Alec Strong - Droidcon New York City 2017</a></li>
+			<li><a href="https://www.youtube.com/watch?v=ksgmm8VolT4&amp;t=840s">Embracing SQL Without Abstraction by Alec Strong - Droidcon New York City 2016</a></li>
+			<li><a href="http://uk.droidcon.com/skillscasts/10784-openyolo-authentication-made-easy-and-secure">OpenYOLO: Authentication made easy and secure by Iain McGinniss - Droidcon London 2017</a> and corresponding <a href="https://blog.agilebits.com/2017/10/26/integrate-1password-into-your-android-apps/">blog post</a> </li>
+			</ul>
+
+			<p>Libraries:</p>
+
+			<ul>
+			<li><a href="http://spekframework.org/">Spek</a></li>
+			<li><a href="https://developer.android.com/topic/libraries/architecture/room.html">Room</a></li>
+			<li><a href="https://github.com/airbnb/lottie-android">Lottie</a></li>
+			</ul>
+
+			<p>Programming Languages and Technologies:</p>
+
+			<ul>
+			<li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+			<li><a href="https://www.dartlang.org/">Dart</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/WebOS">WebOS</a></li>
+			</ul>
+
+			<p>Other Links:</p>
+
+			<ul>
+			<li>Book recommendation: <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck">The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life</a></li>
+			<li>Christina Lee's tweet: <a href="https://twitter.com/RunChristinaRun/status/917187298546008065">"Does it matter to you if speakers have given their talk before?"</a></li>
+			<li><a href="https://github.com/JetBrains/kotlinconf-app">KotlinConf 2017 App</a></li>
+			<li><a href="http://flavienlaurent.com/blog/2014/01/31/spans">Spans, a Powerful Concept by Flavien Laurent</a></li>
+			<li><a href="https://developer.android.com/reference/android/support/v4/app/ActivityCompat.html#shouldShowRequestPermissionRationale">shouldShowRequestPermissionRationale()</a></li>
+			<li><a href="https://developer.android.com/reference/android/os/SharedMemory.html">SharedMemory</a></li>
+			<li>People to follow: <a href="https://twitter.com/clattner_llvm">Chris Lattner</a></li>
+			</ul>
+			]]>
+		</itunes:summary>
+	</item>
 </channel>
 </rss>
