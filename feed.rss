@@ -1091,5 +1091,63 @@
 			]]>
 		</itunes:summary>
 	</item>
+        <item>
+            <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3</guid>
+            <title>Episode 16: Tools</title>
+            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_16.md</link>
+            <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/86"/>
+            <itunes:duration>01:02:48</itunes:duration>
+            <pubDate>Wed, 7 March 2018 09:30:00 EST</pubDate>
+            <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3" length="53020028" type="audio/mpeg"/>
+            <itunes:summary>
+                <![CDATA[
+                    <h1>Episode 16: Tools</h1>
+                    
+                    <h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+                    
+                    <ul>
+                    <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/86">Discussion after the episode</a></li>
+                    </ul>
+                    
+                    <p>In this episode Artem, Artur and Hannes discuss the tools they use for development.</p>
+                    
+                    <h4>Hosts:</h4>
+                    
+                    <ul>
+                    <li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>
+                    <ul><li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+                    <li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="http://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li></ul></li>
+                    </ul>
+                    
+                    <h4>Links:</h4>
+                    
+                    <p>Tools:</p>
+                    
+                    <ul>
+                    <li><a href="https://github.com/gojuno/mainframer">Mainframer</a></li>
+                    <li><a href="https://github.com/gojuno/composer">Composer</a></li>
+                    <li><a href="https://github.com/gojuno/swarmer">Swarmer</a></li>
+                    <li><a href="http://ohmyz.sh">zsh</a></li>
+                    <li><a href="https://github.com/AlDanial/cloc">cloc</a></li>
+                    </ul>
+                    
+                    <p>CI:</p>
+                    
+                    <ul>
+                    <li><a href="https://jenkins.io">Jenkins</a></li>
+                    <li><a href="http://circleci.com">Circle.Ci</a></li>
+                    <li><a href="https://drone.io">Drone</a></li>
+                    </ul>
+                    
+                    <p>Libraries:</p>
+                    
+                    <ul>
+                    <li><a href="http://spekframework.org/">Spek</a></li>
+                    <li><a href="https://github.com/JakeWharton/RxReplayingSharel">RxReplayingShare</a></li>
+                    <li><a href="https://github.com/square/moshi">Moshi</a></li>
+                    </ul>
+                ]]>
+            </itunes:summary>
+        </item>
 </channel>
 </rss>
