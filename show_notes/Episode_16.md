@@ -20,7 +20,7 @@ Tools:
 - [Swarmer](https://github.com/gojuno/swarmer)
 - [zsh](http://ohmyz.sh)
 - [cloc](https://github.com/AlDanial/cloc)
-- [Ncdu](https://en.wikipedia.org/wiki/Ncdu)
+- [ncdu](https://en.wikipedia.org/wiki/Ncdu)
 - [tig](https://jonas.github.io/tig/)
 - [ag](https://geoff.greer.fm/ag/)
 
