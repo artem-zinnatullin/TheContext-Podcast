@@ -1152,5 +1152,80 @@
                 ]]>
             </itunes:summary>
         </item>
+		<item>
+            <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3</guid>
+            <title>Episode 17:  Switching Gears to C# and .NET</title>
+            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_17.md</link>
+            <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90"/>
+            <itunes:duration>57:37</itunes:duration>
+            <pubDate>Sun, 1 April 2018 09:30:00 EST</pubDate>
+            <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3" length="48665265" type="audio/mpeg"/>
+            <itunes:summary>
+                <![CDATA[
+                   	<h1>Episode 17: Switching Gears to C# and .NET</h1>
+
+					<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+					<ul>
+					<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90">Discussion after the episode</a></li>
+					</ul>
+
+					<p>In this episode Artur chatted with Dmitry Savchenko about C#, .NET and everything in between.</p>
+
+					<p>The reason is simple — we are changing our jobs as Android developers to be real enterprise professionals.
+					Prepare for next episodes about macOS AppKit, Linux kernel, Go microservices and Plan 9 vs. Inferno.
+					And maybe gardening at some point. Also — April Fools!</p>
+
+					<p>Seriously though — the episode is a great introduction into C# world. Just for erudition sake, you know.</p>
+
+					<h4>Guest:</h4>
+
+					<ul>
+					<li>Dmitry Savchenko: <a href="https://github.com/dsav">GitHub</a></li>
+					</ul>
+
+					<h4>Hosts:</h4>
+
+					<ul>
+					<li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="http://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
+					</ul>
+
+					<h4>Links:</h4>
+
+					<p>C#</p>
+
+					<ul>
+					<li><a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Hejlsberg — Turbo Pascal, C# and TypeScript designer</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history">Versions history</a></li>
+					<li><a href="https://github.com/dotnet/csharplang/wiki/Nullable-Reference-Types-Preview">Nullable reference types preview</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/struct"><code>struct</code></a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/async"><code>async</code> and <code>await</code></a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield"><code>yield</code></a></li>
+					<li><a href="http://fsharp.org/">F#</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/quantum/quantum-qr-intro">Q#</a></li>
+					</ul>
+
+					<p>.NET</p>
+
+					<ul>
+					<li><a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET Framework</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/core/">.NET Core</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server">.NET Framework vs. .NET Core</a></li>
+					</ul>
+
+					<p>Tools</p>
+
+					<ul>
+					<li><a href="https://www.jetbrains.com/resharper/">JetBrains ReSharper</a></li>
+					<li><a href="https://www.jetbrains.com/rider/">JetBrains Rider</a></li>
+					<li><a href="https://github.com/dotnet/roslyn">Roslyn — .NET Compiler Platform</a></li>
+					<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+					<li><a href="https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild">MSBuild</a></li>
+					<li><a href="https://www.nuget.org/">NuGet</a></li>
+					<li><a href="https://www.visualstudio.com/tfs/">Team Foundation Server</a></li>
+					</ul>
+                ]]>
+            </itunes:summary>
+        </item>
 </channel>
 </rss>
