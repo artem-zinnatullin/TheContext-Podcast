@@ -6,7 +6,7 @@
 	<description>New Podcast about Android Development</description>
 	<language>en-us</language>
 	<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"/>
-	<lastBuildDate>Wed, 7 March 2018 09:30:00 EST</lastBuildDate>
+	<lastBuildDate>Sun, 1 April 2018 09:30:00 EST</lastBuildDate>
 	<itunes:owner>
 		<itunes:email>artem.zinnatullin@gmail.com</itunes:email>
 		<itunes:name>Artem Zinnatullin</itunes:name>
