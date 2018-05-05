@@ -1306,7 +1306,7 @@
             <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3"
                        length="45465440" type="audio/mpeg"/>
             <itunes:summary>
-                <![CDATA[
+				<![CDATA[
 				<h1>Episode 18, Part 1: Android Everywhere</h1>
 
 				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
@@ -1330,7 +1330,7 @@
 				<ul>
 				<li><a href="https://www.youtube.com/watch?v=Ym1KkXPa9aA">Fireside Chat with Matias Duarte, VP of Design, Android</a>: Interesting interview with Matias Duarte about form factors like mobile, wearables, TV, Chromebooks and watch.</li>
 				</ul>
-                ]]>
+				]]>
             </itunes:summary>
         </item>
     </channel>
