@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 18, Part 1: Android Everywhere
+- [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part1.md)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92)
+
 ##### Episode 17: Switching Gears to C# and .NET
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_17.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90)
