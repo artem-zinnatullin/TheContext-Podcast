@@ -7,7 +7,7 @@
         <language>en-us</language>
         <atom:link rel="self" type="application/rss+xml"
                    href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"/>
-        <lastBuildDate>Sat, 5 May 2018 09:30:00 EST</lastBuildDate>
+        <lastBuildDate>Mon, 7 May 2018 09:30:00 EST</lastBuildDate>
         <itunes:owner>
             <itunes:email>artem.zinnatullin@gmail.com</itunes:email>
             <itunes:name>Artem Zinnatullin</itunes:name>
@@ -1298,7 +1298,7 @@
         <item>
             <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3</guid>
             <title>Episode 18, Part 1: Android Everywhere</title>
-            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18.md</link>
+            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part1.md</link>
             <atom:link rel="replies" type="text/html"
                        href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92"/>
             <itunes:duration>53:49</itunes:duration>
@@ -1315,7 +1315,7 @@
 				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92">Discussion after the episode</a></li>
 				</ul>
 
-				<p>In the first part of episode #18 Artur, Hannes und Artem discuss about Android tablets, Chromebooks and Android Wear (Wear OS).</p>
+				<p>In the first part of episode #18 Artur, Hannes und Artem discuss Android tablets, Chromebooks and Android Wear (Wear OS).</p>
 
 				<h4>Hosts:</h4>
 
@@ -1329,6 +1329,47 @@
 
 				<ul>
 				<li><a href="https://www.youtube.com/watch?v=Ym1KkXPa9aA">Fireside Chat with Matias Duarte, VP of Design, Android</a>: Interesting interview with Matias Duarte about form factors like mobile, wearables, TV, Chromebooks and watch.</li>
+				</ul>
+				]]>
+            </itunes:summary>
+        </item>
+        <item>
+            <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part2.mp3</guid>
+            <title>Episode 18, Part 2: Android Everywhere</title>
+            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part2.md</link>
+            <atom:link rel="replies" type="text/html"
+                       href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92"/>
+            <itunes:duration>01:01:46</itunes:duration>
+            <pubDate>Mon, 7 May 2018 09:30:00 EST</pubDate>
+            <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part2.mp3"
+                       length="52152856" type="audio/mpeg"/>
+            <itunes:summary>
+				<![CDATA[
+				<h1>Episode 18, Part 2: Android Everywhere</h1>
+
+				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92">Discussion after the episode</a></li>
+				</ul>
+
+				<p>In the second part of episode #18 Artur, Hannes and Artem discuss Android TV, Chromecast and Android Auto.</p>
+
+				<h4>Hosts:</h4>
+
+				<ul>
+				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="https://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+				<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="https://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
+				</ul>
+
+				<h4>Links:</h4>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md">The Context Episode 5: Android TV with Joe Birch</a></li>
+				<li><a href="https://medium.com/exploring-android/android-tv-chill-3ba9c413daef">Android TV &amp; Chill</a>: A concept for what it would be like ordering fast-food on Android TV by Joe Birch.</li>
+				<li><a href="https://www.reddit.com/r/Android/comments/7zf4tk/openauto_turns_a_raspberry_pi_into_an_android/">OpenAuto</a>: Turns a raspberry pi into an Android Auto device.</li>
+				<li><a href="https://www.amazon.com/dp/B074Y71ZKC">Artem's car system running Android</a></li>
 				</ul>
 				]]>
             </itunes:summary>
