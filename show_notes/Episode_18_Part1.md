@@ -4,7 +4,7 @@
 
 * [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92)
 
-In the first part of episode #18 Artur, Hannes und Artem discuss about Android tablets, Chromebooks and Android Wear (Wear OS).
+In the first part of episode #18 Artur, Hannes und Artem discuss Android tablets, Chromebooks and Android Wear (Wear OS).
 
 #### Hosts:
 
