@@ -17,4 +17,4 @@ In the second part of episode #18 Artur, Hannes and Artem discuss about Android 
 
 - [Android TV & Chill](https://medium.com/exploring-android/android-tv-chill-3ba9c413daef): A concept for what it would be like ordering fast-food on Android TV by Joe Birch.
 - [OpenAuto](https://www.reddit.com/r/Android/comments/7zf4tk/openauto_turns_a_raspberry_pi_into_an_android/): Turns a raspberry pi into an Android Auto device
-- [Artem's auto setup](TODO)
+- [Artem's car system running Android](https://www.amazon.com/dp/B074Y71ZKC?ref=yo_pop_ma_swf)
