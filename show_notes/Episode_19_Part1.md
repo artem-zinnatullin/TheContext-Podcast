@@ -1,4 +1,4 @@
-# Episode 19, Part 1: Model-View-Intent
+# Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
