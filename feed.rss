@@ -1374,5 +1374,54 @@
 				]]>
             </itunes:summary>
         </item>
+		<item>
+            <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part1.mp3</guid>
+            <title>Episode 19, Part 1: Model-View-Intent</title>
+            <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part1.md</link>
+            <atom:link rel="replies" type="text/html"
+                       href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95"/>
+            <itunes:duration>37:06</itunes:duration>
+            <pubDate>Sun, 10 June 2018 09:30:00 EST</pubDate>
+            <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part1.mp3"
+                       length="31418224" type="audio/mpeg"/>
+            <itunes:summary>
+				<![CDATA[
+				<h1>Episode 19, Part 1: Model-View-Intent</h1>
+
+				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95">Discussion after the episode</a></li>
+				</ul>
+
+				<p>In the first part of episode #19 Artur and Hannes chated with Benoît Quenaudon from Square about Model-View-Intent. 
+				We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.</p>
+
+				<h3>Guest:</h3>
+
+				<ul>
+				<li>Benoît Quenaudon <a href="https://twitter.com/oldergod">@artem_zin</a>, <a href="https://benoitquenaudon.com">personal blog</a>, <a href="https://github.com/oldergod">GitHub</a></li>
+				</ul>
+
+				<h4>Hosts:</h4>
+
+				<ul>
+				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+				<li>Artur Dryomov <a href="https://twitter.com/arturdryomov">@arturdryomov</a>, <a href="https://arturdryomov.online/">personal blog</a>, <a href="https://github.com/ming13">GitHub</a></li>
+				</ul>
+
+				<h4>Links</h4>
+
+				<ul>
+				<li><a href="https://cycle.js.org">Cycle.js</a></li>
+				<li><a href="https://github.com/oldergod/android-architecture">Android Blueprint: ToDo App using MVI by Benoît</a></li>
+				<li><a href="https://www.youtube.com/watch?v=PXBXcHQeDLE">droidcon NYC 2017 - Model-View-Intent for Android</a></li>
+				<li><a href="http://hannesdorfmann.com/android/mosby3-mvi-8">In-App Navigation with Coordinators</a></li>
+				<li><a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">droidcon SF 2017 - The Reactive Workflow Pattern Update</a></li>
+				<li><a href="https://twitter.com/oldergod/status/999638960384233474">Benoît's Tweet</a>: "We see more and more "reactive" architectures on Android but I think you're doing it wrong if you have a <code>subscribe</code> in your presenter. Ideally, the presenter should be an ObservableTransformer."</li>
+				</ul>
+				]]>
+            </itunes:summary>
+        </item>
     </channel>
 </rss>

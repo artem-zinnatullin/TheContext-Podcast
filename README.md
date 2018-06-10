@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 19, Part 1: Model-View-Intent
+- [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part1.md)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95)
+
 ##### Episode 18, Part 2: Android Everywhere
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part2.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92)
