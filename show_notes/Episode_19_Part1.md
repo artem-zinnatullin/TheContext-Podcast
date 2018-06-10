@@ -8,7 +8,7 @@ In the first part of episode #19 Artur and Hannes chatted with Benoît Quenaudon
 We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.
 
 ### Guest:
-- Benoît Quenaudon [@artem_zin](https://twitter.com/oldergod), [personal blog](https://benoitquenaudon.com), [GitHub](https://github.com/oldergod)
+- Benoît Quenaudon [@oldergod](https://twitter.com/oldergod), [personal blog](https://benoitquenaudon.com), [GitHub](https://github.com/oldergod)
 
 #### Hosts:
 

@@ -1383,7 +1383,7 @@
             <itunes:duration>37:06</itunes:duration>
             <pubDate>Sun, 10 June 2018 09:30:00 EST</pubDate>
             <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part1.mp3"
-                       length="31418224" type="audio/mpeg"/>
+                       length="31423481 " type="audio/mpeg"/>
             <itunes:summary>
 				<![CDATA[
 				<h1>Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon from Square</h1>
@@ -1400,7 +1400,7 @@
 				<h3>Guest:</h3>
 
 				<ul>
-				<li>Benoît Quenaudon <a href="https://twitter.com/oldergod">@artem_zin</a>, <a href="https://benoitquenaudon.com">personal blog</a>, <a href="https://github.com/oldergod">GitHub</a></li>
+				<li>Benoît Quenaudon <a href="https://twitter.com/oldergod">@oldergod</a>, <a href="https://benoitquenaudon.com">personal blog</a>, <a href="https://github.com/oldergod">GitHub</a></li>
 				</ul>
 
 				<h4>Hosts:</h4>
