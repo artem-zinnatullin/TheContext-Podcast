@@ -4,7 +4,7 @@
 
 * [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95)
 
-In the first part of episode #19 Artur and Hannes chated with Benoît Quenaudon from Square about Model-View-Intent. 
+In the first part of episode #19 Artur and Hannes chatted with Benoît Quenaudon from Square about Model-View-Intent. 
 We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.
 
 ### Guest:
