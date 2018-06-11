@@ -1419,6 +1419,7 @@
 				<li><a href="http://hannesdorfmann.com/android/mosby3-mvi-8">In-App Navigation with Coordinators</a></li>
 				<li><a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">droidcon SF 2017 - The Reactive Workflow Pattern Update</a></li>
 				<li><a href="https://twitter.com/oldergod/status/999638960384233474">Benoît's Tweet</a>: "We see more and more "reactive" architectures on Android but I think you're doing it wrong if you have a <code>subscribe</code> in your presenter. Ideally, the presenter should be an ObservableTransformer."</li>
+				<li><a href="https://staltz.com/unidirectional-user-interface-architectures.html">Unidirectional User Interface Architectures</li>
 				</ul>
 				]]>
       </itunes:summary>
@@ -1468,6 +1469,7 @@
 				<li><a href="http://hannesdorfmann.com/android/mosby3-mvi-8">In-App Navigation with Coordinators</a></li>
 				<li><a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">droidcon SF 2017 - The Reactive Workflow Pattern Update</a></li>
 				<li><a href="https://twitter.com/oldergod/status/999638960384233474">Benoît's Tweet</a>: "We see more and more "reactive" architectures on Android but I think you're doing it wrong if you have a <code>subscribe</code> in your presenter. Ideally, the presenter should be an ObservableTransformer."</li>
+				<li><a href="https://staltz.com/unidirectional-user-interface-architectures.html">Unidirectional User Interface Architectures</li>
 				</ul>
 				]]>
       </itunes:summary>
