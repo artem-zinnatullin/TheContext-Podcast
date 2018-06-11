@@ -1429,10 +1429,10 @@
       <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part2.md</link>
       <atom:link rel="replies" type="text/html"
         href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95" />
-      <itunes:duration>48:50</itunes:duration>
+      <itunes:duration>48:37</itunes:duration>
       <pubDate>Sun, 10 June 2018 09:35:00 EST</pubDate>
       <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part2.mp3"
-        length="70588659 " type="audio/mpeg" />
+        length="41109583 " type="audio/mpeg" />
       <itunes:summary>
         <![CDATA[
 				<h1>Episode 19, Part 2: Model-View-Intent with Benoît Quenaudon from Square</h1>
