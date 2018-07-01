@@ -6,7 +6,7 @@
     <description>New Podcast about Android Development</description>
     <language>en-us</language>
     <atom:link href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 29 June 2018 09:35:00 EST</lastBuildDate>
+    <lastBuildDate>Sun, 1 July 2018 09:36:00 EST</lastBuildDate>
     <itunes:owner>
       <itunes:email>artem.zinnatullin@gmail.com</itunes:email>
       <itunes:name>Artem Zinnatullin</itunes:name>
@@ -1308,14 +1308,55 @@
 				</ul>]]></itunes:summary>
     </item>
     <item>
-      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3</guid>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part1.mp3</guid>
       <title>Episode 20, Part 1: public final Agile</title>
       <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part2.md</link>
       <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97" rel="replies" type="text/html" />
       <itunes:duration>01:12:50</itunes:duration>
-      <pubDate>Sun, 29 June 2018 09:35:00 EST</pubDate>
+      <pubDate>Sun, 1 July 2018 09:35:00 EST</pubDate>
       <enclosure length="61435124" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part1.mp3" />
       <itunes:summary><![CDATA[<h1>Episode 20, Part 1: public final Agile</h1>
+
+				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97">Discussion after the episode</a></li>
+				</ul>
+
+				<p>In this episode Artem and Hannes chatted with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management.</p>
+
+				<h3>Guest:</h3>
+
+				<ul>
+				<li>Alexey Alexeev: <a href="https://www.linkedin.com/in/alexeev-alexey-6a83a88/">LinkedIn</a></li>
+				</ul>
+
+				<h4>Hosts:</h4>
+
+				<ul>
+				<li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+				<li>Artem Zinnatullin: <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="https://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				</ul>
+
+				<h4>Links</h4>
+
+				<ul>
+				<li><a href="https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y">Turn the Ship Around!</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">Toyota Production System</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Jeff_Sutherland">Jeff Sutherland</a></li>
+				<li><a href="https://edu.leankanban.com/users/david-anderson">David Anderson</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Kaizen">Kaizen</a></li>
+				</ul>]]></itunes:summary>
+    </item>
+    <item>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3</guid>
+      <title>Episode 20, Part 2: public final Agile</title>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part2.md</link>
+      <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97" rel="replies" type="text/html" />
+      <itunes:duration>41:55</itunes:duration>
+      <pubDate>Sun, 1 July 2018 09:36:00 EST</pubDate>
+      <enclosure length="35472069" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3" />
+      <itunes:summary><![CDATA[<h1>Episode 20, Part 2: public final Agile</h1>
 
 				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
 
