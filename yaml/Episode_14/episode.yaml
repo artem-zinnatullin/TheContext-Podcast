@@ -1,0 +1,13 @@
+guid: https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3
+title: "Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)"
+description: "In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava."
+peopleIds: 
+  hosts: [Artem, Hannes]
+  guests: [DavidKarnok]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_14.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76
+date: 2017-10-05
+duration: 01:21:11
+file: 
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3
+  length: 77973101

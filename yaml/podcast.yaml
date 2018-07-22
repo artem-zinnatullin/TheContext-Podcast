@@ -1,0 +1,16 @@
+title: The Context \#androiddev
+subtitle: New Android Developers Podcast
+description: New Podcast about Android Development
+peopleIds:
+  owners: ["Artem"]
+  authors: ["Artem", "Hannes", "Artur"]
+language:
+  code: en
+  regionCode: us
+explicit: no
+category: Technology
+subcategory: Software How-To
+keywords: ["android", "androiddev", "context", "development", "software"]
+artworkUrl: https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png
+url: https://github.com/artem-zinnatullin/TheContext-Podcast
+feedUrl: https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss

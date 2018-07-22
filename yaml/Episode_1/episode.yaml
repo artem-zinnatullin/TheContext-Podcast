@@ -1,0 +1,15 @@
+guid: https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3
+title: "Episode 1: Architecture of modern Android apps"
+description: In this episode we have talked about software architecture on Android.
+peopleIds: 
+  hosts: ["Artem"]
+  guests: ["Hannes"]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1
+date: 2016-02-04
+duration: 57:55
+file: 
+  url: https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3
+  length: 83400224
+
+

@@ -1,0 +1,13 @@
+guid: https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3
+title: "Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains"
+description: "We've talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin"
+peopleIds: 
+  hosts: [Artem, Hannes]
+  guests: [DmitryJemerov]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_10.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68
+date: 2017-05-08
+duration: 01:15:04
+file: 
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3
+  length: 108132883

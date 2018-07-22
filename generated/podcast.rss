@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The Context \#androiddev</title>
+    <description>New Podcast about Android Development</description>
+    <language>en-us</language>
+    <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/feed.rss"/>
+    <itunes:subtitle>New Android Developers Podcast</itunes:subtitle>
+    <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <itunes:keywords>android,androiddev,context,development,software</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Artem Zinnatullin</itunes:name>
+    </itunes:owner>
+    <atom:author>
+      <atom:name>Artem Zinnatullin</atom:name>
+    </atom:author>
+    <atom:author>
+      <atom:name>Hannes Dorfmann</atom:name>
+    </atom:author>
+    <atom:author>
+      <atom:name>Artur Dryomov</atom:name>
+    </atom:author>
+    <item>
+      <title>Episode 15: 2017 in Retrospective</title>
+      <description>In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more.</description>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_15.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3" length="63868600" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83"/>
+      <itunes:duration>01:15:56</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 15: 2017 in Retrospective</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more.</p>
+          <h2>Guests</h2>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>In this episode Artem and Hannes chatted with David Karnok about present and future of <a href="https://github.com/ReactiveX/RxJava">RxJava</a>. We discussed:</p>
+          <ul>
+          <li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+          <li>Kaushik Gopal's blog post: <a href="https://blog.kaush.co/2017/06/21/rxjava1-rxjava2-migration-understanding-changes/">RxJava 1 -&gt; RxJava 2 (Understanding the Changes)</a></li>
+          <li>Artem Zinnatullin's <a href="https://artemzin.com/blog/reply-to-kaushik-gopals-aricle-rxjava-1-rxjava-2-understanding-the-changes/">Reply to Kaushik Gopal's aricle: &quot;RxJava 1 -&gt; RxJava 2 (Understanding the Changes)&quot;</a></li>
+          <li><a href="https://kotlinlang.org/docs/reference/coroutines.html">Kotlin Coroutines</a></li>
+          <li><a href="https://github.com/JakeWharton/Reagent/">Reagent</a>: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html">RxJava vs. Kotlin Coroutines, a quick look</a> by David Karnok</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/rewriting-rxjava-with-kotlin-coroutines.html">Rewriting RxJava with Kotlin Coroutines?</a> by David Karnok</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/interoperation-between-rxjava-and.html">Interoperation between RxJava and Kotlin Coroutines</a> by David Karnok</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md">Episode 3 of The Context Podcast featuring David Karnok</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/wiki/Backpressure">RxJava Documentation: Backpressure</a></li>
+          <li><a href="https://community.oracle.com/docs/DOC-1006738">Reactive Programming with JDK 9 Flow API</a></li>
+          <li><a href="http://slack.kotlinlang.org">Kotlin Slack</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 16: Tools</title>
+      <description>In this episode Artem, Artur and Hannes discuss the tools they use for development.</description>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_16.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.16.mp3" length="53020028" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/86"/>
+      <itunes:duration>01:02:48</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 16: Tools</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/86">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode Artem, Artur and Hannes discuss the tools they use for development.</p>
+          <h2>Guests</h2>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>Tools:</p>
+          <ul>
+          <li><a href="https://github.com/gojuno/mainframer">Mainframer</a></li>
+          <li><a href="https://github.com/gojuno/composer">Composer</a></li>
+          <li><a href="https://github.com/gojuno/swarmer">Swarmer</a></li>
+          <li><a href="http://ohmyz.sh">zsh</a></li>
+          <li><a href="https://github.com/AlDanial/cloc">cloc</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Ncdu">ncdu</a></li>
+          <li><a href="https://jonas.github.io/tig/">tig</a></li>
+          <li><a href="https://geoff.greer.fm/ag/">ag</a></li>
+          </ul>
+          <p>CI:</p>
+          <ul>
+          <li><a href="https://jenkins.io">Jenkins</a></li>
+          <li><a href="http://circleci.com">CircleCi</a></li>
+          <li><a href="https://drone.io">Drone</a></li>
+          </ul>
+          <p>Libraries:</p>
+          <ul>
+          <li><a href="http://spekframework.org/">Spek</a></li>
+          <li><a href="https://github.com/JakeWharton/RxReplayingShare">RxReplayingShare</a></li>
+          <li><a href="https://github.com/square/moshi">Moshi</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</title>
+      <description>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.</description>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3" length="62473519" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49"/>
+      <itunes:duration>43:14</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Fernando Cejas</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 6, Part1: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Fernando Cejas: <a href="https://twitter.com/fernando_cejas">Twitter</a>, <a href="https://github.com/android10">GitHub</a>, <a href="http://fernandocejas.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>Continuous Integration</li>
+          <li>Continuous Delivery</li>
+          <li>Pair Programming</li>
+          <li>Release Train</li>
+          <li>Soundcloud's CI &amp; CD Pipeline</li>
+          <li>Testing</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition">Slides from Fernando's talk at MobileOptimized'2016 </a></li>
+          <li><a href="https://github.com/android10/Android-CleanArchitecture">Fernando's Clean Architecture</a> sample on github</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 5: Android TV </title>
+      <description>In episode 5 we talked to Joe Birch about Android TV.</description>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3" length="47396669" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45"/>
+      <itunes:duration>49:22</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Joe Birch</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 5: Android TV</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45">Discussion after the episode</a></li>
+          </ul>
+          <p>In episode 5 we talked to Joe Birch about Android TV.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Joe Birch: <a href="https://twitter.com/hitherejoe">Twitter</a>, <a href="https://github.com/hitherejoe">GitHub</a>, <a href="https://joebirch.co">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>What is Android TV</li>
+          <li>Leanback Library</li>
+          <li>MVP Pattern to share code between Phone and Android TV App</li>
+          <li>Android TV Recommendation System</li>
+          <li>What's new in Android Nougat for Android TV</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5">Bourbon</a>: Dribbble, Android, MVP and a Common-Code Module</li>
+          <li><a href="https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3">Vineyard</a>: Creating an Android TV Vine App</li>
+          <li><a href="https://medium.com/@hitherejoe/android-tv-chill-3ba9c413daef">Android TV &amp; Chill</a>: A concept for what it would be like ordering fast-food on Android TV</li>
+          <li><a href="https://medium.com/@hitherejoe/code-life-d25d9178e4da">Code != Life</a>: On finding the balance between side-projects and headspace</li>
+          <li><a href="https://medium.com/exploring-android/designing-for-android-tv-9fecd5cd0c8c">Designing for Android TV</a></li>
+          <li><a href="https://youtu.be/TxAbht2DkyU">Picture in Picture on Android TV</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=net.froemling.bombsquad">BombSquad</a>: A funny game Hannes has mentioned</li>
+          <li><a href="https://play.google.com/store/apps/details?id=net.froemling.bsremote">BombSquad Remote</a>: Use your phone as a controller for BombSquad</li>
+          <li><a href="https://youtu.be/qv-e1sV3gos">Bring your Android app to Android TV in minutes</a>: Google I/O 2016</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD)</title>
+      <description>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.</description>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part2.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part2.mp3" length="66043032" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49"/>
+      <itunes:duration>45:55</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Fernando Cejas</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 6, Part2: Continuous Integration (CI) &amp; Continuous Delivery (CD)</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Fernando Cejas: <a href="https://twitter.com/fernando_cejas">Twitter</a>, <a href="https://github.com/android10">GitHub</a>, <a href="http://fernandocejas.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>UI Tests</li>
+          <li>Continuous Integration</li>
+          <li>Continuous Delivery</li>
+          <li>Soundcloud's CI &amp; CD Pipeline</li>
+          <li>Testing in general</li>
+          <li>EVERYTHING &amp; LIFE</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://speakerdeck.com/android10/it-is-about-philosophy-culture-of-a-good-programmer-second-edition">Slides from Fernando's talk at MobileOptimized'2016 </a></li>
+          <li><a href="https://github.com/android10/Android-CleanArchitecture">Fernando's Clean Architecture</a> sample on github</li>
+          <li><a href="http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house">From Prefab House to Lego House</a> - Blog post about depending on a shared library</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</title>
+      <description>Hannes chatted with his coworkes Lukas and Christian about Instant Apps.</description>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_12.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3" length="30566084" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"/>
+      <itunes:duration>31:47</itunes:duration>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Christian Bahl</atom:name>
+      </atom:contributor>
+      <atom:contributor>
+        <atom:name>Lukas Olsen</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 12: Instant Apps with Lukas Olsen and Christian Bahl</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71">Discussion after the episode</a></li>
+          </ul>
+          <p>Hannes chatted with his coworkes Lukas and Christian about Instant Apps.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Christian Bahl: <a href="https://twitter.com/christian_bahl">Twitter</a></li>
+          <li>Lukas Olsen</li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We apologize for the bad sound quality and low sound volume.</p>
+          <p>Hannes chatted with his coworkes Lukas and Christian about Instant Apps. Unfortunately, Artem wasn't able to join us for this episode. We have covered:</p>
+          <ul>
+          <li>How Instant Apps work</li>
+          <li>Limitations</li>
+          <li>Accelerated Mobile Pages (AMP)</li>
+          <li>Gradle Plugins: com.android.instantapp and com.android.feature</li>
+          <li>Sharing code between regular App and Instant App</li>
+          <li>User Experience with Instant Apps</li>
+          <li>Instant App Early Access Preview Program</li>
+          <li>Our personal Google I/O 2017 highlights:
+          <ul>
+          <li><a href="https://youtu.be/fPzxfeDJDzY">Life is Great and Everything Will Be Ok, Kotlin is Here</a></li>
+          <li><a href="https://youtu.be/FrteWKKVyzI?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Architecture Components</a></li>
+          <li><a href="https://youtu.be/7ll-rkLCtyk?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Speeding Up Your Android Gradle Builds</a></li>
+          <li><a href="https://youtu.be/oispNrpGnIY?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Introduction to Android Instant Apps</a></li>
+          </ul>
+          </li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://developer.android.com/topic/instant-apps/index.html">Instant Apps Documentation</a></li>
+          <li><a href="https://www.ampproject.org">Accelerated Mobile Pages (AMP)</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy">Google I/O 2017 Video Playlist</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 8: Damn Functional Programming with Paco Estevez</title>
+      <description>In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps.</description>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_8.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3" length="66218024" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"/>
+      <itunes:duration>01:08:56</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Paco Estevez</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 8: Damn Functional Programming with Paco Estevez</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Paco Estevez: <a href="https://twitter.com/pacoworks">Twitter</a>, <a href="https://github.com/pacoworks">GitHub</a>, <a href="https://www.pacoworks.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps. We have covered:</p>
+          <ul>
+          <li>Concepts of Functional Programming</li>
+          <li>Monads, Pure Functions, Immutability, Tuples, Union Types</li>
+          <li>Pattern Matching</li>
+          <li>Error Handling</li>
+          <li>Functional Reactive Programming with RxJava</li>
+          <li>Restoring state in Android apps</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <p>Talks, books and websites about Functional Programming:</p>
+          <ul>
+          <li><a href="http://www.braveclojure.com">Clojure for the Brave and True</a></li>
+          <li><a href="http://learnyouahaskell.com">Learn You a Haskell for Great Good</a></li>
+          <li><a href="https://fsharpforfunandprofit.com">F# for fun and profit</a></li>
+          <li><a href="https://speakerdeck.com/pakoito/about-memory-management-in-fully-reactive-apps">Talk by Paco about Memory Management in Fully Reactive Apps</a></li>
+          </ul>
+          <p>Some of Paco's open source libraries:</p>
+          <ul>
+          <li><a href="https://github.com/pakoito/Komprehensions">Komprehensions</a></li>
+          <li><a href="https://github.com/pakoito/RxSealedUnions2">RxSealedUnions</a></li>
+          <li><a href="https://github.com/pakoito/RxTuples2">RxTuples</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</title>
+      <description>In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava.</description>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_14.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.14.mp3" length="77973101" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76"/>
+      <itunes:duration>01:21:11</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>David Karnok</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 14: RxJava — the Present and Future with David Karnok (core maintainer)</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we chatted with core maintainer David Karnok about the present and the future of RxJava.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>David Karnok: <a href="https://twitter.com/akarnokd">Twitter</a>, <a href="https://github.com/akarnokd">GitHub</a>, <a href="http://akarnokd.blogspot.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>In this episode Artem and Hannes chatted with David Karnok about present and future of <a href="https://github.com/ReactiveX/RxJava">RxJava</a>. We discussed:</p>
+          <ul>
+          <li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+          <li>Kaushik Gopal's blog post: <a href="https://blog.kaush.co/2017/06/21/rxjava1-rxjava2-migration-understanding-changes/">RxJava 1 -&gt; RxJava 2 (Understanding the Changes)</a></li>
+          <li>Artem Zinnatullin's <a href="https://artemzin.com/blog/reply-to-kaushik-gopals-aricle-rxjava-1-rxjava-2-understanding-the-changes/">Reply to Kaushik Gopal's aricle: &quot;RxJava 1 -&gt; RxJava 2 (Understanding the Changes)&quot;</a></li>
+          <li><a href="https://kotlinlang.org/docs/reference/coroutines.html">Kotlin Coroutines</a></li>
+          <li><a href="https://github.com/JakeWharton/Reagent/">Reagent</a>: Experiments for future reactive libraries by using Kotlin Coroutines by Jake Wharton</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html">RxJava vs. Kotlin Coroutines, a quick look</a> by David Karnok</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/rewriting-rxjava-with-kotlin-coroutines.html">Rewriting RxJava with Kotlin Coroutines?</a> by David Karnok</li>
+          <li><a href="http://akarnokd.blogspot.de/2017/09/interoperation-between-rxjava-and.html">Interoperation between RxJava and Kotlin Coroutines</a> by David Karnok</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_Part_1.md">Episode 3 of The Context Podcast featuring David Karnok</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/wiki/Backpressure">RxJava Documentation: Backpressure</a></li>
+          <li><a href="https://community.oracle.com/docs/DOC-1006738">Reactive Programming with JDK 9 Flow API</a></li>
+          <li><a href="http://slack.kotlinlang.org">Kotlin Slack</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 3, Part 1: RxJava with its core developer David Karnok</title>
+      <description>In this part of the episode we have talked about RxJava.</description>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_part1.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3" length="63658598" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
+      <itunes:duration>44:12</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>David Karnok</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 3, Part 1: RxJava with its core developer David Karnok</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
+          </ul>
+          <p>In this part of the episode we have talked about RxJava.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>David Karnok: <a href="https://twitter.com/akarnokd">Twitter</a>, <a href="https://github.com/akarnokd">GitHub</a>, <a href="http://akarnokd.blogspot.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>Past of RxJava</li>
+          <li>Background of David Karnok and his earlier implementation of Reactive Extensions for JVM</li>
+          <li>Current state of the RxJava development</li>
+          <li>Reactive Streams specification</li>
+          <li>JDK 9 Flow API</li>
+          <li>RxJava v2 and Android compatibility</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
+      <description>In this episode we have talked to Alexey Tsvetkov from Jetbrains about Kotlin Gradle plugin, compilers and build systems.</description>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part1.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3" length="65819851" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62"/>
+      <itunes:duration>45:42</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Alexey Tsvetkov</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 9, Part 1: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked to Alexey Tsvetkov from Jetbrains about Kotlin Gradle plugin, compilers and build systems.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Alexey Tsvetkov: <a href="https://twitter.com/tsvtkv">Twitter</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p><strong>Important note for Pocket Casts app users:</strong>
+          Unfortunately Pocket Casts android app has a problem with downloading our episodes (to listen to them offline).
+          It seems that while downloading their android app is using a old http client which doesn't support latest TLS cipher standards we use on server side to host our episodes.</p>
+          <p>Nevertheless, <strong>streaming our episodes (instead of downloading) works</strong> in Pocket Casts android app.</p>
+          <p>See this tutorial: <a href="http://support.pocketcasts.com/article/streaming-episodes/">Pocket Casts: Streaming</a></p>
+          <p>In this episode we have talked with Alexey Tsvetkov who works at the Kotlin team at jetbrains on Kotlin's gradle plugin, compilers and build systems in general.</p>
+          <p>In the first part (of two parts) we have covered:</p>
+          <ul>
+          <li>Gradle Build System and its build phases</li>
+          <li>Kotlin Gradle plugin</li>
+          <li>Compiling mixed Kotlin and Java projects</li>
+          <li>Incremental compilation</li>
+          <li>How a compiler works</li>
+          <li>Compiler Frontends and Backends</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://kotlinlang.org">Kotlin programming language</a></li>
+          <li><a href="https://docs.gradle.org/current/userguide/build_lifecycle.html">Gradle: The Build Lifecycle</a></li>
+          <li><a href="https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/">Kotlin native</a></li>
+          <li><a href="https://github.com/JetBrains/intellij-community/tree/master/jps">JPS: IntelliJ IDEA's internal build system</a></li>
+          <li><a href="https://kotlinlang.org/docs/tutorials/koans.html">Kotlin Koans</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 13: Conductor with Eric Kuck</title>
+      <description>In this episode we talked about Conductor with creator Eric Kuck.</description>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_13.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.13.mp3" length="61832318" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76"/>
+      <itunes:duration>01:04:23</itunes:duration>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Eric Kuck</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 13: Conductor with Eric Kuck</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/76">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we talked about Conductor with creator Eric Kuck.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Eric Kuck: <a href="https://twitter.com/eric_kuck">Twitter</a>, <a href="https://github.com/EricKuck">GitHub</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p><strong>Announcement:</strong> We have a new Co-Host for our podcast: Welcome <a href="https://twitter.com/arturdryomov">Artur Dryomov</a>!</p>
+          <p>We think that we need at least two hosts on each episode to produce a high-quality content.
+          Unfortunately, podcast production is time-consuming but now there are three hosts, so we can ensure that at least two of us have time to produce a new episode regularly.</p>
+          <p>In this episode Artur and Hannes chatted with Eric Kuck about <a href="https://github.com/bluelinelabs/Conductor">Conductor</a>, a framework created by Eric as alternative to Fragments. We discussed:</p>
+          <ul>
+          <li>Motivation behind Conductor</li>
+          <li>Conductor components: Controller, Router, ChangeHandler and ControllerTransaction</li>
+          <li>How Conductor works behind the scenes</li>
+          <li>Single Activity Applications</li>
+          <li>Testing</li>
+          <li>The future of Conductor</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/bluelinelabs/Conductor">Conductor on GitHub</a></li>
+          <li><a href="https://github.com/EricKuck/ConductorGlideDemo">Demo of Glide integration with Controller LifecycleListener</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon from Square</title>
+      <description>In the first part of episode #19 Artur and Hannes chatted with Benoît Quenaudon from Square about Model-View-Intent.</description>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part1.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part1.mp3" length="31423481" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95"/>
+      <itunes:duration>37:06</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Benoît Quenaudon</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 19, Part 1: Model-View-Intent with Benoît Quenaudon from Square</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95">Discussion after the episode</a></li>
+          </ul>
+          <p>In the first part of episode #19 Artur and Hannes chatted with Benoît Quenaudon from Square about Model-View-Intent.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Benoît Quenaudon: <a href="https://twitter.com/oldergod">Twitter</a>, <a href="https://github.com/oldergod">GitHub</a>, <a href="https://benoitquenaudon.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.</p>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="https://cycle.js.org">Cycle.js</a></li>
+          <li><a href="https://github.com/oldergod/android-architecture">Android Blueprint: ToDo App using MVI by Benoît</a></li>
+          <li><a href="https://www.youtube.com/watch?v=PXBXcHQeDLE">droidcon NYC 2017 - Model-View-Intent for Android</a></li>
+          <li><a href="http://hannesdorfmann.com/android/mosby3-mvi-8">In-App Navigation with Coordinators</a></li>
+          <li><a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">droidcon SF 2017 - The Reactive Workflow Pattern Update</a></li>
+          <li><a href="https://twitter.com/oldergod/status/999638960384233474">Benoît's Tweet</a>: &quot;We see more and more &quot;reactive&quot; architectures on Android but I think you're doing it wrong if you have a <code>subscribe</code> in your presenter. Ideally, the presenter should be an ObservableTransformer.&quot;</li>
+          <li><a href="https://staltz.com/unidirectional-user-interface-architectures.html">Unidirectional User Interface Architectures</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 1: Architecture of modern Android apps</title>
+      <description>In this episode we have talked about software architecture on Android.</description>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_1.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1"/>
+      <itunes:duration>57:55</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 1: Architecture of modern Android apps</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/1">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about software architecture on Android.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We covered:</p>
+          <ul>
+          <li>MVC</li>
+          <li>MVVM</li>
+          <li>MVVMC</li>
+          <li>MVP</li>
+          <li><a href="https://facebook.github.io/flux/docs/overview.html">Flux</a></li>
+          <li><a href="http://cycle.js.org/">Cycle.js</a> (a.k.a. Model-View-Intent)</li>
+          </ul>
+          <h3>Open Source projects from Hannes:</h3>
+          <ul>
+          <li><a href="https://github.com/sockeqwe/mosby">Mosby</a></li>
+          <li><a href="https://github.com/sockeqwe/sqlbrite-dao">SQLBrite-DAO</a></li>
+          <li><a href="https://github.com/sockeqwe/fragmentargs">FragmentArgs</a></li>
+          <li><a href="https://github.com/sockeqwe/ParcelablePlease">ParcelablePlease</a></li>
+          </ul>
+          <h3>Additional links</h3>
+          <ul>
+          <li><a href="https://github.com/google/auto/issues/268">AutoValue split into 2 jars issue</a></li>
+          <li><a href="https://google.github.io/dagger/testing.html">Dagger 2 document about testing</a></li>
+          <li><a href="https://github.com/rheinfabrik/android-mvvm-example">Clean MVVM example</a></li>
+          <li><a href="https://github.com/google/dagger/issues/298">Gradle's incremental build issue with annotation processing</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 18, Part 1: Android Everywhere</title>
+      <description>In the first part of episode #18 Artur, Hannes und Artem discuss Android tablets, Chromebooks and Android Wear (Wear OS).</description>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part1.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3" length="45465440" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92"/>
+      <itunes:duration>53:49</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 18, Part 1: Android Everywhere</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92">Discussion after the episode</a></li>
+          </ul>
+          <p>In the first part of episode #18 Artur, Hannes und Artem discuss Android tablets, Chromebooks and Android Wear (Wear OS).</p>
+          <h2>Guests</h2>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <h3>Links:</h3>
+          <ul>
+          <li><a href="https://www.youtube.com/watch?v=Ym1KkXPa9aA">Fireside Chat with Matias Duarte, VP of Design, Android</a>: Interesting interview with Matias Duarte about form factors like mobile, wearables, TV, Chromebooks and watch.</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 18, Part 2: Android Everywhere</title>
+      <description>In the second part of episode #18 Artur, Hannes and Artem discuss Android TV, Chromecast and Android Auto.</description>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_18_Part2.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part2.mp3" length="52152856" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92"/>
+      <itunes:duration>01:01:46</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 18, Part 2: Android Everywhere</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92">Discussion after the episode</a></li>
+          </ul>
+          <p>In the second part of episode #18 Artur, Hannes and Artem discuss Android TV, Chromecast and Android Auto.</p>
+          <h2>Guests</h2>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <h3>Links:</h3>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_5.md">The Context Episode 5: Android TV with Joe Birch</a></li>
+          <li><a href="https://medium.com/exploring-android/android-tv-chill-3ba9c413daef">Android TV &amp; Chill</a>: A concept for what it would be like ordering fast-food on Android TV by Joe Birch.</li>
+          <li><a href="https://www.reddit.com/r/Android/comments/7zf4tk/openauto_turns_a_raspberry_pi_into_an_android/">OpenAuto</a>: Turns a Raspberry Pi into an Android Auto device.</li>
+          <li><a href="https://www.amazon.com/dp/B074Y71ZKC">Artem's car system running Android</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 4: Indie Development</title>
+      <description>In this episode we have talked about Indie Development.</description>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36"/>
+      <itunes:duration>1:07:44</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Chris Lacy</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 4: Indie Development</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about Indie Development.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Chris Lacy: <a href="https://twitter.com/chrismlacy">Twitter</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>How to get started in Indie development</li>
+          <li>Project management as single developer</li>
+          <li>Testing and Continuous Integration</li>
+          <li>How does an Indie developer decides which libraries or technologies to use?</li>
+          <li>Designing without being a designer</li>
+          <li>Play Store, in app purchases and subscriptions</li>
+          </ul>
+          <p>Apps published by Chris Lacy on <a href="https://play.google.com/store/apps/developer?id=Chris+Lacy">Google Play Store</a>:</p>
+          <ul>
+          <li><a href="https://play.google.com/store/apps/details?id=com.actionlauncher.playstore">Action Launcher 3</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="http://theblerg.net/">the blerg</a>: Chris Lacy's podcast</li>
+          <li><a href="http://theblerg.net/post/2015/08/05/ive-sold-link-bubble-tappath-and-all-related-assets">Chris blog post about selling Link Bubble</a></li>
+          <li><a href="https://github.com/brave/browser-android">Link Bubble</a> has been open sourced</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 4: Indie Development</title>
+      <description>In this episode we have talked about Indie Development.</description>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_4.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36"/>
+      <itunes:duration>1:07:44</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Chris Lacy</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 4: Indie Development</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about Indie Development.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Chris Lacy: <a href="https://twitter.com/chrismlacy">Twitter</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We have covered:</p>
+          <ul>
+          <li>How to get started in Indie development</li>
+          <li>Project management as single developer</li>
+          <li>Testing and Continuous Integration</li>
+          <li>How does an Indie developer decides which libraries or technologies to use?</li>
+          <li>Designing without being a designer</li>
+          <li>Play Store, in app purchases and subscriptions</li>
+          </ul>
+          <p>Apps published by Chris Lacy on <a href="https://play.google.com/store/apps/developer?id=Chris+Lacy">Google Play Store</a>:</p>
+          <ul>
+          <li><a href="https://play.google.com/store/apps/details?id=com.actionlauncher.playstore">Action Launcher 3</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.chrislacy.actionlauncher.pro">Action Launcher 2</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.tweetlanes.android">Tweet Lanes</a></li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="http://theblerg.net/">the blerg</a>: Chris Lacy's podcast</li>
+          <li><a href="http://theblerg.net/post/2015/08/05/ive-sold-link-bubble-tappath-and-all-related-assets">Chris blog post about selling Link Bubble</a></li>
+          <li><a href="https://github.com/brave/browser-android">Link Bubble</a> has been open sourced</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 20, Part 1: public final Agile</title>
+      <description>In this episode Artem and Hannes chatted with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management.</description>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part1.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_20_Part1.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part1.mp3" length="61435124" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97"/>
+      <itunes:duration>01:12:50</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Alexey Alexeev</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 20, Part 1: public final Agile</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode Artem and Hannes chatted with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Alexey Alexeev: <a href="https://www.linkedin.com/in/alexeev-alexey-6a83a88/">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y">Turn the Ship Around!</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">Toyota Production System</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Jeff_Sutherland">Jeff Sutherland</a></li>
+          <li><a href="https://edu.leankanban.com/users/david-anderson">David Anderson</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Kaizen">Kaizen</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 17: Switching Gears to C# and .NET</title>
+      <description>Artur chatted with Dmitry Savchenko about C#, .NET and everything in between.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_17.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3" length="48665265" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90"/>
+      <itunes:duration>57:37</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Dmitry Savchenko</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 17: Switching Gears to C# and .NET</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90">Discussion after the episode</a></li>
+          </ul>
+          <p>Artur chatted with Dmitry Savchenko about C#, .NET and everything in between.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Dmitry Savchenko: <a href="https://github.com/dsav">GitHub</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>The reason is simple — we are changing our jobs as Android developers to be real enterprise professionals.
+          Prepare for next episodes about macOS AppKit, Linux kernel, Go microservices and Plan 9 vs. Inferno.
+          And maybe gardening at some point. Also — April Fools!</p>
+          <p>Seriously though — the episode is a great introduction into C# world. Just for erudition sake, you know.</p>
+          <h3>Links:</h3>
+          <p>C#</p>
+          <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Hejlsberg — Turbo Pascal, C# and TypeScript designer</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history">Versions history</a></li>
+          <li><a href="https://github.com/dotnet/csharplang/wiki/Nullable-Reference-Types-Preview">Nullable reference types preview</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/struct"><code>struct</code></a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/async"><code>async</code> and <code>await</code></a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield"><code>yield</code></a></li>
+          <li><a href="http://fsharp.org/">F#</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/quantum/quantum-qr-intro">Q#</a></li>
+          </ul>
+          <p>.NET</p>
+          <ul>
+          <li><a href="https://en.wikipedia.org/wiki/.NET_Framework">.NET Framework</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/core/">.NET Core</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server">.NET Framework vs. .NET Core</a></li>
+          </ul>
+          <p>Tools</p>
+          <ul>
+          <li><a href="https://www.jetbrains.com/resharper/">JetBrains ReSharper</a></li>
+          <li><a href="https://www.jetbrains.com/rider/">JetBrains Rider</a></li>
+          <li><a href="https://github.com/dotnet/roslyn">Roslyn — .NET Compiler Platform</a></li>
+          <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+          <li><a href="https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild">MSBuild</a></li>
+          <li><a href="https://www.nuget.org/">NuGet</a></li>
+          <li><a href="https://www.visualstudio.com/tfs/">Team Foundation Server</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 7: React Native with Felipe Lima from Airbnb</title>
+      <description>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb.</description>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_7.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.7.mp3" length="75883752" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55"/>
+      <itunes:duration>52:41</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Felipe Lima</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 7: React Native with Felipe Lima from Airbnb</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/55">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Felipe Lima: <a href="https://twitter.com/felipecsl">Twitter</a>, <a href="https://github.com/felipecsl">GitHub</a>, <a href="https://medium.com/@felipecsl">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>In this episode we have talked with Felipe Lima about React Native, a cross platform solution to build native mobile apps using JavaScript and React, and how React Native is used at Airbnb. We have covered:</p>
+          <ul>
+          <li>Advantages and Disadvantages of React Native</li>
+          <li>React Native build tools, IDE and debugging</li>
+          <li>How to write your own custom component</li>
+          <li>Lifecycle, state restoration and process death in React Native apps</li>
+          <li>Integration and interaction with android system services</li>
+          <li>Sharing code with iOS</li>
+          <li>Usage for React Native in Airbnb's android and iOS app</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://facebook.github.io/react-native/">React Native website</a></li>
+          <li><a href="https://medium.com/@felipecsl/thoughts-on-react-native-from-an-android-engineers-perspective-ea2bea5aa078#.k31212quk">Thoughts on React Native by Felipe</a> sample on github</li>
+          <li><a href="https://www.youtube.com/watch?v=npwa3ZmG9VQ">ReactiveConf 2016 (YouTube)</a> - Bridging the Gap: How to use React Native in existing large native code bases by Airbnb engineer Leland Richardson.</li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 19, Part 2: Model-View-Intent with Benoît Quenaudon from Square</title>
+      <description>In the second part of episode #19 Artur and Hannes continue the discussion with Benoît Quenaudon from Square about Model-View-Intent.</description>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_19_Part2.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part2.mp3" length="41109583" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95"/>
+      <itunes:duration>48:37</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Benoît Quenaudon</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 19, Part 2: Model-View-Intent with Benoît Quenaudon from Square</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95">Discussion after the episode</a></li>
+          </ul>
+          <p>In the second part of episode #19 Artur and Hannes continue the discussion with Benoît Quenaudon from Square about Model-View-Intent.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Benoît Quenaudon: <a href="https://twitter.com/oldergod">Twitter</a>, <a href="https://github.com/oldergod">GitHub</a>, <a href="https://benoitquenaudon.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications.</p>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="https://cycle.js.org">Cycle.js</a></li>
+          <li><a href="https://github.com/oldergod/android-architecture">Android Blueprint: ToDo App using MVI by Benoît</a></li>
+          <li><a href="https://www.youtube.com/watch?v=PXBXcHQeDLE">droidcon NYC 2017 - Model-View-Intent for Android</a></li>
+          <li><a href="http://hannesdorfmann.com/android/mosby3-mvi-8">In-App Navigation with Coordinators</a></li>
+          <li><a href="https://www.youtube.com/watch?v=mvBVkU2mCF4">droidcon SF 2017 - The Reactive Workflow Pattern Update</a></li>
+          <li><a href="https://twitter.com/oldergod/status/999638960384233474">Benoît's Tweet</a>: &quot;We see more and more &quot;reactive&quot; architectures on Android but I think you're doing it wrong if you have a <code>subscribe</code> in your presenter. Ideally, the presenter should be an ObservableTransformer.&quot;</li>
+          <li><a href="https://staltz.com/unidirectional-user-interface-architectures.html">Unidirectional User Interface Architectures</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 3, Part 2: RxJava with its core developer David Karnok</title>
+      <description>In the second part of episde 3 we continued the discussion about RxJava.</description>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_3_part2.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3" length="63658598" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"/>
+      <itunes:duration>37:30</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>David Karnok</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 3, Part 2: RxJava with its core developer David Karnok</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25">Discussion after the episode</a></li>
+          </ul>
+          <p>In the second part of episde 3 we continued the discussion about RxJava.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>David Karnok: <a href="https://twitter.com/akarnokd">Twitter</a>, <a href="https://github.com/akarnokd">GitHub</a>, <a href="http://akarnokd.blogspot.com">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>More technical questions about RxJava. We have covered:</p>
+          <ul>
+          <li><code>Schedulers.computation()</code> in RxJava</li>
+          <li>Schedulers in RxJava</li>
+          <li><code>subscribeOn()</code> and <code>observeOn()</code></li>
+          <li>Testing code with RxJava</li>
+          <li>Extending the <code>Observable</code></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 20, Part 1: public final Agile</title>
+      <description>In the second part of episode 20 Artem and Hannes continue the discussion with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management.</description>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_20_Part2.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3" length="35472069" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97"/>
+      <itunes:duration>41:55</itunes:duration>
+      <atom:author>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Alexey Alexeev</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 20, Part 1: public final Agile</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97">Discussion after the episode</a></li>
+          </ul>
+          <p>In the second part of episode 20 Artem and Hannes continue the discussion with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Alexey Alexeev: <a href="https://www.linkedin.com/in/alexeev-alexey-6a83a88/">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <h3>Links</h3>
+          <ul>
+          <li><a href="https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y">Turn the Ship Around!</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Toyota_Production_System">Toyota Production System</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Jeff_Sutherland">Jeff Sutherland</a></li>
+          <li><a href="https://edu.leankanban.com/users/david-anderson">David Anderson</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Kaizen">Kaizen</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</title>
+      <description>We&#39;ve talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin</description>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_10.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.10.mp3" length="108132883" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68"/>
+      <itunes:duration>01:15:04</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Dmitry Jemerov</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 10: Kotlin Language Design Nitpicking with Dmitry Jemerov from JetBrains</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/68">Discussion after the episode</a></li>
+          </ul>
+          <p>We've talked to Dmitry Jemerov from Kotlin team at JetBrains about some language design decisions made in Kotlin</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Dmitry Jemerov: <a href="https://twitter.com/intelliyole">Twitter</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We know about sound volume level issue <a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/67">#67</a> and tried our best to maximize it in this episode, but Artem used his crappy headphones mic instead of professional one and we couldn't achieve what we wanted, sorry about that, we'll try our best in next episode.</p>
+          <p>We've talked to Dmitry Jemerov aka @yole from Kotlin team at JetBrains about some language design decisions made in Kotlin:</p>
+          <ul>
+          <li>Package visibility in Kotlin</li>
+          <li>Java static equivalent in Kotlin</li>
+          <li>Companion objects</li>
+          <li>Static extension functions</li>
+          <li>Classes are final by default but fields are public</li>
+          <li>Unchecked exceptions</li>
+          <li>Generics</li>
+          <li>Base types: Any, Unit, Nothing</li>
+          <li>Traits</li>
+          <li>Delegates</li>
+          <li>Data classes</li>
+          <li>Upcoming features</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://www.manning.com/books/kotlin-in-action">Book: Kotlin in Action written by Dmitry Jemerov and Svetlana Isakova</a></li>
+          <li><a href="http://kotlinlang.org/">Official Kotlin website with photo of lighthouse on Kotlin island</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 2: Testing</title>
+      <description>In this episode we have talked about testing in Android Development.</description>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_2.md</link>
+      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17"/>
+      <itunes:duration>1:42:01</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Mike Evans</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 2: Testing</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17">Discussion after the episode</a></li>
+          </ul>
+          <p>In this episode we have talked about testing in Android Development.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Mike Evans: <a href="https://twitter.com/m_evans10">Twitter</a>, <a href="https://github.com/MichaelEvans">GitHub</a>, <a href="http://michaelevans.org">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>In this episode we have talked about testing in Android Development. We have covered:</p>
+          <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Unit_testing">Unit testing</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Integration_testing">Integration testing</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Functional_testing">Functional (UI) testing</a></li>
+          <li><a href="http://robolectric.org">Robolectric</a></li>
+          <li><a href="http://developer.android.com/tools/testing/testing_android.html#Instrumentation">Android Instrumentation API</a></li>
+          <li><a href="http://developer.android.com/tools/testing-support-library/index.html#UIAutomator">UI Automator</a></li>
+          <li><a href="http://developer.android.com/tools/testing-support-library/index.html#Espresso">Espresso</a></li>
+          <li><a href="https://github.com/RobotiumTech/robotium">Robotium</a></li>
+          <li><a href="http://appium.io">Appium</a></li>
+          <li><a href="http://junit.org">JUnit</a></li>
+          <li><a href="http://joel-costigliola.github.io/assertj/">AssertJ</a></li>
+          <li><a href="https://github.com/google/truth">Thruth</a></li>
+          <li><a href="https://github.com/spockframework/spock">Spock</a></li>
+          <li><a href="https://github.com/JetBrains/spek">Spek</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/15">Questions asked by listeners</a>.</li>
+          </ul>
+          <h3>Open Source projects from Mike:</h3>
+          <ul>
+          <li><a href="https://github.com/MichaelEvans/Aftermath">Aftermath</a></li>
+          <li><a href="https://github.com/MichaelEvans/ColorArt">ColorArt</a></li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/qualitymatters">#qualitymatters</a></li>
+          <li><a href="https://github.com/JakeWharton/u2020">U2020</a></li>
+          <li><a href="http://jakewharton.com/android-needs-a-simulator/">Android Needs A Simulator, Not An Emulator</a></li>
+          <li><a href="http://artemzin.com/blog/minsdk-without-flavors/">minSdkVersion for multiDex without flavors</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</title>
+      <description>We&#39;ve talked to Artur about Juno&#39;s way to migrate their Android Riders App from RxJava 1 to RxJava 2.</description>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_11.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3" length="50658006" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"/>
+      <itunes:duration>52:46</itunes:duration>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Artur Dryomov</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71">Discussion after the episode</a></li>
+          </ul>
+          <p>We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2.</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">website</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p>We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2. We have covered:</p>
+          <ul>
+          <li>Migration strategy at Juno</li>
+          <li>What's different in RxJava 2.0?</li>
+          <li>Null values in RxJava 2</li>
+          <li>Flowable or Observable?</li>
+          <li>Other Rx Types: Single, Maybe and Completable</li>
+          <li>RxJava 2 interop library</li>
+          <li>RxJava 2: Default UncaughtExceptionHandler logs exceptions silently in jvm unit tests</li>
+          <li>RxJava 3</li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/gojuno/engineering/blob/master/specs/rxjava-2-migration.md">Juno's Android Rider Team RxJava 2 Migration Specification</a></li>
+          <li><a href="https://github.com/ReactiveX/RxKotlin">RxKotlin</a></li>
+          <li><a href="https://github.com/akarnokd/RxJava2Interop">RxJava 2 interop library</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0">What's different in RxJava 2.0</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/wiki/What%27s-different-in-2.0#which-type-to-use">RxJava 2: Which type to use</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/issues/5234">RxJava 2: Uncaught errors fail silently in junit tests</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/issues/4644#issuecomment-256684743">RxJava 2: Discussion about null values</a></li>
+          <li><a href="https://github.com/ReactiveX/RxKotlin/issues/103">RxJava 2 Kotlin SAM issue combineLatest()/etc</a></li>
+          <li><a href="https://github.com/reactive-streams/reactive-streams-jvm/issues/204">Reactive Streams specification: null value</a></li>
+          <li><a href="https://github.com/ReactiveX/RxJava/issues/4564">Why RxJava 3: Split the library into two or adding types for symmetry</a></li>
+          <li><a href="https://github.com/akarnokd/RxJava3-preview">RxJava 3 Preview</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 9, Part 2: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</title>
+      <description>In the second part of episode 9 we have talked about build systems for android development: Gradle, Buck and Bazel</description>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3</guid>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_9_Part2.md</link>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3" length="61642020" type="audio/mpeg"/>
+      <atom:link rel="replies" type="text/html" href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62"/>
+      <itunes:duration>01:04:12</itunes:duration>
+      <atom:author>
+        <atom:name>Artem Zinnatullin</atom:name>
+      </atom:author>
+      <atom:author>
+        <atom:name>Hannes Dorfmann</atom:name>
+      </atom:author>
+      <atom:contributor>
+        <atom:name>Alexey Tsvetkov</atom:name>
+      </atom:contributor>
+      <content:encoded>
+        <![CDATA[
+          <h1>Episode 9, Part 2: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov</h1>
+          <ul>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen and subscribe</a></li>
+          <li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62">Discussion after the episode</a></li>
+          </ul>
+          <p>In the second part of episode 9 we have talked about build systems for android development: Gradle, Buck and Bazel</p>
+          <h2>Guests</h2>
+          <ul>
+          <li>Alexey Tsvetkov: <a href="https://twitter.com/tsvtkv">Twitter</a></li>
+          </ul>
+          <h2>Hosts</h2>
+          <ul>
+          <li>Artem Zinnatullin: <a href="https://twitter.com/artemzin">Twitter</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a>, <a href="https://artemzin.com">website</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">website</a></li>
+          </ul>
+          <h2>Notes</h2>
+          <p><strong>Important note for Pocket Casts app users:</strong>
+          Thanks to the great support of Pocket Casts team we were able to fix the &quot;download episodes issue&quot; (see show nodes of episode 9, part 1).</p>
+          <p>We have continued our discussion with Alexey Tsvetkov. In the second part we have talked about build systems for android development.</p>
+          <p>We have talked about:</p>
+          <ul>
+          <li><a href="https://gradle.org">Gradle</a></li>
+          <li><a href="https://buckbuild.com">Buck</a></li>
+          <li><a href="https://bazel.build">Bazel</a></li>
+          </ul>
+          <h3>Additional links:</h3>
+          <ul>
+          <li><a href="https://github.com/uber/okbuck">OkBuck</a></li>
+          <li><a href="http://fragmentedpodcast.com/episodes/68/">Fragmented Podcast, Episode 68: Talking Buck with Uber engineer Gautam Korlam</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+    </item>
+  </channel>
+</rss>

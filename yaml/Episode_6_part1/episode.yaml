@@ -1,0 +1,15 @@
+guid: https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3
+title: "Episode 6, Part1: Continuous Integration (CI) & Continuous Delivery (CD)"
+description: In this episode we have talked about Continious Integration (CI) and Continuous Delivery (CD). Fernando Cejas gives us some insights how Soundcloud do CI and CD.
+peopleIds: 
+  hosts: [Artem, Hannes]
+  guests: [FernandoCejas]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_6_part1.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/49
+date: 2016-08-22
+duration: 43:14
+file: 
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.6.part1.mp3
+  length: 62473519
+
+

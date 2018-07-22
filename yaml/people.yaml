@@ -1,0 +1,92 @@
+- id: Artem
+  name: Artem Zinnatullin
+  twitter: artemzin
+  github: artem-zinnatullin
+  website: https://artemzin.com
+
+- id: Artur
+  name: Artur Dryomov
+  twitter: arturdryomov 
+  github: ming13
+  website: https://arturdryomov.online
+
+- id: Hannes
+  name: Hannes Dorfmann
+  twitter: sockeqwe 
+  github: sockeqwe
+  website: http://hannesdorfmann.com
+
+- id: MikeEvans
+  name: Mike Evans
+  twitter: m_evans10
+  github: MichaelEvans
+  website: http://michaelevans.org
+
+- id: DavidKarnok
+  name: David Karnok
+  twitter: akarnokd
+  github: akarnokd
+  website: http://akarnokd.blogspot.com
+
+- id: ChrisLacy
+  name: Chris Lacy
+  twitter: chrismlacy
+
+- id: JoeBirch
+  name: Joe Birch
+  twitter: hitherejoe
+  github: hitherejoe
+  website: https://joebirch.co
+
+- id: FernandoCejas
+  name: Fernando Cejas
+  twitter: fernando_cejas
+  github: android10
+  website: http://fernandocejas.com
+
+- id: FelipeLima
+  name: Felipe Lima
+  twitter: felipecsl
+  github: felipecsl
+  website: https://medium.com/@felipecsl
+
+- id: PacoEstevez
+  name: Paco Estevez
+  twitter: pacoworks
+  github: pacoworks
+  website: https://www.pacoworks.com
+
+- id: AlexeyTsvetkov
+  name: Alexey Tsvetkov
+  twitter: tsvtkv
+
+- id: DmitryJemerov
+  name: Dmitry Jemerov
+  twitter: intelliyole
+
+- id: LukasOlsen
+  name: Lukas Olsen
+
+- id: ChristianBahl
+  name: Christian Bahl
+  twitter: christian_bahl
+
+- id: EricKuck
+  name: Eric Kuck
+  twitter: eric_kuck
+  github: EricKuck
+
+- id: DmitrySavchenko
+  name: Dmitry Savchenko
+  github: dsav
+
+- id: BenoitQuenaudon
+  name: Benoît Quenaudon
+  twitter: oldergod
+  github: oldergod
+  website: https://benoitquenaudon.com
+
+- id: AlexeyAlexeev
+  name: Alexey Alexeev
+  website: https://www.linkedin.com/in/alexeev-alexey-6a83a88/
+  
