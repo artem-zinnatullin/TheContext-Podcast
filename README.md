@@ -32,7 +32,7 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
-##### Episode 20, Part 2: public final Agile
+##### Episode 21: Rx Must Die
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_21.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/99)
 
