@@ -1390,10 +1390,10 @@
 				</ul>]]></itunes:summary>
     </item>
 	<item>
-      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3</guid>
-      <title>Episode 20, Part 2: public final Agile</title>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3</guid>
+      <title>Episode 21: Rx Must Die</title>
       <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_21.md</link>
-      <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97" rel="replies" type="text/html" />
+      <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/99" rel="replies" type="text/html" />
       <itunes:duration>01:03:12</itunes:duration>
       <pubDate>Wed, 1 August 2018 09:36:00 EST</pubDate>
       <enclosure length="60920969" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3" />
@@ -1420,7 +1420,7 @@
 				<li><a href="https://twitter.com/kevinmcdonagh">Kevin McDonagh</a>, Novoda</li>	
 				</ul>
 
-				<p>Thanks droidcon Berlin and the local Berlin android community for supporting us.</p>
+				<p>Thanks droidcon Berlin and the local Berlin android community for collaborating with us.</p>
 	  ]]></itunes:summary>
     </item>
   </channel>

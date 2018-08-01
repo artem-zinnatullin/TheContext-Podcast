@@ -17,4 +17,4 @@ This time we have a special episode: we have recorded a panel discussion at droi
 
 * [Kevin McDonagh](https://twitter.com/kevinmcdonagh), Novoda
 
-Thanks droidcon Berlin and the local Berlin android community for supporting us.
+Thanks droidcon Berlin and the local Berlin android community for collaborating with us.
