@@ -4,7 +4,14 @@
 
 * [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/99)
 
-This time we have a special episode: we have recorded a panel discussion at droidcon Berlin 2018 (June 25) with the name Rx Must Die.
+This time we have a special episode!
+
+We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary, many thanks droidcon Berlin 👍
+
+This particular episode is a panel discussion with a very controversial title "Rx Must Die".
+As you might know, all hosts of The Context podcast have very warm feelings about Rx and it was not an easy job for us to comment, Hannes and Artur were strong enough but Artem had to bail out (oof).
+
+We hope you enjoy this episode and find things to think about, remember if you want to discuss them — we have discussions on GitHub (link above)!
 
 **Pannelists:**
 
