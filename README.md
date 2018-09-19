@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 23: Rise of the Machines
+- [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_23.md)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/103)
+
 ##### Episode 22: Women in Tech
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_22.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/101)
