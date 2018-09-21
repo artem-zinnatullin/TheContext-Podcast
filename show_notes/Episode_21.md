@@ -1,4 +1,4 @@
-# Episode 21: Rx Must Die
+# Episode 21: Rx Must Die (droidcon Berlin 2018)
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
@@ -24,4 +24,4 @@ We hope you enjoy this episode and find things to think about, remember if you w
 
 * [Kevin McDonagh](https://twitter.com/kevinmcdonagh), Novoda
 
-Thanks droidcon Berlin and the local Berlin android community for collaborating with us.
+Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.

@@ -1391,13 +1391,13 @@
     </item>
 	<item>
       <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3</guid>
-      <title>Episode 21: Rx Must Die</title>
+      <title>Episode 21: Rx Must Die (droidcon Berlin 2018)</title>
       <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_21.md</link>
       <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/99" rel="replies" type="text/html" />
       <itunes:duration>01:03:12</itunes:duration>
       <pubDate>Wed, 1 August 2018 09:36:00 EST</pubDate>
       <enclosure length="60920969" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3" />
-      <itunes:summary><![CDATA[<h1>Episode 21: Rx Must Die</h1>
+      <itunes:summary><![CDATA[<h1>Episode 21: Rx Must Die (droidcon Berlin 2018)</h1>
 
 				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
 
@@ -1427,18 +1427,18 @@
 				<li><a href="https://twitter.com/kevinmcdonagh">Kevin McDonagh</a>, Novoda</li>
 				</ul>
 
-				<p>Thanks droidcon Berlin and the local Berlin android community for collaborating with us.</p>
+				<p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
 	  ]]></itunes:summary>
     </item>
 	<item>
       <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.22.mp3</guid>
-      <title>Episode 22: Women in Tech</title>
+      <title>Episode 22: Women in Tech (droidcon Berlin 2018)</title>
       <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_22.md</link>
       <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/101" rel="replies" type="text/html" />
       <itunes:duration>51:23</itunes:duration>
       <pubDate>Fri, 17 August 2018 09:36:00 EST</pubDate>
       <enclosure length="43425533" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.22.mp3" />
-      <itunes:summary><![CDATA[<h1>Episode 22: Women in Tech</h1>
+      <itunes:summary><![CDATA[<h1>Episode 22: Women in Tech (droidcon Berlin 2018)</h1>
 
 				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
 
@@ -1464,7 +1464,44 @@
 				<li><a href="https://de.linkedin.com/in/daniela-gausmann">Daniela Gausmann</a>, ObjectBox</li>
 				</ul>
 
-				<p>Thanks droidcon Berlin and the local Berlin android community for collaborating with us.</p>
+				<p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
+	  ]]></itunes:summary>
+    </item>
+	<item>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.23.mp3</guid>
+      <title>Episode 23: Rise of the Machines (droidcon Berlin 2018)</title>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_23.md</link>
+      <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/103" rel="replies" type="text/html" />
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Wed, 19 September 2018 09:30:00 EST</pubDate>
+      <enclosure length="48276037" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.23.mp3" />
+      <itunes:summary><![CDATA[<h1>Episode 23: Rise of the Machines (droidcon Berlin 2018)</h1>
+
+				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/103">Discussion after the episode</a></li>
+				</ul>
+
+				<p>We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary, many thanks droidcon Berlin 👍</p>
+
+				<p><strong>Pannelists:</strong></p>
+
+				<ul>
+				<li><a href="https://twitter.com/silviacambie">Silvia Cambie</a>, IBM</li>
+				<li><a href="https://twitter.com/androidian60">Jürgen Fey</a>, Androidian </li>
+				<li><a href="https://twitter.com/meghafon">Meghan Kane</a>, Novoda</li>
+				<li><a href="https://twitter.com/hoitab">Hoi Lam</a>, Google</li>
+				<li>Dr. Roman Belter, APPSfactory</li>
+				</ul>
+
+				<p><strong>Panel Host:</strong></p>
+
+				<ul>
+				<li><a href="https://twitter.com/kevinmcdonagh">Kevin McDonagh</a>, Novoda</li>
+				</ul>
+
+				<p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
 	  ]]></itunes:summary>
     </item>
   </channel>
