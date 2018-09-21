@@ -1,4 +1,4 @@
-# Episode 23: Rise of the Machines
+# Episode 23: Rise of the Machines (droidcon Berlin 2018)
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
@@ -18,4 +18,4 @@ We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking
 
 * [Kevin McDonagh](https://twitter.com/kevinmcdonagh), Novoda
 
-Thanks droidcon Berlin and the local Berlin android community for collaborating with us.
+Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.

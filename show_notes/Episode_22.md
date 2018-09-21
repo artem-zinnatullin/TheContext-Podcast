@@ -1,4 +1,4 @@
-# Episode 22: Women in Tech
+# Episode 22: Women in Tech (droidcon Berlin 2018)
 
 ### [How to listen & subscribe](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
@@ -18,4 +18,4 @@ We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking
 
 * [Daniela Gausmann](https://de.linkedin.com/in/daniela-gausmann), ObjectBox
 
-Thanks droidcon Berlin and the local Berlin android community for collaborating with us.
+Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.
