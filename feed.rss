@@ -1504,5 +1504,49 @@
 				<p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
 	  ]]></itunes:summary>
     </item>
+	<item>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.24.mp3</guid>
+      <title>Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich</title>
+      <link>https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_24.md</link>
+      <atom:link href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/105" rel="replies" type="text/html" />
+      <itunes:duration>01:01:38</itunes:duration>
+      <pubDate>Thu, 27 September 2018 09:30:00 EST</pubDate>
+      <enclosure length="52048516" type="audio/mpeg" url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.24.mp3" />
+      <itunes:summary><![CDATA[<h1>Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich</h1>
+
+				<h3><a href="https://github.com/artem-zinnatullin/TheContext-Podcast">How to listen &amp; subscribe</a></h3>
+
+				<ul>
+				<li><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/105">Discussion after the episode</a></li>
+				</ul>
+
+				<p><strong>Announcement:</strong> Please participate in <a href="https://docs.google.com/forms/d/1YMv1bn4jXBw9ozoW1q7mCoHTnmCDEh0OYhlRbLAgS1o/viewform">this survey</a> to give us feedback how we can make this podcast better.</p>
+
+				<p>In this episode Artem and Hannes chatted with Jesse and Egor from Square about multiplatform development with Kotlin. They shared their experience of migrating Okio to Kotlin and which strategies they have applied to make it multiplatform ready.</p>
+
+				<h4>Guest:</h4>
+
+				<ul>
+				<li>Jesse Wilson <a href="https://twitter.com/jessewilson">@jessewilson</a>, <a href="https://publicobject.com">Blog</a>, <a href="https://github.com/swankjesse">GitHub</a></li>
+				<li>Egor Andreevich <a href="https://twitter.com/EgorAnd">@EgorAnd</a>, <a href="https://blog.egorand.me">Blog</a>, <a href="https://github.com/Egorand">GitHub</a></li>
+				</ul>
+
+				<h4>Hosts:</h4>
+
+				<ul>
+				<li>Artem Zinnatullin <a href="https://twitter.com/artem_zin">@artem_zin</a>, <a href="http://artemzin.com">personal blog</a>, <a href="https://github.com/artem-zinnatullin">GitHub</a></li>
+				<li>Hannes Dorfmann <a href="https://twitter.com/sockeqwe">@sockeqwe</a>, <a href="http://hannesdorfmann.com">personal blog</a>, <a href="https://github.com/sockeqwe">GitHub</a></li>
+				</ul>
+
+				<h4>Additional links:</h4>
+
+				<ul>
+				<li><a href="https://github.com/square/okio">Okio on Github</a></li>
+				<li><a href="https://medium.com/square-corner-blog/okio-2-6f6c35149525">Announcing Okio 2: Our fast + simple I/O library, Okio, has a new release that supports Kotlin.</a></li>
+				<li><a href="https://github.com/melix/japicmp-gradle-plugin">JApicmp: binary compatibility reporting</a></li>
+				<li><a href="https://docs.google.com/forms/d/1YMv1bn4jXBw9ozoW1q7mCoHTnmCDEh0OYhlRbLAgS1o/viewform">The Context Podcast Survey: Help us make the show better</a></li>
+				</ul>
+	  ]]></itunes:summary>
+    </item>
   </channel>
 </rss>
