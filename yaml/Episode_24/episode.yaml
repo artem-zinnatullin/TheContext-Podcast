@@ -1,0 +1,13 @@
+id: https://artemzin.com/static/thecontext/episodes/The.Context.episode.24.mp3
+title: "Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich"
+description: "In this episode Artem and Hannes chatted with Jesse and Egor from Square about multiplatform development with Kotlin."
+peopleIds: 
+  hosts: [Artem, Hannes]
+  guests: [JesseWilson, EgorAndreevich]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_24.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/105
+date: 2018-09-27
+duration: 01:01:38
+file: 
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.24.mp3
+  length: 52048516

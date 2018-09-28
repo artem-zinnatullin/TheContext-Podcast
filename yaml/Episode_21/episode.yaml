@@ -1,0 +1,13 @@
+id: https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3
+title: "Episode 21: Rx Must Die (droidcon Berlin 2018)"
+description: "We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary."
+peopleIds: 
+  hosts: [KevinMcDonagh]
+  guests: [JoannesOrgis, IvanMorgillo, HasanHosgel, AshDavis]
+url: https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_21.md
+discussionUrl: https://github.com/artem-zinnatullin/TheContext-Podcast/issues/99
+date: 2018-08-01
+duration: 01:03:12
+file: 
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.21.mp3
+  length: 60920969

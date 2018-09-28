@@ -1,4 +1,4 @@
-guid: https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3
+id: https://artemzin.com/static/thecontext/episodes/The.Context.episode.11.mp3
 title: "Episode 11: Migration to RxJava 2 with Artur Dryomov from Juno"
 description: "We've talked to Artur about Juno's way to migrate their Android Riders App from RxJava 1 to RxJava 2."
 peopleIds: 

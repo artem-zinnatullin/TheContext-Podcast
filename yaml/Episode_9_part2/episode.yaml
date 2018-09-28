@@ -1,4 +1,4 @@
-guid: https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3
+id: https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part2.mp3
 title: "Episode 9, Part 2: Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov"
 description: "In the second part of episode 9 we have talked about build systems for android development: Gradle, Buck and Bazel"
 peopleIds: 
