@@ -10,7 +10,7 @@ STORAGE_PRIVATE_KEY_FILE="storage.key"
 
 # Use GitHub API to get the release file URL associated with a Git tag.
 
-RELEASE="$(curl \
+RELEASE_JSON="$(curl \
   --silent \
   --fail \
   --show-error \
@@ -19,16 +19,16 @@ RELEASE="$(curl \
   "https://api.github.com/repos/${TRAVIS_REPO_SLUG}/releases/tags/${TRAVIS_TAG}"
 )"
 
-RELEASE_FILE="$(
-  echo "${RELEASE}" | jq --raw-output "
+RELEASE_FILE_JSON="$(
+  echo "${RELEASE_JSON}" | jq --raw-output "
     .assets |
     .[] |
     select(.content_type = \"${RELEASE_FILE_CONTENT_TYPE}\")
   "
 )"
 
-RELEASE_FILE_URL="$(echo "${RELEASE_FILE}" | jq --raw-output ".browser_download_url")"
-RELEASE_FILE_NAME="$(echo "${RELEASE_FILE}" | jq --raw-output ".name")"
+RELEASE_FILE_URL="$(echo "${RELEASE_FILE_JSON}" | jq --raw-output ".browser_download_url")"
+RELEASE_FILE_NAME="$(echo "${RELEASE_FILE_JSON}" | jq --raw-output ".name")"
 
 # Download the release file.
 
@@ -41,6 +41,7 @@ curl \
 
 # Upload the release file to the remote location.
 
-echo "${STORAGE_PRIVATE_KEY}" >> "${STORAGE_PRIVATE_KEY_FILE}"
-scp "${RELEASE_FILE_NAME}" ${STORAGE_USER}@${STORAGE_HOST}:${STORAGE_PATH} -i "${STORAGE_PRIVATE_KEY_FILE}"
-rm "${STORAGE_PRIVATE_KEY_FILE}"
+trap rm "${STORAGE_PRIVATE_KEY_FILE}" EXIT
+
+echo "${STORAGE_PRIVATE_KEY}" > "${STORAGE_PRIVATE_KEY_FILE}"
+scp -i "${STORAGE_PRIVATE_KEY_FILE}" "${RELEASE_FILE_NAME}" ${STORAGE_USER}@${STORAGE_HOST}:${STORAGE_PATH}
