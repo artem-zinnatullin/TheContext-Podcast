@@ -32,7 +32,7 @@ RELEASE_FILE_NAME="$(echo "${RELEASE_FILE_JSON}" | jq --raw-output ".name")"
 
 # Force remove every file we are going to create.
 
-trap 'rm -f "${RELEASE_FILE_NAME}" && rm -f ${STORAGE_PRIVATE_KEY_FILE}' EXIT
+trap 'rm -f "${RELEASE_FILE_NAME}" "${STORAGE_PRIVATE_KEY_FILE}"' EXIT
 
 # Download the release file.
 
