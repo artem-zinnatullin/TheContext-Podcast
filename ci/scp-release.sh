@@ -8,7 +8,7 @@ set -eu
 RELEASE_FILE_CONTENT_TYPE="audio/mpeg"
 STORAGE_PRIVATE_KEY_FILE="storage.key"
 
-# Use GitHub API to get the release file URL associated with a Git tag.
+# Use GitHub API to get the release file name and URL associated with a Git tag.
 
 RELEASE_JSON="$(curl \
   --silent \
@@ -30,6 +30,10 @@ RELEASE_FILE_JSON="$(
 RELEASE_FILE_URL="$(echo "${RELEASE_FILE_JSON}" | jq --raw-output ".browser_download_url")"
 RELEASE_FILE_NAME="$(echo "${RELEASE_FILE_JSON}" | jq --raw-output ".name")"
 
+# Force remove every file we are going to create.
+
+trap 'rm -f "${RELEASE_FILE_NAME}" && rm -f ${STORAGE_PRIVATE_KEY_FILE}' EXIT
+
 # Download the release file.
 
 curl \
@@ -39,9 +43,7 @@ curl \
   --location "${RELEASE_FILE_URL}" \
   --output "${RELEASE_FILE_NAME}"
 
-# Upload the release file to the remote location.
-
-trap rm "${STORAGE_PRIVATE_KEY_FILE}" EXIT
+# Upload the release file to the storage.
 
 echo "${STORAGE_PRIVATE_KEY}" > "${STORAGE_PRIVATE_KEY_FILE}"
 scp -i "${STORAGE_PRIVATE_KEY_FILE}" "${RELEASE_FILE_NAME}" ${STORAGE_USER}@${STORAGE_HOST}:${STORAGE_PATH}
