@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Sun, 13 Jan 2019 17:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 17:39:30 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1193,6 +1193,37 @@
           </ul>
           <p><strong>Discussion</strong></p>
           <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/105">Give us your opinion on the episode</a>!</p>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 25: How It’s Made — Freeletics</title>
+      <description>This episode is starting the new series about Android applications development. Hannes and Artur are talking about the company Hannes works in and how they do it here.</description>
+      <pubDate>Wed, 23 Jan 2019 09:30:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.25.mp3</guid>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.25.mp3" length="47769219" type="audio/mpeg"/>
+      <itunes:duration>01:06:00</itunes:duration>
+      <content:encoded>
+        <![CDATA[
+          <p>This episode is starting the new series about Android applications development. Hannes and Artur are talking about the company Hannes works in and how they do it here.</p>
+          <p>Links:</p>
+          <ul>
+          <li><a href="https://www.freeletics.com">Freeletics</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/John_Locke">John Locke</a></li>
+          <li><a href="https://insert-koin.io/">Koin</a></li>
+          <li><a href="https://github.com/freeletics/RxRedux">RxRedux</a></li>
+          <li><a href="https://github.com/freeletics/CoRedux">CoRedux</a></li>
+          <li><a href="https://github.com/sockeqwe/mosby">Mosby</a></li>
+          <li><a href="https://martinfowler.com/bliki/TestPyramid.html">The Test Pyramid</a></li>
+          <li><a href="https://freeletics.engineering/">Freeletics Engineering Blog</a></li>
+          </ul>
+          <p><strong>Hosts</strong></p>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">blog</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">blog</a></li>
+          </ul>
+          <p><strong>Discussion</strong></p>
+          <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/111">Give us your opinion on the episode</a>!</p>
         ]]>
       </content:encoded>
     </item>
