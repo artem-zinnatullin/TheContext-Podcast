@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Thu, 31 Jan 2019 22:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 23:59:05 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -152,7 +152,7 @@
       <description>In the second part of the episode we continued the discussion about RxJava.</description>
       <pubDate>Wed, 16 Mar 2016 20:52:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
-      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.3.part2.mp3" length="63658598" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.3.part2.mp3" length="54085821" type="audio/mpeg"/>
       <itunes:duration>00:37:30</itunes:duration>
       <content:encoded>
         <![CDATA[
