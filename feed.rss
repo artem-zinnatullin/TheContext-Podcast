@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Sun, 27 Jan 2019 20:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 23:59:05 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -21,7 +21,7 @@
       <description>In this episode we have talked about software architecture on Android.</description>
       <pubDate>Thu, 04 Feb 2016 20:04:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3</guid>
-      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_1/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.1.mp3" length="83400224" type="audio/mpeg"/>
       <itunes:duration>00:57:55</itunes:duration>
       <content:encoded>
         <![CDATA[
@@ -67,7 +67,7 @@
       <description>In this episode we have talked about testing in Android Development.</description>
       <pubDate>Fri, 26 Feb 2016 06:25:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3</guid>
-      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.2.mp3" length="146938181" type="audio/mpeg"/>
       <itunes:duration>01:42:01</itunes:duration>
       <content:encoded>
         <![CDATA[
@@ -120,7 +120,7 @@
       <description>In this part of the episode we have talked about RxJava.</description>
       <pubDate>Wed, 09 Mar 2016 00:00:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3</guid>
-      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_1/The.Context.episode.3.Part1.mp3" length="63658598" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.3.part1.mp3" length="63658598" type="audio/mpeg"/>
       <itunes:duration>00:44:12</itunes:duration>
       <content:encoded>
         <![CDATA[
@@ -152,7 +152,7 @@
       <description>In the second part of the episode we continued the discussion about RxJava.</description>
       <pubDate>Wed, 16 Mar 2016 20:52:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3</guid>
-      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3" length="63658598" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.3.part2.mp3" length="54085821" type="audio/mpeg"/>
       <itunes:duration>00:37:30</itunes:duration>
       <content:encoded>
         <![CDATA[
@@ -183,7 +183,7 @@
       <description>In this episode we have talked about Indie Development.</description>
       <pubDate>Sun, 01 May 2016 05:44:07 +0000</pubDate>
       <guid>https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3</guid>
-      <enclosure url="https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.4.mp3" length="97552116" type="audio/mpeg"/>
       <itunes:duration>01:07:44</itunes:duration>
       <content:encoded>
         <![CDATA[
@@ -1198,14 +1198,14 @@
     </item>
     <item>
       <title>Episode 25: How It’s Made — Freeletics</title>
-      <description>We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering.</description>
+      <description>This episode is starting a series about Android application development. Hannes and Artur are talking about how Freeletics, the company Hannes works in, does product engineering.</description>
       <pubDate>Wed, 23 Jan 2019 09:30:00 +0000</pubDate>
       <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.25.mp3</guid>
       <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.25.mp3" length="47769219" type="audio/mpeg"/>
       <itunes:duration>01:06:00</itunes:duration>
       <content:encoded>
         <![CDATA[
-          <p>We are starting a new series about Android application development. Hannes and Artur are talking about how Freeletics (the company Hannes works in) does android development and product engineering.</p>
+          <p>This episode is starting a series about Android application development. Hannes and Artur are talking about how Freeletics, the company Hannes works in, does product engineering.</p>
           <p>Links:</p>
           <ul>
           <li><a href="https://www.freeletics.com">Freeletics</a></li>
