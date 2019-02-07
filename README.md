@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 25: How it's made -- Freeletics
+- [Show notes](https://thecontext.github.io/website/episodes/25-how-its-made-freeletics/)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/111)
+
 ##### Episode 24: Ok Multiplatform with Jesse Wilson and Egor Andreevich
 - [Show notes](https://github.com/artem-zinnatullin/TheContext-Podcast/blob/master/show_notes/Episode_24.md)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/105)
