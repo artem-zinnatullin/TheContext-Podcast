@@ -32,7 +32,11 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
-##### Episode 25: How it's made -- Freeletics
+##### Episode 26: How It's Made — Juno
+- [Show notes](https://thecontext.github.io/website/episodes/26-how-its-made-juno/)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/114)
+
+##### Episode 25: How It's Made — Freeletics
 - [Show notes](https://thecontext.github.io/website/episodes/25-how-its-made-freeletics/)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/111)
 
