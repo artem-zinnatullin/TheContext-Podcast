@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Sat, 02 Feb 2019 23:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 11:35:08 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1225,6 +1225,43 @@
           </ul>
           <p><strong>Discussion</strong></p>
           <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/111">Give us your opinion on the episode</a>!</p>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 26: How It’s Made — Juno</title>
+      <description>We continue our How It’s Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering.</description>
+      <pubDate>Mon, 11 Feb 2019 23:30:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.26.mp3</guid>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.26.mp3" length="47189210" type="audio/mpeg"/>
+      <itunes:duration>01:05:10</itunes:duration>
+      <content:encoded>
+        <![CDATA[
+          <p>We continue our How It’s Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering.</p>
+          <p>Links:</p>
+          <ul>
+          <li><a href="https://en.wikipedia.org/wiki/Technical_support#Multi-tiered_technical_support">Multi-tiered technical support</a></li>
+          <li><a href="https://artemzin.com/blog/git-ftfy-branching-model-continuation-of-git-flow-considered-harmful/">Git branching model</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Rolling_release">Rolling release</a></li>
+          <li><a href="https://youtrack.jetbrains.com/issue/KT-14984">Kotlin SAM (single abstract method) issue</a></li>
+          <li><a href="https://github.com/lyft/domic">Domic — UI abstraction, similar to internal Juno one</a></li>
+          <li><a href="https://martinfowler.com/bliki/PresentationDomainDataLayering.html">Multi-tier architecture</a></li>
+          <li><a href="https://github.com/gradle/kotlin-dsl">Gradle Kotlin DSL</a></li>
+          <li><a href="https://github.com/buildfoundation/mainframer">Mainframer</a></li>
+          <li><a href="https://www.bitrise.io/">Bitrise</a></li>
+          <li><a href="https://www.elastic.co/">Elasticsearch</a></li>
+          <li><a href="https://grafana.com/">Grafana</a></li>
+          <li><a href="https://gojuno.com/careers/">Juno Careers</a></li>
+          <li><a href="https://speakerdeck.com/arturdryomov/kotlin-max-payne-voxxed-days-minsk-may-2018">Artur’s slides about Juno Kotlin experiences</a></li>
+          <li><a href="https://arturdryomov.online/">Artur’s blog with details about IoC, Reactive approaches and more</a></li>
+          </ul>
+          <p><strong>Hosts</strong></p>
+          <ul>
+          <li>Artur Dryomov: <a href="https://twitter.com/arturdryomov">Twitter</a>, <a href="https://github.com/ming13">GitHub</a>, <a href="https://arturdryomov.online">blog</a></li>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">blog</a></li>
+          </ul>
+          <p><strong>Discussion</strong></p>
+          <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/114">Give us your opinion on the episode</a>!</p>
         ]]>
       </content:encoded>
     </item>
