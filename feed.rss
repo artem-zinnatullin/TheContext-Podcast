@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Mon, 25 Feb 2019 08:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 08:35:39 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1267,14 +1267,14 @@
     </item>
     <item>
       <title>Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox</title>
-      <description>Hannes talked to Sebastian Kaspari how Firefox builds reusable components.</description>
+      <description>Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox.</description>
       <pubDate>Sun, 24 Feb 2019 10:30:00 +0000</pubDate>
       <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.27.mp3</guid>
       <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.27.mp3" length="44519542" type="audio/mpeg"/>
       <itunes:duration>01:01:28</itunes:duration>
       <content:encoded>
         <![CDATA[
-          <p>Hannes talked to Sebastian Kaspari how Firefox builds reusable components.</p>
+          <p>Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox.</p>
           <p>Links:</p>
           <ul>
           <li><a href="https://github.com/mozilla-mobile/android-components">Mozilla Android Components</a></li>
