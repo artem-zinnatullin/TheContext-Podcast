@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Tue, 12 Feb 2019 11:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 08:35:39 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1262,6 +1262,36 @@
           </ul>
           <p><strong>Discussion</strong></p>
           <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/114">Give us your opinion on the episode</a>!</p>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox</title>
+      <description>Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox.</description>
+      <pubDate>Sun, 24 Feb 2019 10:30:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.27.mp3</guid>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.27.mp3" length="44519542" type="audio/mpeg"/>
+      <itunes:duration>01:01:28</itunes:duration>
+      <content:encoded>
+        <![CDATA[
+          <p>Hannes talked to Sebastian Kaspari how Mozilla builds reusable android components for Firefox.</p>
+          <p>Links:</p>
+          <ul>
+          <li><a href="https://github.com/mozilla-mobile/android-components">Mozilla Android Components</a></li>
+          <li><a href="https://mozac.org">Mozilla Android Components Documentation</a></li>
+          <li><a href="https://docs.gradle.org/current/userguide/composite_builds.html">Gradle Composite Builds</a></li>
+          <li><a href="https://wiki.mozilla.org/Mobile/GeckoView">GeckoView</a></li>
+          </ul>
+          <p><strong>Guests</strong></p>
+          <ul>
+          <li>Sebastian Kaspari: <a href="https://twitter.com/Anti_Hype">Twitter</a>, <a href="https://github.com/pocmo">GitHub</a></li>
+          </ul>
+          <p><strong>Hosts</strong></p>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">blog</a></li>
+          </ul>
+          <p><strong>Discussion</strong></p>
+          <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/116">Give us your opinion on the episode</a>!</p>
         ]]>
       </content:encoded>
     </item>
