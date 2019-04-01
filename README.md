@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox
+- [Show notes](https://thecontext.github.io/website/episodes/27-reusable-components-firefox/)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/116)
+
 ##### Episode 26: How It's Made — Juno
 - [Show notes](https://thecontext.github.io/website/episodes/26-how-its-made-juno/)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/114)
