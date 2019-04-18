@@ -32,6 +32,10 @@ Hosts: Artem Zinnatullin [@artem_zin](https://twitter.com/artem_zin), Hannes Dor
 
 ### [Episodes](https://github.com/artem-zinnatullin/TheContext-Podcast/releases)
 
+##### Episode 28: Fun with Canvas with Rebecca Franks from Over
+- [Show notes](https://thecontext.github.io/website/episodes/28-fun-with-canvas/)
+- [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/119)
+
 ##### Episode 27: Reusable Components with Sebastian Kaspari from Mozilla Firefox
 - [Show notes](https://thecontext.github.io/website/episodes/27-reusable-components-firefox/)
 - [Discussion after the episode](https://github.com/artem-zinnatullin/TheContext-Podcast/issues/116)
