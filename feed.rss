@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Mon, 25 Feb 2019 08:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2019 23:28:39 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1292,6 +1292,38 @@
           </ul>
           <p><strong>Discussion</strong></p>
           <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/116">Give us your opinion on the episode</a>!</p>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 28: Fun with Canvas with Rebecca Franks from Over</title>
+      <description>Hannes talked to Rebecca Franks how the Over android app uses canvas to create an interactive editor.</description>
+      <pubDate>Thu, 18 Apr 2019 10:30:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.28.mp3</guid>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.28.mp3" length="40994714" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <content:encoded>
+        <![CDATA[
+          <p>Hannes talked to Rebecca Franks how the Over android app uses canvas to create an interactive editor.</p>
+          <p>Rebecca shared some tips and tricks how to work efficiently with Canvas, Bitmaps, which architecture Rebecca's team has chosen and how they test their app.</p>
+          <p>Links:</p>
+          <ul>
+          <li><a href="https://riggaroo.co.za/android-canvas-apis-with-kotlin-and-ktx/">Android Canvas APIs with Kotlin and KTX</a></li>
+          <li><a href="https://riggaroo.co.za/building-responsive-resizable-android-uis-for-chromeos/">Building Responsive / Resizable Android UIs for ChromeOS</a></li>
+          <li><a href="https://twitter.com/riggaroo/status/1105027835842957314">Graphical editor with masking</a></li>
+          <li><a href="https://twitter.com/riggaroo/status/1105027835842957314">Animations with MotionLayout inside the Over app</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=app.over.editor">Over Android App</a></li>
+          </ul>
+          <p><strong>Guests</strong></p>
+          <ul>
+          <li>Rebecca Franks: <a href="https://twitter.com/riggaroo">Twitter</a>, <a href="https://github.com/riggaroo">GitHub</a>, <a href="https://riggaroo.co.za">blog</a></li>
+          </ul>
+          <p><strong>Hosts</strong></p>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">blog</a></li>
+          </ul>
+          <p><strong>Discussion</strong></p>
+          <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/119">Give us your opinion on the episode</a>!</p>
         ]]>
       </content:encoded>
     </item>
