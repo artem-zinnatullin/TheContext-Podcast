@@ -18,7 +18,7 @@ We hope you enjoy this episode and find things to think about, remember if you w
 * Joannes Orgis, Microsoft Todo
 * [Ivan Morgillo](https://twitter.com/hamen), Asana Rebel
 * [Hasan Hosgel](https://twitter.com/alosdev), Lab1886 - Mercedes-Benz
-* [Ash Davis](https://twitter.com/_ashdavies), ImmobilienScout24
+* [Ash Davies](https://twitter.com/askashdavies), ImmobilienScout24
 
 **Panel Host:**
 
