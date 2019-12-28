@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Thu, 18 Apr 2019 23:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 14:00:48 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1092,7 +1092,7 @@
           <p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
           <p><strong>Guests</strong></p>
           <ul>
-          <li>Ash Davis</li>
+          <li>Ash Davies: <a href="https://twitter.com/askashdavies">Twitter</a></li>
           <li>Hasan Hosgel: <a href="https://twitter.com/alosdev">Twitter</a></li>
           <li>Ivan Morgillo: <a href="https://twitter.com/hamen">Twitter</a>, <a href="https://github.com/hamen">GitHub</a></li>
           <li>Joannes Orgis</li>
@@ -1311,7 +1311,7 @@
           <li><a href="https://riggaroo.co.za/android-canvas-apis-with-kotlin-and-ktx/">Android Canvas APIs with Kotlin and KTX</a></li>
           <li><a href="https://riggaroo.co.za/building-responsive-resizable-android-uis-for-chromeos/">Building Responsive / Resizable Android UIs for ChromeOS</a></li>
           <li><a href="https://twitter.com/riggaroo/status/1105027835842957314">Graphical editor with masking</a></li>
-          <li><a href="https://twitter.com/riggaroo/status/1105027835842957314">Animations with MotionLayout inside the Over app</a></li>
+          <li><a href="https://twitter.com/riggaroo/status/1100360450435358721">Animations with MotionLayout inside the Over app</a></li>
           <li><a href="https://play.google.com/store/apps/details?id=app.over.editor">Over Android App</a></li>
           </ul>
           <p><strong>Guests</strong></p>
@@ -1324,6 +1324,39 @@
           </ul>
           <p><strong>Discussion</strong></p>
           <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/119">Give us your opinion on the episode</a>!</p>
+        ]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Episode 29: How It’s Made — Babylon Health</title>
+      <description>Hannes talked to Sakis Kaliakoudas how Babylon Health build their Apps.</description>
+      <pubDate>Sat, 28 Dec 2019 10:30:00 +0000</pubDate>
+      <guid>https://artemzin.com/static/thecontext/episodes/The.Context.episode.29.mp3</guid>
+      <enclosure url="https://artemzin.com/static/thecontext/episodes/The.Context.episode.29.mp3" length="55206516" type="audio/mpeg"/>
+      <itunes:duration>01:16:40</itunes:duration>
+      <content:encoded>
+        <![CDATA[
+          <p>Hannes talked to Sakis Kaliakoudas how Babylon Health build their Apps.</p>
+          <p>Sakis shared how the Babylon Health Android app is architected by using MVI and clean architecture, how they document their code base, how the CI pipeline looks like, how feature teams are organized and much more.</p>
+          <p>Links:</p>
+          <ul>
+          <li><a href="https://github.com/babylonhealth/orbit-android-mvi">Orbit Android MVI</a> to build MVI android applications.</li>
+          <li><a href="https://medium.com/babylon-engineering">Babylon Health Engineering Blog</a></li>
+          <li><a href="https://github.com/babylonhealth/certificate-transparency-android">Certificate transparency security library</a></li>
+          <li><a href="https://github.com/appmattus/markdown-lint">Markdown Lint</a></li>
+          <li><a href="https://github.com/TNG/ArchUnit">ArchUnit</a></li>
+          <li><a href="https://github.com/babylonhealth/android-playbook">Open Source Hiring Document</a></li>
+          </ul>
+          <p><strong>Guests</strong></p>
+          <ul>
+          <li>Sakis Kaliakoudas: <a href="https://twitter.com/skaliakoudas">Twitter</a>, <a href="https://github.com/athkalia">GitHub</a></li>
+          </ul>
+          <p><strong>Hosts</strong></p>
+          <ul>
+          <li>Hannes Dorfmann: <a href="https://twitter.com/sockeqwe">Twitter</a>, <a href="https://github.com/sockeqwe">GitHub</a>, <a href="http://hannesdorfmann.com">blog</a></li>
+          </ul>
+          <p><strong>Discussion</strong></p>
+          <p><a href="https://github.com/artem-zinnatullin/TheContext-Podcast/issues/123">Give us your opinion on the episode</a>!</p>
         ]]>
       </content:encoded>
     </item>
