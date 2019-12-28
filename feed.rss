@@ -5,7 +5,7 @@
     <description>Talks about Android development and related topics.</description>
     <language>en</language>
     <link>https://github.com/artem-zinnatullin/TheContext-Podcast</link>
-    <lastBuildDate>Sat, 28 Dec 2019 13:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 14:00:48 +0000</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
@@ -1092,7 +1092,7 @@
           <p>Thanks droidcon Berlin and the local Berlin Android community for collaborating with us.</p>
           <p><strong>Guests</strong></p>
           <ul>
-          <li>Ash Davis</li>
+          <li>Ash Davies: <a href="https://twitter.com/askashdavies">Twitter</a></li>
           <li>Hasan Hosgel: <a href="https://twitter.com/alosdev">Twitter</a></li>
           <li>Ivan Morgillo: <a href="https://twitter.com/hamen">Twitter</a>, <a href="https://github.com/hamen">GitHub</a></li>
           <li>Joannes Orgis</li>
